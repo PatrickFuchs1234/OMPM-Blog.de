@@ -11,10 +11,10 @@ social:
   facebook_url:
   twitter_username: 
 design: 
-  dark-text_color: 'rgb(60,60,65)'
-  medium-text_color: 'rgb(90,90,95)'
+  dark-text_color: '#301F0F'
+  medium-text_color: '#C68546'
   light-text_color: '#F9F2EB'
-  featured-text_color: 'red'
+  featured-text_color: '#606C38'
   dark_color: '#301F0F'
   medium_color: '#C68546'
   light_color: '#F9F2EB'

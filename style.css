@@ -104,11 +104,16 @@ section { position: relative; }
 .bg-v-light  { background-color: var(--v-light); }
 
 .bg-image {
-    background-color: var(--light); /* Set a fall-back color while images are loading */ 
+    background-color: var(--medium); /* Set a fall-back color while images are loading */ 
     background-image: url('https://source.unsplash.com/8Ogfqvw15Rg/1600x1600');
     background-size: cover;
     background-position: center; 
     background-repeat: no-repeat;
+}
+
+bg-image-circle{
+  border-radius: 1rem, 2rem;
+  margin-right: -10rem;
 }
 
 .bg-overlay::after {
@@ -119,8 +124,8 @@ section { position: relative; }
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0,0,0,0.5);
-}
+  background-image: linear-gradient(90deg, rgba(255, 255, 255, 1), rgba(0, 0, 0, 0));
+} 
 
 
 .bg-overlay > * {
@@ -129,8 +134,8 @@ section { position: relative; }
 }
 /* Add a second class to change the color or style  */
 
-.bg-overlay-gradient::after { 
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0));
+.bg-overlay-gradient::before { 
+  background-image: linear-gradient(90deg, rgba(255, 255, 255, 1), rgba(0, 0, 0, 0));
 } 
 
 .bg-overlay-featured::after { 
@@ -164,14 +169,16 @@ a.bg-image { display: block;}
 
 body {
   font-family: 'Mulish', serif;  /* Add your font here */ 
+  background-color: var(--light);
   color: var(--dark-text);
 }
 
-h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
   margin-bottom: 1.2rem;
 }
 
+h1 { font-size: 3rem; }
 h2 { font-size: 2rem; }
 h3 { font-size: 1.8rem; }
 h4 { font-size: 1.6rem; }
@@ -189,7 +196,7 @@ p, li {
 h2:last-child, 
 h3:last-child, 
 h4:last-child, 
-h5:last-child, 
+h5:last-child,
 h6:last-child, 
 p:last-child {
 	margin-bottom: 0;
