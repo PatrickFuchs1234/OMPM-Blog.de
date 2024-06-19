@@ -43,7 +43,15 @@ style="background-image: url('/images/ines-alvarez-fdez-_HHjiseEuGw-unsplash\(1\
             <p> now that we have been traveling for quite a while, we want to share our tips and tricks</p>
         </div>
 
-        {% include latest-posts-loop.html%}
+        {% for post in site.posts limit:3 %}
+
+            {% include post-loop-item-portrait.html %}
+
+        {% endfor %}
+
+        <div class="col-12 center padded-t">
+            <a href="/blog" class="button"> View more</a>
+        </div>
     </div>
 </section>
 
