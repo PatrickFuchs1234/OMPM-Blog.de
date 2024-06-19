@@ -2,9 +2,12 @@ collections:
   posts:
     output: true
     permalink: /posts/:year/:slug
+  diaries:
+    output: true
   archives: 
     output: true
     permalink: /:title
+
     
     
 _options:
