@@ -17,14 +17,15 @@ img { max-width: 100%; height: auto; }
 
 section { position: relative; }
 
+/* temporary color variables - outsource to inline styles and data later */
 :root {
-  --dark-brown: '#915E2D';
-  --medium-brown: '#C68546';
-  --light-brown: '#DDB691';
-  --dark-green: '#606C38';
-  --medium-green: '#91A95A';
-  --light-green: '#D4DDBE';
-  --light-creme: '#F9F2EB';
+  --dark-brown: #915E2D;
+  --medium-brown: #C68546;
+  --light-brown: #DDB691;
+  --dark-green: #606C38;
+  --medium-green: #91A95A;
+  --light-green: #D4DDBE;
+  --light-creme: #F9F2EB;
 }
 
 /* ---------- Negative Space Utility Classes  ------------------ */ 
@@ -114,13 +115,13 @@ section { position: relative; }
 .bg-light    { background-color: var(--light); }
 .bg-v-light  { background-color: var(--v-light); }
 
-.bg-dark-brown: { background-color: var(--dark-brown);}
-.bg-medium-brown: { background-color: var(--medium-brown);}
-.bg-light-brown: { background-color: var(--light-brown);}
-.bg-dark-green: { background-color: var(--dark-green);}
-.bg-medium-green: { background-color: var(--medium-green);}
-.bg-light-green: { background-color: var(--light-green);}
-.bg-light-creme: { background-color: var(--light-creme);}
+.bg-dark-brown { background-color: var(--dark-brown);}
+.bg-medium-brown { background-color: var(--medium-brown);}
+.bg-light-brown { background-color: var(--light-brown);}
+.bg-dark-green { background-color: var(--dark-green);}
+.bg-medium-green { background-color: var(--medium-green);}
+.bg-light-green { background-color: var(--light-green);}
+.bg-light-creme { background-color: var(--light-creme);}
 
 
 

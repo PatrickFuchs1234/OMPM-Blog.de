@@ -22,7 +22,7 @@ style="background-image: url('/images/ines-alvarez-fdez-_HHjiseEuGw-unsplash\(1\
 </section>
 
 <!-- Hallo Banner -->
-<section class="bg-light-brown text-light grid padded tall-60">
+<section class="bg-light-green text-dark grid padded tall-60">
 
     <div class="col-6-middle">
         <h2> Nice having you here. </h2>
@@ -43,30 +43,8 @@ style="background-image: url('/images/ines-alvarez-fdez-_HHjiseEuGw-unsplash\(1\
             <p> now that we have been traveling for quite a while, we want to share our tips and tricks</p>
         </div>
 
-        <!-- {% assign featured_posts = site.posts | where: 'featured', true %} -->
-        {% for post in site.posts limit:3 %}
-
-            <div class="col-4 post-item padded-1">
-                <div class="bg-image portrait" style="background-image:url( '{{ post.featured_image }}' );"></div>
-                <div class="padded-t-1">
-                    
-                    {% for item in post.categories %}
-                        <span class="tag"> {{item}} </span>
-                    {% endfor %}
-
-                    <h2 class="margin-t-1"> {{ post.title }} </h2>
-                    <p> {{ post.description }} </p>
-                    <a href="{{ post.url }}" class="subtle-button"> Read More </a>
-
-                </div>
-            </div>
-
-        {% endfor %}
-        <div class="col-12 center padded-t">
-            <a href="/blog" class="button"> View more</a>
-        </div>
+        {% include latest-posts-loop.html%}
     </div>
-
 </section>
 
 <!------------------------ Banner  ------------------------>

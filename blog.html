@@ -20,11 +20,8 @@ seo:
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, quaerat necessitatibus? Praesentium fugit ex neque magni, possimus, iste itaque voluptatem id doloremque voluptas consequatur dolor cumque! Dolores possimus laboriosam adipisci.</p>
     </div>
 
-        {% for post in site.posts limit:3 %}
+            {% include latest-posts-loop.html %}
 
-            {% include post-loop-item-square.html %}
-
-        {% endfor %}
 
     </div>
 
@@ -54,6 +51,9 @@ seo:
 
         {% endfor %}
 
+        <div class="col-12 center padded-t">
+            <a href="/blog" class="button"> View more</a>
+        </div>
     </div>
 
 
