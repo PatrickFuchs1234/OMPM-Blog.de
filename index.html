@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Homepage
-category: Asia
 seo:
   title: 
   description:
@@ -16,32 +15,36 @@ seo:
 style="background-image: url('/images/ines-alvarez-fdez-_HHjiseEuGw-unsplash\(1\).jpg'); background-position: 0 35%;">
 
     <div class="col-12-middle">
-        <h2> Welcome to your new favourite blog </h2>
-        <p class="emphasis"> Find your travelguid or just listen to our storries. </p>
-    </div>
-
+        <h2> Wilkommen auf deinem neuen Lieblingsblog! </h2>
+        <p class="emphasis hide-sm"> Hier findest du unsere wichtigsten Erfahrungen oder einfach ein paar Reisegeschichten. </p>
+        <!-- Find your travelguid or just listen to our storries. -->
+    </div> 
 </section>
 
 <!-- Hallo Banner -->
-<section class="bg-light-green text-dark grid padded tall-60">
+<section class="bg-light-green text-dark grid tall-60">
 
-    <div class="col-6-middle">
-        <h2> Nice having you here. </h2>
-        <p class="emphasis"> We're Jenny and Patrick Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam consequatur odio, alias facere quis repellendus deserunt ea porro distinctio deleniti quasi magni. </p>
+    <div class="col-6-middle_sm-12 padded">
+        <h2> Schön, dass du da bist! </h2>
+        <p class="emphasis"> Wir sind Jenny & Pati. In den letzten drei Jahren waren wir Teilzeit in unserem Van Marshall in Europa unterwegs. Jetzt haben wir unsere Jobs an den Nagel gehängt und wollen Vollzeit die Welt erkunden. Auf unserem Blog berichten wir von unseren Erlebnissen und Abenteuern. </p>
+        <div class="padded-t sm-center sm-padded-1">
+            <a href="/about.html" class="button">Mehr über uns</a>
+        </div> 
     </div>
-    <div class="col-6-middle">
+    <div class="col-6-middle_sm-12 padded sm-padded-lr-0>
         <div class="bg-image landscape" style="background-image: url('/images/caleb-ekeroth-wSBQFWF77lI-unsplash\(1\).jpg');">
         </div>
     </div>
 </section>
 
-<!------------------------ Featured blog loop ------------------------>
+<!------------------------ Latest Blog loop ------------------------>
 <section class="padded">
     <div class="capped-width-narrow grid-center">
 
         <div class="col-12 padded-05 center margin-b-1">
-            <h2> Our new Guides </h2>
-            <p> now that we have been traveling for quite a while, we want to share our tips and tricks</p>
+            <h2> Unsere neuesten Travelguides. </h2>
+            <p> Wir haben unsere wichtigsten Erfahrungen und tollsten Erlebnisse für dich zusammengefasst.</p>
+            <!-- now that we have been traveling for quite a while, we want to share our tips and tricks -->
         </div>
 
         {% for post in site.posts limit:3 %}
@@ -51,7 +54,7 @@ style="background-image: url('/images/ines-alvarez-fdez-_HHjiseEuGw-unsplash\(1\
         {% endfor %}
 
         <div class="col-12 center padded-t">
-            <a href="/blog" class="button"> View more</a>
+            <a href="/blog" class="button"> Mehr anzeigen</a>
         </div>
     </div>
 </section>
@@ -60,17 +63,17 @@ style="background-image: url('/images/ines-alvarez-fdez-_HHjiseEuGw-unsplash\(1\
 <section class="bg-featured padded grid tall-50">
 
     <div class="col-12-middle center text-light">
-        <h1> experience the adventure with us </h1>
+        <h1> Erlebe das nächste Abenteuer gemainsam mit uns. </h1>
     </div>
 
 </section>
 
-<!------------------------ Featured blog loop ------------------------>
+<!------------------------ Latest Traveldiary loop ------------------------>
 <section class="padded">
     <div class="capped-width-v-narrow grid-spaceAround-center">
         <div class="col-12 padded-05 center margin-b-1">
-            <h2> Our Adventures </h2>
-            <p> We love to share all we have seen and experianced by now.</p>
+            <h2> Unsere Geschichten </h2>
+            <p> In unserem Tagebuch erzählen wir laufend unsere Erlebnisse auf Reisen. </p>
         </div>
         {% assign travel-diaries = site.diaries | where_exp:"diary", "true" %}
         {% for diary in travel-diaries limit:3 %}
@@ -85,12 +88,12 @@ style="background-image: url('/images/ines-alvarez-fdez-_HHjiseEuGw-unsplash\(1\
 
                 <h2 class="margin-t-1"> {{ diary.title }} </h2>
                 <p> {{ diary.description }} </p>
-                <a href="{{ diary.url }}" class="subtle-button"> Read More </a>
+                <a href="{{ diary.url }}" class="subtle-button"> weiterlesen </a>
 
             </div>
         {% endfor %}
     </div>
     <div class="col-12 center padded-t">
-        <a href="/blog" class="button"> View more</a>
+        <a href="/diary-archive.html" class="button"> Mehr anzeigen</a>
     </div>
 </section>

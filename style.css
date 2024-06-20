@@ -26,6 +26,7 @@ section { position: relative; }
   --medium-green: #91A95A;
   --light-green: #D4DDBE;
   --light-creme: #F9F2EB;
+  --background: #fefcfa;
 }
 
 /* ---------- Negative Space Utility Classes  ------------------ */ 
@@ -195,7 +196,7 @@ a.bg-image { display: block;}
 
 body {
   font-family: 'Mulish', serif;  /* Add your font here */ 
-  background-color: #fefcfa;
+  background-color: var(--background);
   color: var(--dark-text);
 }
 
@@ -204,7 +205,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 1.2rem;
 }
 
-h1 { font-size: 3rem; }
+h1 { font-size: 2.6rem; }
 h2 { font-size: 2rem; }
 h3 { font-size: 1.8rem; }
 h4 { font-size: 1.6rem; }
@@ -309,7 +310,6 @@ nav a:hover {
 .dropdown { 
   position: relative; 
   display: inline-block;
-  border: 1px solid orange;
 }
 
 .dropdown-title {
@@ -320,14 +320,13 @@ nav a:hover {
 .dropdown-content {
   position: absolute;
   top: 100%;
-  left: -1rem;
+  left: 0rem;
   padding: 0.5rem;
   display:none; 
-  background-color: white;
+  background-color: var(--background);
   z-index: 2;
   text-align: left;
   min-width: 10rem;
-  border: 1px solid mediumvioletred;
 }
 
 .dropdown:hover .dropdown-content{ 
@@ -346,17 +345,17 @@ nav a:hover {
     font-weight: 200;
     font-size: 2.5rem;
     line-height: 0.8;
-    position: fixed;
+    /* position: fixed;
     right: 5%;
-    top: 0rem;
+    top: 1rem; */
     z-index: 4;
+    margin-right: -1rem;
   }
   
   /* Styles when the hamburger button is active  */
   .hamburger-button.active {
-    color: white;
+    color: var(--medium-green);
   }
-  
   
   .mobile-menu {
     display: none; 
@@ -364,7 +363,7 @@ nav a:hover {
     padding: 5%;
     position: fixed; 
     z-index:3;
-    top: 0;
+    top: 5rem;
     bottom: 0;
     left: 0;
     right: 0;
@@ -377,6 +376,7 @@ nav a:hover {
     padding: 2%;
     display: block;
     font-weight: normal;
+    border-bottom: 1px solid var(--dark-text);
   }
 
 /* Contact Form */
@@ -550,9 +550,9 @@ hr.short.center {
 	.show-sm { display: block; }
 	.hide-sm { display: none;  }
 
-  .sm-text-center { text-align: center; }
-  .sm-text-left   { text-align: left; }
-  .sm-text-right  { text-align: right; }
+  .sm-center { text-align: center; }
+  .sm-left   { text-align: left; }
+  .sm-right  { text-align: right; }
 
   .sm-padded     { padding: 5%; }
   .sm-padded-1   { padding: 1rem; }
@@ -560,8 +560,10 @@ hr.short.center {
 
   .sm-padded-t-0 { padding-top: 0; }
   .sm-padded-b-0 { padding-bottom: 0; }
+  .sm-padded-lr-0 { padding-left: 0; padding-right: 0; }
   .sm-margin-t-0 { margin-top: 0; }
   .sm-margin-b-0 { margin-bottom: 0; }
+
 
   .sm-landscape     { padding-bottom: 66% ; }
   .sm-portrait-tall { padding-bottom: 175%; }
