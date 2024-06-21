@@ -520,9 +520,9 @@ hr.short.center {
 
 /* General CSS Responsive Styles (Apply everywhere unless overriden) */ 
 
-.show-xs, 
-.show-sm,
-.show-md {
+.xs-show, 
+.sm-show,
+.md-show {
 	display: none; 
 }
 
@@ -536,8 +536,8 @@ hr.short.center {
 
 @media(max-width:64em) {
 
-	.show-md { display: block; }
-	.hide-md { display: none;  }
+	.md-show { display: block; }
+	.md-hide { display: none;  }
 
 }
 
@@ -547,14 +547,18 @@ hr.short.center {
 
 @media(max-width:48em) {
 
-	.show-sm { display: block; }
-	.hide-sm { display: none;  }
+.logo { font-size: 2rem;}
+
+	.sm-show { display: block; }
+	.sm-hide { display: none;  }
+  .sm-show-flex { display: flex; }
 
   .sm-center { text-align: center; }
   .sm-left   { text-align: left; }
   .sm-right  { text-align: right; }
 
-  .sm-padded     { padding: 5%; }
+  .sm-padded     { padding: 5%; } 
+  .sm-padded-l    { padding: 10%; }
   .sm-padded-1   { padding: 1rem; }
   .sm-padded-05  { padding: 0.5rem; }
 
@@ -563,7 +567,11 @@ hr.short.center {
   .sm-padded-lr-0 { padding-left: 0; padding-right: 0; }
   .sm-margin-t-0 { margin-top: 0; }
   .sm-margin-b-0 { margin-bottom: 0; }
+  .sm-margin-0 { margin: 0; }
 
+  .sm-padded-0 { padding: 0; }
+  .sm-padded-t { padding-top: 5%; }
+  .sm-padded-b { padding-bottom: 5%; }
 
   .sm-landscape     { padding-bottom: 66% ; }
   .sm-portrait-tall { padding-bottom: 175%; }
@@ -577,8 +585,8 @@ hr.short.center {
 
 @media(max-width:36em) {
 
-		.show-xs { display: block; }
-		.hide-xs { display: none;  }
+		.xs-show { display: block; }
+		.xs-hide { display: none;  }
 
     .subtle-heading-xs {
       font-weight: 300;
