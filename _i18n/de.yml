@@ -1,0 +1,15 @@
+global:
+  short: DE
+  tagline: Deutsch
+  about: Sobre
+  twitter: Twitter
+  github: GitHub
+  diary: Reisetagebuch
+langs:
+  en: English
+  de: Deutsch
+pages:
+  example: Ejemplo
+  includeexample: El siguiente texto es un parámetro de Jekyll include liquid tag
+titles:
+  pagination: Paginación

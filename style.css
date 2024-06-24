@@ -278,7 +278,7 @@ p a:hover {
 
 /* ------------ Header & Hamburger Menu -------------- */
 header {
-    padding: 1rem 5% 1rem 1rem;
+    padding: 1rem 1rem 1rem 1rem;
 }
 
 nav a {
@@ -304,6 +304,16 @@ nav a:hover {
   font-size: 2.5rem;
 } 
 
+/* translation navigator style */
+span.dropdown-t-title {
+  border-bottom: 1px solid var(--dark-text);
+
+}
+span.dropdown-t-title {
+  padding: 0;
+  margin: 0.25rem 0.5rem;
+}
+
 
 /* Dropdown styles */
 
@@ -311,12 +321,10 @@ nav a:hover {
   position: relative; 
   display: inline-block;
 }
-
 .dropdown-title {
   padding: 0.25rem 0.5rem;
   display: inline-block;
 }
-
 .dropdown-content {
   position: absolute;
   top: 100%;
@@ -328,15 +336,43 @@ nav a:hover {
   text-align: left;
   min-width: 10rem;
 }
-
 .dropdown:hover .dropdown-content{ 
   display: block;
 }
-
 .dropdown-content a {
   display: block;
   padding: 0.2rem;
 }
+
+/* Dropdown styles for translation button */
+
+.dropdown-t { 
+  position: relative; 
+  display: inline-block;
+}
+.dropdown-t-title {
+  padding: 0.25rem 0.5rem;
+  display: inline-block;
+}
+.dropdown-t-content {
+  position: absolute;
+  top: 100%;
+  right: 0rem;
+  padding: 0.5rem;
+  display:none; 
+  background-color: var(--background);
+  z-index: 2;
+  text-align: left;
+  min-width: 5rem;
+}
+.dropdown-t:hover .dropdown-t-content{ 
+  display: block;
+}
+.dropdown-t-content a {
+  display: block;
+  padding: 0.2rem;
+}
+
 
 .hamburger-button {
     cursor: pointer;
