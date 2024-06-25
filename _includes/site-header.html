@@ -1,18 +1,18 @@
 
-<header class="grid-middle-spaceBetween text-dark">
+<header class="grid-middle text-dark">
 
   <!-------------- header LOGO-Picture and LOGO  -------------->
-  <div class="col-6_sm-3">
-    <div class="md-hide inline">
+  <div class="col-6_sm-10 grid">
+    <div class="xs-hide inline">
       <img src="/images/favicon.png" alt="logo" class="logo-img">
     </div>
-    <div class="inline">
+    <div class="col-middle inline">
       <a href="/" class="logo padded-05"> onememorypermile </a>
     </div>
   </div> 
 
   <!--------------- navigation bar ---------------------------->
-  <nav class="col-6_sm-9 sm-hide right">
+  <nav class="col-6 sm-hide right">
 
     <!-- dropdown menu blog-categories -->
     <div class="dropdown">
@@ -48,7 +48,7 @@
     </div>
   </nav> 
   <!-- hamburger menu button -->
-  <div class="col-7 right sm-show">
+  <div class="col-2 right sm-show">
     <a class="hamburger-button"> &#9776; </a>
   </div>
 </header>
@@ -56,19 +56,17 @@
   <div class="mobile-menu"> 
     <nav> 
       <!-- adding language swich to hamburger menu -->
-      <div class="inline mobile-language">
+      <!-- <div class="inline mobile-language"> -->
         <!-- Adding links to the other languages -->
-        {% for lang in site.languages %}
+        <!-- {% for lang in site.languages %}
           {% unless site.lang == lang %}
             {% if lang == site.default_lang and site.default_locale_in_subfolder != true %}
               <a href="{{ site.baseurl_root }}{{ page.url }}" >{% t langs.{{ lang }} %}</a>
-              <a href="/coming-soon.html">English</a>
-            <!-- {% else %}
-              <a href="{{ site.baseurl_root }}/{{ lang }}{{ page.url }}" >{% t langs.{{ lang }} %}</a> -->
+            {% else %} <a href="{{ site.baseurl_root }}/{{ lang }}{{ page.url }}" >{% t langs.{{ lang }} %}</a>
             {% endif %}
           {% endunless %}
         {% endfor %}
-      </div>
+      </div> -->
 
       <a href="/blog"> Blog </a>
       <a href="/diary-archive.html"> {%t global.diary%} </a>

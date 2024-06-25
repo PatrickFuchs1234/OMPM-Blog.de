@@ -17,6 +17,18 @@ img { max-width: 100%; height: auto; }
 
 section { position: relative; }
 
+/* colors */
+:root {
+  --dark-text: #272727;
+  --featured-text: #CD9C7a;
+  --light-text: white;
+  /* --dark: #AD8E78; */
+  --medium: #E8DFD9;
+  --light: #F6F3F1;
+  --v-light: #F6F3F1;
+  --featured: #AA7B5A;
+}
+
 /* ---------- Negative Space Utility Classes  ------------------ */ 
 
 .capped-width-wide      { max-width: 1600px; margin: auto; }
@@ -187,9 +199,9 @@ h6 { font-size: 1.2rem; }
 p, li {
   line-height: 1.4; 
   margin-bottom: 1rem;
-  font-family: 'Martel', serif; 
+  /* font-family: 'Martel', serif;  */
   font-weight: 200;
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 
 h2:last-child, 
@@ -212,6 +224,7 @@ p:last-child {
 /* ------------ Buttons & Links ------------ */
 a {
     color: inherit;
+    font-weight: 300;
 }
 
 a:hover {
@@ -232,7 +245,7 @@ p a:hover {
     text-decoration: none;
     line-height: 1;
     padding: 0.5rem 1.5rem;
-    border: 1px solid;
+    border: 1.4px solid;
 }
 
 .button:hover {
@@ -267,23 +280,27 @@ nav a:hover {
   height: 50px;
 }
 
+.logo {
+  text-decoration: none;
+  font-size: 2.2rem;
+} 
+
+/* footer styles */
+
 .logo-img-footer{
   height: 200px;
 }
 
-.logo {
-  text-decoration: none;
-  font-size: 2.5rem;
-} 
+.social-icons{
+  padding: 0.25rem 0.1rem;
+}
 
 /* translation navigator style */
 span.dropdown-t-title {
   border-bottom: 1px solid var(--dark-text);
-
-}
-span.dropdown-t-title {
   padding: 0;
   margin: 0.25rem 0.5rem;
+  font-weight: 300;
 }
 
 
@@ -405,7 +422,7 @@ form textarea {
  	width: 100%;
  	margin: 0.5rem 0;
 	padding: 0.5rem;
- 	border: 2px solid var(--dark);
+ 	border: 2px solid var(--medium);
  	outline: none;
  	font-family: inherit;
  	font-size: 0.9rem;
@@ -413,7 +430,7 @@ form textarea {
 
 form input:focus,
 form textarea:focus {
- 	border-color: var(--dark);
+ 	border-color: var(--featured);
 }
 
 textarea {
@@ -423,17 +440,21 @@ textarea {
 form label {
 	margin-top: 1rem;
  	display: block;
- 	color: var(--dark);
+ 	color: var(--featured);
  	font-weight: bold;
 }
 
-form .button {
-   	border: 2px solid var(--dark);
+form button {
+   	border: 2px solid var(--medium);
    	background: none;
-   	color: var(--dark);
+   	color: var(--featured);
    	font-weight: bold;
    	padding: 0.5rem 2rem;
    	margin-top: 1rem;
+}
+
+form button:hover {
+  border: 2px solid var(--featured);
 }
 
 .social{
@@ -556,6 +577,9 @@ hr.short.center {
 	.md-show { display: block; }
 	.md-hide { display: none;  }
 
+  .md-padded{ padding: 5%; } 
+
+  .md-padded-b{padding-bottom: 2rem;}
 }
 
 /* ------- SM Media Query (48em / 768px) --------------- */ 

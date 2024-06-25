@@ -11,12 +11,12 @@ seo:
 ---
 
 <!------------------------ Image Banner  ------------------------>
-<section class="grid bg-image bg-overlay center padded vh50">
+<section class="grid bg-medium center padded vh50">
 <!-- style="background-image: url('/images/ines-alvarez-fdez-_HHjiseEuGw-unsplash\(1\).jpg'); background-position: 0 35%;"> -->
 
     <div class="col-12-middle">
         <h2> Unser Reiseblog </h2>
-        <p class="emphasis"> all unsere Erlebnisse zusammengefasst </p>
+        <p> all unsere Erlebnisse zusammengefasst </p>
     </div>
 
 </section>
@@ -41,16 +41,8 @@ seo:
 </section>
 
 
-<!------------------------ CTA Banner  ------------------------>
-<section class="bg-featured text-light padded center"> 
-
-    <div class="capped-width-narrow">
-        <h2> A catchy heading </h2>
-        <p> This is a call-to-action to drive traffic somewhere important </p>
-        <a href="#" class="button"> Let's do this </a>
-    </div>
-
-</section> 
+ <!------------------------ Social links Banner  ------------------------>
+ {% include social-media-banner.html %}
 
 
 <!------------------------ Split blog loop (part 2) ------------------------>
@@ -71,7 +63,7 @@ seo:
     {% assign post_count = site.posts | size %}
     
     {% if post_count > 8 %}
-        <div class="center padded-t">
+        <div class="center padded-t md-padded-b">
             <a class="button" href="/blog-archive"> Mehr anzeigen </a>
         </div>
        
