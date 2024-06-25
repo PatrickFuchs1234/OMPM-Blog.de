@@ -1,13 +1,20 @@
 global:
-  short: DE
+# header text
   tagline: Deutsch
-  about: Sobre
-  twitter: Twitter
-  github: GitHub
+  short: DE
   diary: Reisetagebuch
+  about: Über uns
+  contact: Kontakt
+# footer text
+  footer-heading: Blog and Reisetagebuch
+  footer-p-1: In unserem Reiseblog können manche unserer Links Affiliate-Links sein. Das bedeut, wenn du über einen dieser Links eine Buchung tätigst, bekommen wir einen kleinen Anteil. Das kostet dich nichts extra, hilft uns aber unsere Website zu erhalten.
+  footer-p-2: Wir hoffen du hast gefunden was du gesucht hast. Danke für deinen Besuch! 
 langs:
   en: English
   de: Deutsch
+index:
+# evtl muss auch alles vom SEO in einer sprache eingegeben werden
+  h-image-banner: Willkommen auf deinem neuen Lieblingsblog!
 pages:
   example: Ejemplo
   includeexample: El siguiente texto es un parámetro de Jekyll include liquid tag

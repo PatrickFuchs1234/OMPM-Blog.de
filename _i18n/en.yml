@@ -1,13 +1,20 @@
 global:
-  short: EN
+# header text
   tagline: English
-  about: About
-  twitter: Twitter
-  github: GitHub
-  diary: Travel diary
+  short: EN
+  diary: Traveldiary
+  about: About Us
+  contact: Contact Us
+# footer text
+  footer-heading: Blog and Traveldiary
+  footer-p-1:   Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas rem nesciunt error recusandae ea esse, omnis alias cupiditate, aspernatur excepturi accusamus inventore repellat nisi! Quod totam nam sapiente corporis inventore?
+  footer-p-2: Amet consectetur adipisicing elit. Quas rem nesciunt error!
 langs:
   de: German
   en: English
+index:
+# evtl muss auch alles vom SEO in einer sprache eingegeben werden
+  h-image-banner: Wellcome to your new favourit Blog!
 pages:
   example: example
   includeexample: The following text is a Jekyll include liquid tag parameter

@@ -2,7 +2,7 @@
 layout: post
 title: Sydney
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum,
+  deutsch Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum,
   ab, eum dolore perspiciatis tenetur alias aspernatur
 author: PF
 featured: true

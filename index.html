@@ -15,7 +15,7 @@ seo:
 style="background-image: url('/images/ines-alvarez-fdez-_HHjiseEuGw-unsplash\(1\).jpg'); background-position: 0 35%;">
 
     <div class="col-12-middle">
-        <h2> Wilkommen auf deinem neuen Lieblingsblog! </h2>
+        <h2> {%t index.h-image-banner%} </h2>
         <p class="emphasis sm-hide"> Hier findest du unsere wichtigsten Erfahrungen oder einfach ein paar Reisegeschichten. </p>
         <!-- Find your travelguid or just listen to our storries. -->
     </div> 
@@ -55,7 +55,8 @@ style="background-image: url('/images/ines-alvarez-fdez-_HHjiseEuGw-unsplash\(1\
             {% endfor %}  
         </div>
 
-        <div class="col-12 sm-show-flex grid-spaceAround">
+        <!-- div for small devices -->
+        <div class="col-12-middle sm-show-flex grid-spaceAround">
             {% for post in site.posts limit:3 %}
             <div class="col-4-middle post-item padded-05">
                 <div class="bg-image square" style="background-image:url( '{{ post.featured_image }}' );"></div>

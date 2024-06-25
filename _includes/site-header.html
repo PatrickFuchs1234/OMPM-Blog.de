@@ -26,8 +26,8 @@
 
     <!-- navigation links -->
     <a href="/diary-archive.html"> {%t global.diary%} </a>
-    <a href="/about.html"> Über uns </a>
-    <a href="/contact.html"> Kontakt </a>
+    <a href="/about.html"> {%t global.about%} </a>
+    <a href="/contact.html"> {%t global.contact%} </a>
     
     <!-- dropdown language swich - multiple language plugin -->
     <div class="dropdown-t">
@@ -42,23 +42,6 @@
               <a href="{{ site.baseurl_root }}/{{ lang }}{{ page.url }}" >{% t langs.{{ lang }} %}</a>
             {% endif %}
           {% endfor %}
-          <!-- Adds links to other languages on the post
-          {% for lang in site.languages %}
-            {% unless site.lang == lang %}
-              {% if lang == site.default_lang and site.default_locale_in_subfolder != true %}
-                <a href="{{ site.baseurl_root }}{{ page.url }}" >{% t langs.{{ lang }} %}</a>
-              {% else %}
-                <a href="{{ site.baseurl_root }}/{{ lang }}{{ page.url }}" >{% t langs.{{ lang }} %}</a>
-              {% endif %}
-              
-              {% assign next = forloop.index | plus: 1 %}
-              
-              {% if forloop.last != true and site.languages[forloop.index] != site.lang or site.languages[forloop.index] == site.lang and next < forloop.length %}
-                <span class="separator"> &bull; </span>
-              {% endif %}
-              
-            {% endunless %}
-          {% endfor %} -->
         </div>
       </div>
     </div>
@@ -71,10 +54,25 @@
   
   <div class="mobile-menu"> 
     <nav> 
+      <!-- adding language swich to hamburger menu -->
+      <div class="inline mobile-language">
+        <!-- Adding links to the other languages -->
+        {% for lang in site.languages %}
+          {% unless site.lang == lang %}
+            {% if lang == site.default_lang and site.default_locale_in_subfolder != true %}
+              <a href="{{ site.baseurl_root }}{{ page.url }}" >{% t langs.{{ lang }} %}</a>
+            {% else %}
+              <a href="{{ site.baseurl_root }}/{{ lang }}{{ page.url }}" >{% t langs.{{ lang }} %}</a>
+            {% endif %}
+          {% endunless %}
+        {% endfor %}
+      </div>
+
       <a href="/blog"> Blog </a>
-      <a href="/diary-archive.html"> Reisetagebuch </a>
-      <a href="/about.html"> Über uns </a>
-      <a href="/contact.html"> Kontakt </a>
+      <a href="/diary-archive.html"> {%t global.diary%} </a>
+      <a href="/about.html"> {%t global.about%} </a>
+      <a href="/contact.html"> {%t global.contact%} </a>
+
     </nav>
   </div> 
 
@@ -85,3 +83,22 @@
               <a href="{{link.url}}"> {{ link.category | capitalize }} </a>
   {% endfor %}
 --> 
+
+
+<!-- old complete whole loop from plugin-website
+    {% for lang in site.languages %}
+      {% unless site.lang == lang %}
+        {% if lang == site.default_lang and site.default_locale_in_subfolder != true %}
+          <a href="{{ site.baseurl_root }}{{ page.url }}" >{% t langs.{{ lang }} %}</a>
+        {% else %}
+          <a href="{{ site.baseurl_root }}/{{ lang }}{{ page.url }}" >{% t langs.{{ lang }} %}</a>
+        {% endif %}
+        
+        {% assign next = forloop.index | plus: 1 %}
+        
+        {% if forloop.last != true and site.languages[forloop.index] != site.lang or site.languages[forloop.index] == site.lang and next < forloop.length %}
+          <span class="separator"> &bull; </span>
+        {% endif %}
+        
+      {% endunless %}
+    {% endfor %} -->

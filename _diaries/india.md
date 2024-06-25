@@ -1,8 +1,8 @@
 ---
 layout: post
-title: India
+title: Indien
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum,
+  Deitsch Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum,
   ab, eum dolore perspiciatis tenetur alias aspernatur
 author: PF
 featured: true
