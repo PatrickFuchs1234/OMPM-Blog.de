@@ -17,18 +17,6 @@ img { max-width: 100%; height: auto; }
 
 section { position: relative; }
 
-/* temporary color variables - outsource to inline styles and data later */
-:root {
-  --dark-brown: #915E2D;
-  --medium-brown: #C68546;
-  --light-brown: #DDB691;
-  --dark-green: #606C38;
-  --medium-green: #91A95A;
-  --light-green: #D4DDBE;
-  --light-creme: #F9F2EB;
-  --background: #fefcfa;
-}
-
 /* ---------- Negative Space Utility Classes  ------------------ */ 
 
 .capped-width-wide      { max-width: 1600px; margin: auto; }
@@ -37,14 +25,14 @@ section { position: relative; }
 .capped-width-v-narrow  { max-width: 800px;  margin: auto; }
 
 
-.tall-100 { min-height: 100vh; }
-.tall-90  { min-height: 90vh; }
-.tall-80  { min-height: 80vh; }
-.tall-70  { min-height: 70vh; }
-.tall-60  { min-height: 60vh; }
-.tall-50  { min-height: 50vh; }
-.tall-40  { min-height: 40vh; }
-.tall-30  { min-height: 30vh; }
+.vh100 { min-height: 100vh; }
+.vh90  { min-height: 90vh; }
+.vh80  { min-height: 80vh; }
+.vh70  { min-height: 70vh; }
+.vh60  { min-height: 60vh; }
+.vh50  { min-height: 50vh; }
+.vh40  { min-height: 40vh; }
+.vh30  { min-height: 30vh; }
 
 /* Padding Utility Classes */ 
 .padded-sm { padding: 2.5%; }
@@ -116,23 +104,9 @@ section { position: relative; }
 .bg-light    { background-color: var(--light); }
 .bg-v-light  { background-color: var(--v-light); }
 
-.bg-dark-brown { background-color: var(--dark-brown);}
-.bg-medium-brown { background-color: var(--medium-brown);}
-.bg-light-brown { background-color: var(--light-brown);}
-.bg-dark-green { background-color: var(--dark-green);}
-.bg-medium-green { background-color: var(--medium-green);}
-.bg-light-green { background-color: var(--light-green);}
-.bg-light-creme { background-color: var(--light-creme);}
-
-
-
-
-
-
-
 .bg-image {
     background-color: var(--medium); /* Set a fall-back color while images are loading */ 
-    background-image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg');
+    /* background-image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg'); */
     background-size: cover;
     background-position: center; 
     background-repeat: no-repeat;
@@ -196,7 +170,6 @@ a.bg-image { display: block;}
 
 body {
   font-family: 'Mulish', serif;  /* Add your font here */ 
-  background-color: var(--background);
   color: var(--dark-text);
 }
 
@@ -331,7 +304,7 @@ span.dropdown-t-title {
   left: 0rem;
   padding: 0.5rem;
   display:none; 
-  background-color: var(--background);
+  background-color: var(--light);
   z-index: 2;
   text-align: left;
   min-width: 10rem;
@@ -360,7 +333,7 @@ span.dropdown-t-title {
   right: 0rem;
   padding: 0.5rem;
   display:none; 
-  background-color: var(--background);
+  background-color: var(--light);
   z-index: 2;
   text-align: left;
   min-width: 5rem;
@@ -390,7 +363,7 @@ span.dropdown-t-title {
   
   /* Styles when the hamburger button is active  */
   .hamburger-button.active {
-    color: var(--medium-green);
+    color: var(--medium);
   }
   
   .mobile-menu {
@@ -433,7 +406,7 @@ form textarea {
  	width: 100%;
  	margin: 0.5rem 0;
 	padding: 0.5rem;
- 	border: 2px solid var(--dark-brown);
+ 	border: 2px solid var(--dark);
  	outline: none;
  	font-family: inherit;
  	font-size: 0.9rem;
@@ -441,7 +414,7 @@ form textarea {
 
 form input:focus,
 form textarea:focus {
- 	border-color: var(--dark-green);
+ 	border-color: var(--dark);
 }
 
 textarea {
@@ -451,14 +424,14 @@ textarea {
 form label {
 	margin-top: 1rem;
  	display: block;
- 	color: var(--dark-brown);
+ 	color: var(--dark);
  	font-weight: bold;
 }
 
 form .button {
-   	border: 2px solid var(--dark-brown);
+   	border: 2px solid var(--dark);
    	background: none;
-   	color: var(--dark-brown);
+   	color: var(--dark);
    	font-weight: bold;
    	padding: 0.5rem 2rem;
    	margin-top: 1rem;
@@ -497,7 +470,7 @@ form .button {
 
 .post-info {
   font-size: 0.8rem;
-  color: var(--medium-text);
+  color: var(--dark-text);
 }
 
 /* Individual Blog Post Pages  */
@@ -522,7 +495,7 @@ form .button {
 .sidebar-item {
   border: 2px solid var(--light);
   margin-bottom: 1rem;
-  color: var(--medium-text);
+  color: var(--dark-text);
 }
 .sidebar-item p {
   font-family: 'Mulish', serif; 
