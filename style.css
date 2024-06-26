@@ -295,6 +295,14 @@ nav a:hover {
   padding: 0.25rem 0.1rem;
 }
 
+.heading{
+  text-decoration: none;
+  border-bottom: 1px solid;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  margin: 1rem;
+}
+
 /* translation navigator style */
 span.dropdown-t-title {
   border-bottom: 1px solid var(--dark-text);
