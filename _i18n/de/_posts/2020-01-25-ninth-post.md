@@ -5,12 +5,12 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sun
 author: Catherine
 featured: true
 categories: [life, self care]
-featured_image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg')
+featured_image: /images/img1.jpg
 seo: 
-    title: 
-    description: 
-    social_image: 
-    keywords: 
+    title: post 9
+    description: post
+    social_image: /images/img1.jpg
+    keywords: post 9
     hide-from-google: false
 ---
 

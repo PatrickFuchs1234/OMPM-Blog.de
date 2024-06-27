@@ -1,12 +1,12 @@
 seo: 
   site_name: Tina's Amazing Blog
   title: Default SEO Title
-  description: 
-  keywords: 
-  social_image: 
-  author: 
+  description: Default description
+  keywords: Default
+  social_image: /images/favicon.png
+  author: PF
   favicon_image: /images/favicon.png
 social: 
-  instagram_username:
-  facebook_url:
-  twitter_username: 
+  instagram_username: https://www.instagram.com/onememorypermile
+  facebook_url: https://www.facebook.com/profile.php?id=61557339363740
+  pinterest: https://www.pinterest.com/onememorypermile/
