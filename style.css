@@ -261,7 +261,7 @@ p a:hover {
 - .button-inverted, .button-subtle, .button-lg  */
 
 
-/* ------------ Header & Hamburger Menu -------------- */
+/* ------------ Header -------------- */
 header {
     padding: 1rem 1rem 1rem 1rem;
 }
@@ -370,10 +370,11 @@ span.dropdown-t-title {
   padding: 0.2rem;
 }
 
+/* ------------ Hamburger Menu -------------- */
 
 .hamburger-button {
     cursor: pointer;
-    padding: 0.5rem;
+    padding: 0.5rem 2rem;
     display: inline-block;
     font-weight: 200;
     font-size: 2.5rem;
@@ -387,13 +388,13 @@ span.dropdown-t-title {
   
   /* Styles when the hamburger button is active  */
   .hamburger-button.active {
-    color: var(--medium);
+    color: var(--featured);
   }
   
   .mobile-menu {
     display: none; 
-    background-color: var(--featured);
-    padding: 15% 5%;
+    background-color: var(--medium);
+    padding: 5% 5%;
     position: fixed; 
     z-index:3;
     top: 5rem;
@@ -409,7 +410,8 @@ span.dropdown-t-title {
     padding: 2%;
     display: block;
     font-weight: normal;
-    border-bottom: 1px solid var(--dark-text);
+    text-transform: uppercase;
+    /* border-bottom: 1px solid var(--dark-text); */
   }
 
   .mobile-language{
@@ -531,6 +533,25 @@ form button:hover {
   font-weight: 300;
 }
 
+/* Sidebar stick */
+
+.relative{
+  position: relative;
+  /* display: flex; */
+}
+
+.SsideBarParent {
+  height: 100%;
+} 
+
+.sticky {
+  /* position: -webkit-sticky; for browser compatibility */
+  position: sticky;
+  top: 5%;
+}
+
+
+
 /* Social Share Nav  */
 
 .social-share a {
@@ -576,6 +597,7 @@ hr.short.center {
   display: inline-block;
   vertical-align: top;
 }
+
 
 /* ------- MD Media Query (64em / 1024px) --------------- */ 
 /* - Styles added here will apply at devices smaller than 576px, or zoomed in equivalent */ 
