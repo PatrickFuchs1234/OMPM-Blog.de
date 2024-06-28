@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Indien
-date: 01.01.2024
-permalink: /diaries/india
+title: Sri Lanka
 description: >-
-  Deitsch Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum,
+  Deutsch Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum,
   ab, eum dolore perspiciatis tenetur alias aspernatur
 author: PF
 featured: true

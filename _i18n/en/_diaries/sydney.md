@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Indien
-date: 01.01.2024
-permalink: /diaries/india
+title: Sydney
 description: >-
-  Deitsch Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum,
+  deutsch Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum,
   ab, eum dolore perspiciatis tenetur alias aspernatur
 author: PF
 featured: true
 categories:
-  - Asia
+  - Australia
 featured_image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg')
 seo:
   title:

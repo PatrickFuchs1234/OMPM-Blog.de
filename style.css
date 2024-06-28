@@ -471,6 +471,59 @@ form button:hover {
   font-size: 2rem;
   margin: 0 1rem;
 }
+/* ------------ Cookie banner Styles  ----------------------- */
+
+body.darkmode{
+  background-color: #272;
+  color:antiquewhite;
+}
+
+#cookie-notice {
+  padding: 0.5rem 1rem;
+  text-align: center;
+  position: fixed;
+  left: calc(-100% + 2rem);
+  right: calc(100% - 2rem);
+  bottom: 0;
+  background: #222;
+  color: rgba(255,255,255,0.8);
+  transition: all 2s;
+}
+#cookie-notice.active {
+  position: fixed;
+  left: 1rem;
+  right: 1rem;
+  width: calc(100% - 2rem);
+}
+#cookie-notice a {
+  display: inline-block;
+  cursor: pointer;
+  margin-left: 0.5rem;
+}
+#cookie-notice .button-subtle {
+opacity: 0.8;
+}
+
+#close-cookie-banner {
+padding: 1rem;
+cursor: pointer;
+font-size: 0.8rem;
+opacity: 0.5
+}
+
+button.unaccepted::before{
+  content: 'accept ';
+}
+button.accepted::before{
+  content: 'revoke';
+}
+body button.hide-button::before {
+  content: ''
+}
+body button.hide-button{
+  position: absolute;
+  right: 1rem;
+}
 
 /* ------------ Blogging elements  ----------------------- */
 

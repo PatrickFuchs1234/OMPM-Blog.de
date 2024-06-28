@@ -47,7 +47,7 @@ source 'https://rubygems.org'
 # test
 #######################################
 
-gem "jekyll"
+gem "jekyll", "4.2.2"
 gem "jekyll-paginate"
 gem "redcarpet"
 gem "jekyll-multiple-languages-plugin"

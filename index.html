@@ -98,8 +98,8 @@ seo:
             <h2> Unsere Geschichten </h2>
             <p> In unserem Tagebuch erzählen wir laufend unsere Erlebnisse auf Reisen. </p>
         </div>
-        {% assign travel-diaries = site.diaries | where_exp:"diary", "true" %}
-        {% for diary in travel-diaries limit:3 %}
+        <!-- {% assign travel-diaries = site.diaries | where_exp:"diary", "true" %} -->
+        {% for diary in site.diaries %}
             <div class="col-4-middle post-item padded-05">
                 <div class="bg-image square" style="background-image:url( '{{ diary.featured_image }}' );"></div>
             </div>
