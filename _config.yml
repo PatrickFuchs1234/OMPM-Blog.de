@@ -34,18 +34,3 @@ _options:
     image: true
     
 
-# Paginate
-paginate: 1
-paginate_path: "/pagination/page:num/"
-
-
-# Plugins
-plugins:
-  - jekyll-multiple-languages-plugin
-  - jekyll-paginate
-
-
-# jekyll-multiple-languages-plugin settings:
-languages: ["de", "en"]
-
-exclude_from_localizations: ["javascript", "images", "css", "scripts", "favicon.ico"]
