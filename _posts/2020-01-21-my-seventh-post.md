@@ -9,6 +9,7 @@ featured: true
 categories:
   - self care
   - food
+  
 featured_image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg')
 seo:
   title:
