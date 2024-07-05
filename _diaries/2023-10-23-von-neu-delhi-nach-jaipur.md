@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #5 Von Neu Delhi nach Jaipur
+title: '#5 Von Neu Delhi nach Jaipur'
 author: Jenny und Pati
 date: 2023-10-23 14:00:00
 categories:

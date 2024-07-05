@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #3 Erste Eindrücke aus Neu Delhi
+title: '#3 Erste Eindrücke aus Neu Delhi'
 author: Jenny und Pati
 date: 2023-10-19 14:35:00
 categories:

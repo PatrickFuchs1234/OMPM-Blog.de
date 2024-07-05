@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #2 Reisestart
+title: '#2 Reisestart'
 author: Jenny
 date: 2023-10-18 14:35:00
 categories:

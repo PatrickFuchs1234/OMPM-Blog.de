@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #1 Reisevorbereitungen
+title: '#1 Reisevorbereitungen'
 author: Pati
 date: 2023-10-16 18:31:00
 categories:
