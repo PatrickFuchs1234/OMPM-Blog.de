@@ -19,8 +19,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-<!-- links fehlen -->
-Wie auch schon von Indien, gibt es auch aus Sri Lanka noch einige unerzählte Geschichten und einige Outtakes, denen sich dieser Blogbeitrag widmet.
+Wie auch schon von [Indien](2023-12-28-outtakes-indien), gibt es auch aus Sri Lanka noch einige unerzählte Geschichten und einige Outtakes, denen sich dieser Blogbeitrag widmet.
 
 ### Kein Adapter
 

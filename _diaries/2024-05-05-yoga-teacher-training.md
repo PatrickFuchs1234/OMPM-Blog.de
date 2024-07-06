@@ -22,10 +22,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-<!-- links fehlen -->
-
-
-Insgesamt 22 Tage verbringen wir in Ubud beim Yoga Teacher Training. Nach einer super feinen Woche in Canggu sind wir bereit für drei Wochen intensives Training. Insgesamt werden 200 Stunden Yoga-Praxis und Yoga-Theorie in diesen 22 Tagen stattfinden. Frei haben wir nur eineinhalb Tage insgesamt.
+Insgesamt 22 Tage verbringen wir in Ubud beim Yoga Teacher Training. Nach einer super feinen Woche in [Canggu](2024-04-18-bali) sind wir bereit für drei Wochen intensives Training. Insgesamt werden 200 Stunden Yoga-Praxis und Yoga-Theorie in diesen 22 Tagen stattfinden. Frei haben wir nur eineinhalb Tage insgesamt.
 
 In der ersten Woche liegt der Fokus auf Ashtanga und Hatha Yoga. In der zweiten Woche auf Ashtanga und Vinyasa und in der letzten Woche auf Aerial Yoga. Ashtanga, Hatha und Vinyasa sind Formen des Yogas, die bei uns eigentlich am weitesten verbreitet und Allgemeinhin als Klassisches Yoga bekannt sind. Bei der letzten Variante, Aerial, haben wir auch nicht so ganz genau gewusst worauf wir uns einlassen. Auf Fotos und Videos haben wir gesehen, dass eine Hängematte von der Decke gehangen wird und man dann damit bzw. darin Yoga macht – hauptsächlich kopfüber-hängend. Große Lust hatten wir darauf nicht, aber die Daten und vor allem der Preis des Trainings haben beide so gut in unseren Plan gepasst, dass wir uns schließlich doch für diese Ausbildung entschieden haben.
 

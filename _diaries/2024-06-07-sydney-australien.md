@@ -19,7 +19,6 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-<!-- links fehlen -->
 Um 23:55 Uhr geht unser Flug von [Perth](2024-05-31-perth-australien) nach Sydney. Nach einer sehr langen Nacht kommen wir um 6 Uhr morgens an der Ostküste Australiens an. Dort wollen wir die nächsten drei Tage die Stadt erkunden.
 
 Allerdings machen wir uns zunächst einmal auf zu Linda und Steve, die wir über Couchsurfing kennengelernt haben und bei denen wir die nächsten Tage schlafen dürfen. Linda hat uns vorab bereits genau erklärt, wie wir zu ihnen – etwa eine Stunde außerhalb von Sydney – kommen. So machen wir uns vom Flughafen auf zum Hauptbahnhof, steigen dort um, und exakt nach einer Stunde kommen wir am Bahnhof in Turramurra an. Da wir immer noch keine SIM-Karte haben, rufen wir Linda von einer Telefonzelle am Bahnhof aus an. Telefonzellen kann man in ganz Australien gratis nutzen – wissen wir von Linda. Definitiv ein First, jemanden aus einer Telefonzelle aus anzurufen. 
@@ -28,7 +27,7 @@ Linda holt uns gleich darauf vom Bahnhof ab und wir gehen noch gemeinsam einkauf
 
 <!-- 1img -->
 
-Zuhause bei Linda und Steve versuchen wir zunächst, mit einem Power-Nap die fast schlaflose Nacht zu vergessen. Nach dieser kurzen Erholung bietet uns Linda an, mit uns eine kleine Runde durch die Stadt zu spazieren und uns Sydney zu zeigen. Wir fahren also zurück an die Stadtgrenze. Von dort aus spazieren wir über die Harbour-Bridge in Richtung Opernhaus. Zu Fuss# geht man dann doch eine ganze Weile über die 1,1km lange Brücke, was einem allerdings ausreichend Zeit gibt, die Skyline von Sydney zu bestaunen. Danach geht es direkt zum Opernhaus. Die eigentlich drei verschiedenen Häuser – Konzerthaus, Joan Sutherland Theater und ein Restaurant – sehen auch aus der Nähe wirklich atemberaubend aus.
+Zuhause bei Linda und Steve versuchen wir zunächst, mit einem Power-Nap die fast schlaflose Nacht zu vergessen. Nach dieser kurzen Erholung bietet uns Linda an, mit uns eine kleine Runde durch die Stadt zu spazieren und uns Sydney zu zeigen. Wir fahren also zurück an die Stadtgrenze. Von dort aus spazieren wir über die Harbour-Bridge in Richtung Opernhaus. Zu Fuß geht man dann doch eine ganze Weile über die 1,1km lange Brücke, was einem allerdings ausreichend Zeit gibt, die Skyline von Sydney zu bestaunen. Danach geht es direkt zum Opernhaus. Die eigentlich drei verschiedenen Häuser – Konzerthaus, Joan Sutherland Theater und ein Restaurant – sehen auch aus der Nähe wirklich atemberaubend aus.
 
 <!-- 2img -->
 

@@ -19,7 +19,6 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-
 Um 04:10 Uhr morgens landet unser Flugzeug in Neu Delhi. Nachdem wir, nach einigen Startschwierigkeiten, unser Gepäck schließlich auch bekommen haben, machen wir uns mit einem Taxi auf den Weg zu unserem Hostel. Weil es noch viel zu früh ist, können wir unser Zimmer noch nicht beziehen, aber der Hostelbesitzer lässt uns im Aufenthaltsraum ein wenig schlafen. Er selbst schläft ebenfalls auf einer Matratze hinter der Rezeption und bietet uns sogar noch sein Kopfkissen an. Um 10 werden wir geweckt und dürfen einige Stunden früher als erwartet in unser Zimmer.
 
 Nach einem kurzen Refresh und einer Stunde Schlaf lassen wir uns von einem Mitarbeiter des Hostels ein Restaurant zum Mittagessen in der Gegend empfehlen. Dorthin machen wir uns zu Fuß auf den Weg. Viele Menschen, TukTuks, Autos, Motorräder, Fahrräder, LKWs und Tiere begegnen uns am Weg dorthin, und die Straße zu überqueren ist dadurch nicht immer einfach. Als wir das Restaurant sehen, überlegen wir kurz, ob wir da jetzt wirklich hineingehen sollen – doch wir haben ja auch gar keine andere Wahl und noch dazu Hunger, also los. 

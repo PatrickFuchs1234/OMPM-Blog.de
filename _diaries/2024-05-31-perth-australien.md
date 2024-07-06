@@ -18,10 +18,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-<!-- links fehlen -->
-
-
-Von Bali aus fliegen wir nach Australien. Gegen 4:00 Uhr morgens landen wir am Flughafen in Perth. Am Flughafen ist kaum was los und die Einreise ist super unkompliziert. So stehen wir bereits um kurz vor fünf bei 14° – nach sechs Monaten heißem Asien für uns gefühlte Eiseskälte – vorm Terminal und warten auf unser Uber.
+Von [Bali](2024-04-18-bali) aus fliegen wir nach Australien. Gegen 4:00 Uhr morgens landen wir am Flughafen in Perth. Am Flughafen ist kaum was los und die Einreise ist super unkompliziert. So stehen wir bereits um kurz vor fünf bei 14° – nach sechs Monaten heißem Asien für uns gefühlte Eiseskälte – vorm Terminal und warten auf unser Uber.
 
 Das Taxi bringt uns zu unserem Hostel, das wir für die Nacht gebucht haben, um doch noch ein bisschen Schlaf zu ergattern. Das günstigste Hostel in Perth für uns beide kostet in etwa so viel wie die Villa in Bali, aus der wir gerade kommen. Allerdings schlafen wir hier in einem gemischten Schlafsaal und mit Stockbett – deutlich weniger nobel. Als unser Taxifahrer vor dem Hostel anhält (es ist immer noch stockdunkel) können wir es zuerst gar nicht sehen. Bei genauerer Betrachtung erkennen wir einen dunklen schwarzen Klotz der mit Plastik verhängt ist am Straßenrand. Auf dem Platz ein Schild: Perth City Backpacker Hostel. Wir sind hier wohl richtig.
 
