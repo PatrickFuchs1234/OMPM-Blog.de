@@ -184,6 +184,13 @@ a.bg-image { display: block;}
   padding-bottom: 20px;
 }
 
+.img2-nr {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 20px;
+  padding-bottom: 20px;
+}
+
 .img3 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -191,7 +198,21 @@ a.bg-image { display: block;}
   padding-bottom: 20px;
 }
 
+.img3-nr {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+  padding-bottom: 20px;
+}
+
 .img4 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px;
+  padding-bottom: 20px;
+}
+
+.img4-nr {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 20px;
