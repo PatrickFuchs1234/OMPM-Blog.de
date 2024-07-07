@@ -171,6 +171,32 @@ a.bg-image { display: block;}
 .bg-pos-l { background-position: left; }
 .bg-pos-r { background-position: right; }
 
+/* Image Containers for Markdown files */
+.img1 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.img2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 20px;
+  padding-bottom: 20px;
+}
+
+.img3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+  padding-bottom: 20px;
+}
+
+.img4 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px;
+  padding-bottom: 20px;
+}
 
 /* ------------ Typography Styles ----------------------- */
 
@@ -692,6 +718,14 @@ hr.short.center {
   .sm-portrait      { padding-bottom: 125%; }
   .sm-square        { padding-bottom: 100%; }
 
+  /* image containers von markdown files */
+  .img3 {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .img4 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
 }
 
 /* ------- XS Media Query (36em / 576px) --------------- */ 
@@ -706,4 +740,11 @@ hr.short.center {
       font-weight: 300;
       font-family: 'Martel', serif; 
     }
+
+    /* image container von markdown files */
+    .img2,
+    .img4 {
+      grid-template-columns: repeat(1, 1fr);
+    }
+
 }

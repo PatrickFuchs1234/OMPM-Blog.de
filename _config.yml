@@ -8,8 +8,6 @@ collections:
     output: true
     permalink: /:title
 
-    
-    
 _options:
   content:
     styles: /editor.css
