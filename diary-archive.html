@@ -30,7 +30,7 @@ seo:
 
     <div class="capped-width grid">
 
-        {% assign travel-diaries = site.diaries | where_exp:"diary", "true" %}
+        {% assign travel-diaries = site.diaries | where_exp:"diary", "true" | reverse  %}
         {% for diary in travel-diaries limit:100 %}
 
         <a class="col-6_md-12 post-item padded-2 sm-padded-1" href="{{ diary.url }}">
