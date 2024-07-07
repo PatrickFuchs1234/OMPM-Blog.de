@@ -29,7 +29,9 @@ In Colombo angekommen, haben wir kaum noch Akku. Natürlich hat keiner von uns d
 
 Bei unserem ersten Hostel angekommen, zeigt uns der Besitzer einen Steg, der zum See hinaus führt. Bereits beim Betreten warnt er uns, da die Bretter ziemlich locker und großteils morsch von der vorhergehenden Monsunzeit sind. Alle sollen im Laufe der nächsten zwei Wochen ausgetauscht werden. Wir gehen mit ihm bis zum Ende des Stegs vor und auf dem Weg zurück – glücklicherweise bereits wieder über festem Boden – bricht ein Brett komplett in der Mitte durch als Pati draufsteigt. 
 
-<!-- 1img  -->
+<div class="img1">
+ 	<img src="/images/diary/outtakes-sri-lanka/outtakes-sri-lanka-3.jpg" alt="Pati bricht durch den Holzsteg">
+</div>
 
 ### Regen Regen Regen
 
@@ -57,8 +59,9 @@ Kurz darauf schlägt uns der TukTuk Fahrer einen utopischen Preis für eine Fahr
 
 Wir holen uns noch kurz etwas zu essen, als schon wieder der TukTuk Fahrer auf uns zukommt. Dieses Mal erzählt er uns, dass wir auch den Bus nach Ella nehmen, zwei oder drei Mal umsteigen können und somit nach Haputhale gelangen können. Wir hören nicht auf ihn. 10 Minuten später, fährt dann auch schon unser Bus vor. Der Busfahrer bestätigt, dass dieser Bus nach Haputhale weiterfährt. Sogar beim Einsteigen in den Bus kommt der TukTuk Fahrer nochmal vorbei, um uns zu sagen, dass es sich hier um den falschen Bus handelt. Was genau hier läuft, können wir nicht 100%ig beurteilen, allerdings schreit alles geradezu nach Korruption. 
 
-<!-- 1img -->
-Bus in Sri Lanka von Innen
+<div class="img1">
+ 	<img src="/images/diary/outtakes-sri-lanka/outtakes-sri-lanka-1.jpg" alt="Bus in Sri Lanka von Innen">
+</div>
 
 ### Kein Vertrauen
 
@@ -72,7 +75,9 @@ Von Kandy fahren wir mit dem Bus nach Digana zum Yoga Retreat. Im Bus treffen wi
 
 Als wir quer durchs Land fahren und der Bus – wie immer – rast, bleiben wir plötzlich abrupt stehen. Wir fürchten schon, dass wir einen platten Reifen haben oder sonst etwas am Bus kaputt ist. Dann sehen wir aber, dass unser Busfahrer gerade von der Polizei angehalten wurde und Strafe zahlen muss. Warum verstehen wir nicht – da müssten hier ja alle Busse angehalten werden. Der Busfahrer bezahlt die Gebühr unbeeindruckt und steigt wieder ein. Dann rasen wir genau so schnell und rücksichtslos wie vorher weiter Richtung Süden.
 
-<!-- 1img -->
+<div class="img1">
+ 	<img src="/images/diary/outtakes-sri-lanka/outtakes-sri-lanka-2.jpg" alt="Bus in Sri Lanka">
+</div>
 
 ### Bushandy
 
