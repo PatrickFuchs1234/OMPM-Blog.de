@@ -38,8 +38,9 @@ Am Weg vom Flughafen in Neu Delhi zu unserer Unterkunft hat der Fahrer unseres T
 
 Wir lernen schnell, dass in Indien die Dinge anders laufen als in Europa – angefangen beim Transport. LKWs, wie wir sie kennen, liefern nur Wasser. Alles andere wird mit Mopeds, TukTuks und Rikschas transportiert. Eisblöcke werden mit dem TukTuk zugestellt, wo ein Mann mit Hammer und Meißel direkt auf der Straße Crushed Ice vorbereitet und dann in Plastiksäcke abfüllt. Eier werden gestapelt mit dem Moped transportiert. Und alles, was sich besser stapeln lässt als Eier, wird meterhoch auf eine Rikscha geladen, einigermaßen gut befestigt und von einem Mann geschoben / gezogen.
 
-<!-- 1img -->
-Eierlieferung in Chennai.
+<div class="img1">
+  <img src="/images/diary/outtakes-indien/outtakes-indien-7.jpg" alt="Eierlieferung in Chennai">
+</div>
 
 ### Fast Food (im wahrsten Sinne des Wortes)
 
@@ -51,9 +52,10 @@ Sie hingegen möchte auch noch eine Flasche Wasser haben und gibt dem Mann das G
 
 Als wir in [Jaipur](2023-10-26-jaipur) nach 5 Stunden Zugfahrt ankommen und aussteigen, merken wir, dass Patis Gesichtshälfte, die zum Fenster ohne Fensterscheibe gewandt war, komplett schwarz ist. Der Hostelbesitzer, der uns bei unserem Hostel empfängt, sieht Patis Gesicht und sagt nur „oh no, looks like you had a tough train ride  …“. Da hat er wohl recht.
 
-<!-- 2img -->
-Zugfahrt mit offenem Fenster.
-Dafür mit schönem Ausblick.
+<div class="img2">
+  <img src="/images/diary/outtakes-indien/outtakes-indien-1.jpg" alt="Zugfahrt mit offenem Fenster">
+  <img src="/images/diary/outtakes-indien/outtakes-indien-2.jpg" alt="Dafür mit schönem Ausblick">
+</div>
 
 ### Schneckentempo
 
@@ -61,12 +63,12 @@ Für die Fahrt zum Flughafen in Varanasi nehmen wir uns ein TukTuk. Anders als s
 
 ### Mumbai Local Train
 
-<!-- link -->
-
 Im [Local-Zug in Mumbai](2023-11-06-mumbai-1) erleben wir viele zufällige Begegnungen. Einmal lernen wir Raj kennen. Er möchte wissen, was Jennys Lieblingsessen ist. Im Gegenzug erfahren wir, dass sein Lieblingsessen Chicken Tandoori ist. Dann steigt er wieder aus dem Zug aus. 
 
-<!-- 2img -->
-Mumbai Local Train.
+<div class="img2">
+  <img src="/images/diary/outtakes-indien/outtakes-indien-5.jpg" alt="Mumbai Local Train">
+  <img src="/images/diary/outtakes-indien/outtakes-indien-6.jpg" alt="Voller Zug in Mumbai">
+</div>
 
 ### Abendliche Hosen-Rettung
 
@@ -90,7 +92,9 @@ Random Side Fact: Verpackungen, egal welche, sind in Indien extra gut verschloss
 
 Als wir in Chennai für unseren Flug nach Sri Lanka einchecken, betonen die Damen am Schalter mehrmals, dass wir ein sehr hübsches Paar abgeben. Bevor wir unsere Boardingpässe bekommen, fragen sie uns, ob wir mit ihnen ein Foto machen würden (“to connect cultures”). Das machen wir natürlich gerne 😀 .
 
-<!-- 1img -->
+<div class="img1">
+  <img src="/images/diary/outtakes-indien/outtakes-indien-3.jpg" alt="Foto mit den Flugbegleitern am Flughafen Chennai">
+</div>
 
 ### Sicherer Flug
 
@@ -102,5 +106,6 @@ An unseren ersten Tagen in Indien können wir kaum was essen, weil es für uns v
 
 Am Ende essen wir ständig Streetfood. Wir essen Dosas sogar am Flughafen mit den Händen und von „zu scharf“ kann keine Rede mehr sein. 
 
-<!-- 1img -->
-Dosas am Flughafen.
+<div class="img1">
+  <img src="/images/diary/outtakes-indien/outtakes-indien-4.jpg" alt="Dosas am Flughafen">
+</div>
