@@ -29,7 +29,10 @@ Linda holt uns gleich darauf vom Bahnhof ab und wir gehen noch gemeinsam einkauf
 
 Zuhause bei Linda und Steve versuchen wir zunächst, mit einem Power-Nap die fast schlaflose Nacht zu vergessen. Nach dieser kurzen Erholung bietet uns Linda an, mit uns eine kleine Runde durch die Stadt zu spazieren und uns Sydney zu zeigen. Wir fahren also zurück an die Stadtgrenze. Von dort aus spazieren wir über die Harbour-Bridge in Richtung Opernhaus. Zu Fuß geht man dann doch eine ganze Weile über die 1,1km lange Brücke, was einem allerdings ausreichend Zeit gibt, die Skyline von Sydney zu bestaunen. Danach geht es direkt zum Opernhaus. Die eigentlich drei verschiedenen Häuser – Konzerthaus, Joan Sutherland Theater und ein Restaurant – sehen auch aus der Nähe wirklich atemberaubend aus.
 
-![Opernhaus in Sydney](/images/diary/sydney/sydney-5.jpg) | ![Harbour Bridge in Sydney](/images/diary/sydney/sydney-6.jpg)
+<div class="img2">
+  <img src="/images/diary/sydney/sydney-5.jpg" alt="Opernhaus in Sydney">
+  <img src="/images/diary/sydney/sydney-6.jpg" alt="Harbour Bridge in Sydney">
+</div>
 
 Linda hat aber noch ein weiteres Highlight mit uns geplant und so machen wir uns auf zum Fährhafen, wo wir ca. 5 Minuten auf die nächste Fähre nach Manly warten. Wir sehen Linda sofort die Ungeduld an, worauf Jenny sie fragt, wie sehr sie warten eigentlich hasst. Sie antwortet nur kurz: “Oh, I hate it.” Lachend sitzen wir kurz darauf bei strahlendem Sonnenschein auf der Fähre und fahren in den Stadtteil Manly. Dort spazieren wir quer durch die belebte Hauptstrasse bis zum Strand.
 
@@ -47,20 +50,9 @@ Am nächsten Tag ist Muttertag. Linda hat uns schon am Vorabend zu ihrem Muttert
 
 Am Nachmittag geht es wieder in die Stadt. Wir haben am Vorabend herausgefunden, dass es in Australien quasi nie einen Dresscode gibt und danach sogleich Karten für eine Oper gekauft. So sind wir, etwas underdressed, auf dem Weg ins Opernhaus, um uns eine Oper von Mahler anzuhören. Das Opernhaus ist von innen ähnlich schön wie von draußen und der Konzertsaal ist riesig und akustisch traumhaft. Allerdings ist uns Mahler dann doch etwas zu klassisch und Jenny genehmigt sich sogar ein kleines Schläfchen während dem zweiten Teil. Trotzdem ist die Oper auch von innen sehr sehenswert. Für Unter-35-Jährige war es auch noch ein echtes Schnäppchen Opernkarten zu kaufen.
 
-<div class="img-2">
-  <img src="/images/diary/sydney/sydney-1.jpg" alt="Example Image" class="bg-image">
-  <img src="/images/diary/sydney/sydney-3.jpg" alt="Example Image" class="bg-image">
-</div>
-
-<div class="img-1">
-  <img src="/images/diary/sydney/sydney-2.jpg" alt="Example Image" class="bg-image">
-</div>
-
-<div class="img-4">
-  <img src="/images/diary/sydney/sydney-1.jpg" alt="Example Image" class="bg-image">
-  <img src="/images/diary/sydney/sydney-3.jpg" alt="Example Image" class="bg-image">
-  <img src="/images/diary/sydney/sydney-4.jpg" alt="Example Image" class="bg-image">
-  <img src="/images/diary/sydney/sydney-5.jpg" alt="Example Image" class="bg-image">
+<div class="img2">
+  <img src="/images/diary/sydney/sydney-1.jpg" alt="Pati vor dem Opernhaus">
+  <img src="/images/diary/sydney/sydney-7.jpg" alt="Konzertsaal des Opernhauses von innen">
 </div>
 
 Am Abend fallen wir nach einem gemeinsamen Abendessen und weiteren Reise-Spartipps mit Linda und Steve erledigt vom Tag ins Bett. Morgen geht es schon wieder weiter zu unserem nächsten Haus-Sit etwas nördlich von Syndey.
