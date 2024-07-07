@@ -173,50 +173,50 @@ a.bg-image { display: block;}
 
 /* Image Containers for Markdown files */
 .img1 {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .img2 {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 20px;
-  padding-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .img2-nr {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 20px;
-  padding-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .img3 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 20px;
-  padding-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .img3-nr {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 20px;
-  padding-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .img4 {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 20px;
-  padding-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .img4-nr {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 20px;
-  padding-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 /* ------------ Typography Styles ----------------------- */
@@ -748,9 +748,11 @@ hr.short.center {
   /* image containers von markdown files */
   .img3 {
     grid-template-columns: repeat(1, 1fr);
+    justify-items: center;
   }
   .img4 {
     grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
   }
 
   /* list item in blogposts */
@@ -777,6 +779,7 @@ hr.short.center {
     .img2,
     .img4 {
       grid-template-columns: repeat(1, 1fr);
+      justify-items: center;
     }
 
 }
