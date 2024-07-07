@@ -606,6 +606,12 @@ form button:hover {
   border: 1px solid var(--medium);
 }
 
+.blog-content li{
+    margin-left: 2rem;
+    margin-bottom: 0.5rem;
+    padding-left: 1rem;
+    margin-right: 5rem;
+}
 
 /* Sidebar */
 .sidebar-item {
@@ -748,6 +754,11 @@ hr.short.center {
     grid-template-columns: repeat(2, 1fr);
     justify-items: center;
   }
+
+  /* list item in blogposts */
+  .blog-content li{
+    margin-right: 3rem;
+}
 
 }
 
