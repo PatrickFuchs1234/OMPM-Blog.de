@@ -5,136 +5,64 @@ $('.hamburger-button').click(function(){
 
 
 
-function createCookie(name,value,days) {
-    var expires = "";
-    if (days) {
-        var date = new Date();
-        date.setTime(date.getTime() + (days*24*60*60*1000));
-        expires = "; expires=" + date.toUTCString();
-    }
-    document.cookie = name + "=" + value + expires + "; path=/";
+function createCookie(name, value, days) {
+  var expires = "";
+  if (days) {
+    var date = new Date();
+    date.setTime(date.getTime() + days * 24 * 60 * 60 * 1000);
+    expires = "; expires=" + date.toUTCString();
+  }
+  document.cookie = name + "=" + value + expires + "; path=/";
 }
 function readCookie(name) {
-    var nameEQ = name + "=";
-    var ca = document.cookie.split(';');
-    for(var i=0;i < ca.length;i++) {
-        var c = ca[i];
-        while (c.charAt(0)==' ') c = c.substring(1,c.length);
-        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-    }
-    return null;
+  var nameEQ = name + "=";
+  var ca = document.cookie.split(";");
+  for (var i = 0; i < ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == " ") c = c.substring(1, c.length);
+    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+  }
+  return null;
 }
-// making cookie timeout
 function eraseCookie(name) {
-    createCookie(name,"",-1);
+  createCookie(name, "", -1);
 }
 
-
-
-
-const cookieBanner = document.querySelector('#cookie-notice')
-const cookieButtons = cookieBanner.querySelectorAll('.cookieButton')
-const acceptAllButton = cookieBanner.querySelector('.accept-all')
-let allCookiesAccepted = true
-let unaccepted = false 
-
-
-// button initilisaztion
-cookieButtons.forEach(button => {
-let buttonCookie = button.dataset.cookieType
-
-if ( readCookie(buttonCookie) == 'accepted' ){
-    button.classList.remove('unaccepted')
-    button.classList.add('accepted')
+function runCookiedCodes() {
+  // Add tracking scripts here
+  console.log("cookies ran");
+  // End tracking scripts
 }
 
-button.addEventListener('click', () => {
-    
-    if (button.classList.contains('unaccepted')){
-    button.classList.remove('unaccepted')
-    button.classList.add('accepted')
-    createCookie(buttonCookie,'accepted',31)
-    } else {
-    button.classList.add('unaccepted')
-    button.classList.remove('accepted')
-    // could be arrasecookie
-    createCookie(buttonCookie,'unaccepted',31) 
-    }
-    runCookies()
-    console.log(buttonCookie, readCookie(buttonCookie))
-})
-
-})
-
-  // checks for unaccepted cookie buttons 
-function checkForUnacceptedCookies() {
-  console.log('cookie checker')
-
-  if (Array.from(cookieButtons).some((node) => node.classList.contains('unaccepted'))) {
-    return true
-  }
-  return false
-}
+if (readCookie("cookie-notice-accepted") == "true") {
+  runCookiedCodes();
+document.querySelector(".reshow-button").classList.add("hide-button");
+  //removes cookies while testing
+  //eraseCookie('cookie-notice-accepted')
   
+} else {
+  
+  document.getElementById("cookie-notice").style.display = "block";
+}
 
-  // runs the codes based on different button
-  function runCookies() {
-      allCookiesAccepted = true
-      if (readCookie('anacliticCookies')=='accepted') {
-        // analitic cookie codes
-      } 
-      if (readCookie('darkmode')=='accepted') {
-        // darkmode cookie codes
-        document.querySelector('body').classList.add('darkmode')
-      } else {
-        document.querySelector('body').classList.remove('darkmode')
-      }
+document
+  .getElementById("cookie-notice-accept")
+  .addEventListener("click", function () {
+    createCookie("cookie-notice-accepted", "true", 31);
+    document.getElementById("cookie-notice").style.display = "none";
+    document.getElementById("cookie-notice").classList.add("hide-button");
+    runCookiedCodes();
+  });
 
-      // this loop with  ...
-      if (readCookie('hideBanner') != 'accepted') {
-        cookieBanner.classList.add('active')
-      } else {
-        cookieBanner.classList.remove('active')
-      }
+document
+  .querySelector("#close-cookie-banner")
+  .addEventListener("click", (e) => {
+    eraseCookie(cookie-notice-accepted)
+    document.getElementById("cookie-notice").style.display = "none";
+  });
 
-      console.log(checkForUnacceptedCookies(),'output')
-
-      // that statemant for hide banner
-      if (checkForUnacceptedCookies() === true) {
-        acceptAllButton.classList.remove('accepted')
-        acceptAllButton.classList.add('unaccepted')
-      } else {
-        acceptAllButton.classList.remove('unaccepted')
-        acceptAllButton.classList.add('accepted')
-      }
-  }
-
-
-  // runs the cookies 
-  runCookies()
-
-
-
-// just a checker for dev
-  console.log("cookies", document.cookie, allCookiesAccepted)
-
-const allCookieButton = cookieBanner.querySelector('.accept-all')
-
-allCookieButton.addEventListener('click', () => {
-    if (allCookieButton.classList.contains('unaccepted')) {
-        cookieButtons.forEach(button => {
-
-            if (button.classList.contains('unaccepted')) {
-                button.click()
-            }
-
-        })
-    } else {
-        cookieButtons.forEach(button => {
-
-            button.click()
-
-        })
-    }
+document.querySelector(".reshow-button")
+  .addEventListener("click", function() {
+  document.getElementById("cookie-notice").style.display = "block";
 })
   

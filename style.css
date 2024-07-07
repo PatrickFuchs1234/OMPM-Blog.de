@@ -473,27 +473,18 @@ form button:hover {
 }
 /* ------------ Cookie banner Styles  ----------------------- */
 
-body.darkmode{
-  background-color: #272;
-  color:antiquewhite;
-}
-
 #cookie-notice {
   padding: 0.5rem 1rem;
+  display: none;
   text-align: center;
-  position: fixed;
-  left: calc(-100% + 2rem);
-  right: calc(100% - 2rem);
-  bottom: 0;
-  background: #222;
-  color: rgba(255,255,255,0.8);
-  transition: all 2s;
-}
-#cookie-notice.active {
   position: fixed;
   left: 1rem;
   right: 1rem;
+  bottom: 0;
   width: calc(100% - 2rem);
+  background: #222;
+  color: rgba(255, 255, 255, 0.8);
+  min-height: 20%;
 }
 #cookie-notice a {
   display: inline-block;
@@ -501,29 +492,28 @@ body.darkmode{
   margin-left: 0.5rem;
 }
 #cookie-notice .button-subtle {
-opacity: 0.8;
+  opacity: 0.8;
 }
-
 #close-cookie-banner {
-padding: 1rem;
-cursor: pointer;
-font-size: 0.8rem;
-opacity: 0.5
+  /*   padding: 1rem;
+  cursor: pointer;
+  font-size: 0.8rem;
+  opacity: 0.5 */
 }
 
-button.unaccepted::before{
-  content: 'accept ';
+.reshow-button {
+  display: none;
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
 }
-button.accepted::before{
-  content: 'revoke';
-}
-body button.hide-button::before {
-  content: ''
-}
-body button.hide-button{
+
+.hide-button.reshow-button {
+  display:block;
   position: absolute;
   right: 1rem;
 }
+
 
 /* ------------ Blogging elements  ----------------------- */
 
