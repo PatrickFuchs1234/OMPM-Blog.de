@@ -6,9 +6,9 @@ layout: default
 <section class="padded capped-width-narrow blog-content">
 
         <div class="intro padded-1 center margin-b-2">
-            {% assign category = site.diary-archives | where_exp:"diary-archive", "diary-archives contains page.category" %}
-            {% for item in category %}
-                <a href="{{item.url}}" class="tag"> {{item}}</a>
+            {% assign categories = site.diary-archives | where_exp:"diary-archive", "diary-archive.category contains page.categories" %}
+            {% for cat in categories %}
+                <a href="{{ cat.url }}">{{ cat.category }}</a>
             {% endfor %}
             
             <h1> {{ page.title }} </h1>

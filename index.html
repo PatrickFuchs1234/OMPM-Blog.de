@@ -26,7 +26,7 @@ seo:
 
     {% assign categories = site.diary-archives | where_exp:"diary-archive", "true" %}
     {% for cat in categories %}
-        <a href="{{ cat.url }}">{{ cat }}</a>
+        <a href="{{ cat.url }}">{{ cat.category }}</a>
     {% endfor %}
 
     {% for archive in site.archives limit:8 %}
