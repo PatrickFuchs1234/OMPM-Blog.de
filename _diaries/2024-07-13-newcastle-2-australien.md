@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 title: '#29 Newcastle, Australien - Teil 2'
 author: Pati
