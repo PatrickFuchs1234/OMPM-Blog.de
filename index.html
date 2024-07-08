@@ -98,23 +98,21 @@ seo:
             <h2> Unsere Geschichten </h2>
             <p> In unserem Tagebuch erzählen wir laufend unsere Erlebnisse auf Reisen. </p>
         </div>
+
         {% assign travel-diaries = site.diaries | where_exp:"diary", "true" | reverse %}
         {% for diary in travel-diaries limit:3 %}
+            
             <div class="col-4-middle post-item padded-05">
                 <div class="bg-image square" style="background-image:url( '{{ diary.featured_image }}' );"></div>
             </div>
-            <div class="col-6 margin-t-1 padded-t-1 sm-margin-0 sm-padded-0">
+            <div class="col-6-middle">
                     
-                {% for item in diary.categories %}
-                    <span class="tag sm-hide"> {{item}} </span>
-                {% endfor %}
-
-                <h2 class="margin-t-1"> {{ diary.title }} </h2>
-                <p class="sm-hide"> {{ diary.description }} </p>
-                <a href="{{ diary.url }}" class="subtle-button"> weiterlesen </a>
+                {% include diary-loop-item-square.html %}
 
             </div>
+
         {% endfor %}
+
     </div>
     <div class="col-12 center padded-t padded-b">
         <a href="/diary-archive.html" class="button"> Mehr anzeigen</a>
