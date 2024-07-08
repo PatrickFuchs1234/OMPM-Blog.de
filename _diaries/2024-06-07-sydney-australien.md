@@ -23,7 +23,9 @@ Um 23:55 Uhr geht unser Flug von [Perth](2024-05-31-perth-australien) nach Sydne
 
 Allerdings machen wir uns zunächst einmal auf zu Linda und Steve, die wir über Couchsurfing kennengelernt haben und bei denen wir die nächsten Tage schlafen dürfen. Linda hat uns vorab bereits genau erklärt, wie wir zu ihnen – etwa eine Stunde außerhalb von Sydney – kommen. So machen wir uns vom Flughafen auf zum Hauptbahnhof, steigen dort um, und exakt nach einer Stunde kommen wir am Bahnhof in Turramurra an. Da wir immer noch keine SIM-Karte haben, rufen wir Linda von einer Telefonzelle am Bahnhof aus an. Telefonzellen kann man in ganz Australien gratis nutzen – wissen wir von Linda. Definitiv ein First, jemanden aus einer Telefonzelle aus anzurufen. 
 
-![Telefonzelle in Sydney](/images/diary/sydney/sydney-4.jpg)
+<figure class="img1">
+  <img src="/images/diary/sydney/sydney-4.jpg" alt="Telefonat an der Telefonzelle">
+</figure>
 
 Linda holt uns gleich darauf vom Bahnhof ab und wir gehen noch gemeinsam einkaufen. Wir lachen über das schon lustige Konzept von Couchsurfing: Man schreibt einer fremden Person, diese lädt einen zu sich nach Hause ein und beschreibt den Weg dorthin. Dann ruft man eine fremde Person aus einer Telefonzelle an, um kurz darauf zu ihr ins Auto zu steigen, um dann in einem eigenen Zimmer mit eigenem Bad zu landen, das man die nächsten Tage nur für sich hat. Und das alles im Austausch für Kultur, Geschichten und Freundschaften. Schon echt verrückt – ein tolles Konzept.
 
@@ -38,11 +40,15 @@ Linda hat aber noch ein weiteres Highlight mit uns geplant und so machen wir uns
 
 Am Strand angekommen werden wir dann von einem heftigen Regenschauer überrascht. Geduldig (also wir zwei, Linda eher weniger) warten wir diesen vor einem Cafè ab und machen uns danach auf den Heimweg, um nicht im Dunkeln nach Hause fahren zu müssen. Am Abend essen wir mit Linda und Steve und sie erzählen uns allerlei von ihren Reisen und Abenteuern. Linda gibt uns sogar noch einige Spartipps mit auf den Weg – eine echte Couchsurferin.&nbsp;&nbsp;
 
-![Selfie beim Opernhaus](/images/diary/sydney/sydney-2.jpg)
+<figure class="img1">
+  <img src="/images/diary/sydney/sydney-2.jpg" alt="Selfie beim Opernhaus">
+</figure>
 
 Kurz vor dem Schlafengehen fragt uns Linda eher scherzhaft, ob wir am nächsten Morgen um 5 Uhr auf den Sydney-Market fahren wollen. Natürlich lassen wir uns das nicht entgehen und sitzen am nächsten Morgen pünktlich mit ihr im Auto. Nachdem wir Lindas Freundin Jane abgeholt haben, geht es dann auf den Markt. Die beiden fahren alle zwei bis drei Wochen auf den Markt, um dort frisches Obst und Gemüse zu kaufen. Wir machen uns noch schnell einen Treffpunkt aus – haben ja immer noch keine SIM – und schon sind die beiden in der Markthalle verschwunden. Wir schlendern gemütlich durch die gigantische Markthalle. Am anderen Ende angekommen, kaufen wir dann noch die billigsten Avocados unseres Lebens. Einen Australischen Dollar, also 60 Cent bezahlen wir für zwei Stück. Danach geht es auch schon wieder zurück zum Treffpunkt, wo uns die beiden mit gefüllten Trolleys erwarten. Ab nach Hause.
 
-![Sydney Market](/images/diary/sydney/sydney-3.jpg)
+<figure class="img1">
+  <img src="/images/diary/sydney/sydney-3.jpg" alt="Sydney Market">
+</figure>
 
 Später an diesem Tag treffen wir noch Jana, eine Freundin, die Jenny von ihrem letzten Australien-Aufenthalt kennt. Nach einem verspäteten Brunch mit ihr und ihrem Freund haben wir uns vorgenommen, das schlechte Wetter auszunutzen und uns kleinere Rucksäcke zu kaufen. Unsere jetzigen Backpacks sind uns einfach zu groß und wir würden gerne mit Handgepäck weiterreisen. Nach einem erfolgreichen Rucksack-Einkauf fahren wir am Abend noch zurück in die Stadt und lassen den Tag bei einem Bier im Pub ausklingen. 
 
