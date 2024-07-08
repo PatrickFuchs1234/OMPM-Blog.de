@@ -11,7 +11,6 @@ seo:
   title: Perth, Australien
   description:
   social_image: /images/diary/perth/perth-featured.jpg
-  twitter_card:
   keywords:
   hide-from-google: false
 _comments:
