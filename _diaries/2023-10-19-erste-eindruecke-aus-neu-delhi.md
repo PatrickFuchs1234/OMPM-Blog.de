@@ -8,11 +8,11 @@ categories:
   - Südasien
   - Indien
   - Nordindien
-featured_image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg')
+featured_image: /images/diary/indien/erste-eindruecke-neu-delhi/erste-eindruecke-featured.jpg
 seo:
   title: Erste Eindrücke aus Neu Delhi
   description:
-  social_image:
+  social_image: /images/diary/indien/erste-eindruecke-neu-delhi/erste-eindruecke-featured.jpg
   twitter_card:
   keywords:
   hide-from-google: false

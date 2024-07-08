@@ -8,11 +8,11 @@ categories:
   - Südostasien
   - Indonesien
   - Yoga
-featured_image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg')
+featured_image: /images/diary/ytt/ytt-featured.jpg
 seo:
   title: Yoga Teacher Training
   description:
-  social_image:
+  social_image: /images/diary/ytt/ytt-featured.jpg
   twitter_card:
   keywords:
   hide-from-google: false
