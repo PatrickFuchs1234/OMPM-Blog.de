@@ -4,9 +4,10 @@ title: '#3 Erste Eindrücke aus Neu Delhi'
 author: Jenny und Pati
 date: 2023-10-19 14:35:00
 categories:
+  - Asien
+  - Südasien
   - Indien
-  - Neu Delhi
-  - Reisestart
+  - Nordindien
 featured_image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg')
 seo:
   title: Erste Eindrücke aus Neu Delhi

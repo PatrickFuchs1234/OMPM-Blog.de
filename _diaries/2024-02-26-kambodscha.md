@@ -4,16 +4,16 @@ title: '#22 Kambodscha'
 author: Jenny
 date: 2024-02-26 14:00:00
 categories:
+  - Asien
+  - Südostasien
   - Kambodscha
-  - Angkor Wat
-  - Siem Reap
 featured_image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg')
 seo:
   title: Kambodscha
   description:
   social_image:
   twitter_card:
-  keywords:
+  keywords: Siem Reap, Angkor Wat
   hide-from-google: false
 _comments:
   title: Max 70 characters

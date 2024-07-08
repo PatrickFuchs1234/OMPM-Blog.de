@@ -4,8 +4,10 @@ title: '#2 Reisestart'
 author: Jenny
 date: 2023-10-18 14:35:00
 categories:
+  - Asien
+  - Südasien
   - Indien
-  - Reisestart
+  - Reiseplanung
 featured_image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg')
 seo:
   title: Reisestart

@@ -4,11 +4,9 @@ title: '#25 Yoga Teacher Training'
 author: Jenny
 date: 2024-05-05 14:00:00
 categories:
+  - Asien
   - Südostasien
   - Indonesien
-  - Bali
-  - Yoga Teacher Trainig
-  - Ubud
   - Yoga
 featured_image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg')
 seo:

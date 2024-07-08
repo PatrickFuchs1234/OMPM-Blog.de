@@ -4,15 +4,9 @@ title: '#18 Kuala Lumpur, Malaysia'
 author: Jenny
 date: 2024-01-11 14:00:00
 categories:
-  - Malaysia
-  - Batu Caves
-  - China Town
-  - Kuala Lumpur
-  - Little India
-  - Petronas Towers
-  - Silvester
+  - Asien
   - Südostasien
-  - Thean Hou Tempel
+  - Malaysia
 featured_image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg')
 seo:
   title: Kuala Lumpur, Malaysia

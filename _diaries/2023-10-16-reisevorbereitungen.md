@@ -4,7 +4,6 @@ title: '#1 Reisevorbereitungen'
 author: Pati
 date: 2023-10-16 18:31:00
 categories:
-  - Reisevorbereitung
   - Reiseplanung
 featured_image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg')
 seo:

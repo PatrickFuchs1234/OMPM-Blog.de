@@ -4,11 +4,9 @@ title: '#23 Philippinen'
 author: Pati
 date: 2024-04-11 14:00:00
 categories:
-  - Philippinen
-  - Manila
-  - Oslob
+  - Asien
   - Südostasien
-  - Siquijor
+  - Philippinen
 featured_image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg')
 seo:
   title: Philippinen
