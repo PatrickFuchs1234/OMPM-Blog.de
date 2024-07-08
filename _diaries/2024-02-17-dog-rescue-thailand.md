@@ -7,11 +7,11 @@ categories:
   - Asien
   - Südostasien
   - Thailand
-featured_image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg')
+featured_image: /images/diary/dog-sanctuary/dog-featured.jpg
 seo:
   title: Dog Rescue Center in Songkhla, Thailand
   description:
-  social_image:
+  social_image: /images/diary/dog-sanctuary/dog-featured.jpg
   twitter_card:
   keywords:
   hide-from-google: false

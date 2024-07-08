@@ -8,11 +8,11 @@ categories:
   - Südasien
   - Sri Lanka
   - Outtakes
-featured_image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg')
+featured_image: /images/diary/outtakes-sri-lanka/outtakes-sri-lanka-featured.jpg
 seo:
   title: 'Outtakes: Sri Lanka'
   description:
-  social_image:
+  social_image: /images/diary/outtakes-sri-lanka/outtakes-sri-lanka-featured.jpg
   twitter_card:
   keywords:
   hide-from-google: false

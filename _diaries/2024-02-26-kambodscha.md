@@ -7,11 +7,11 @@ categories:
   - Asien
   - Südostasien
   - Kambodscha
-featured_image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg')
+featured_image: /images/diary/kambodscha/kambodscha-featured.jpg
 seo:
   title: Kambodscha
   description:
-  social_image:
+  social_image: /images/diary/kambodscha/kambodscha-featured.jpg
   twitter_card:
   keywords: Siem Reap, Angkor Wat
   hide-from-google: false

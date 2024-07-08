@@ -8,11 +8,11 @@ categories:
   - Südasien
   - Indien
   - Outtakes
-featured_image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg')
+featured_image: /images/diary/outtakes-indien/outtakes-indien-featured.jpg
 seo:
   title: 'Outtakes: Indien'
   description:
-  social_image:
+  social_image: /images/diary/outtakes-indien/outtakes-indien-featured.jpg
   twitter_card:
   keywords:
   hide-from-google: false
