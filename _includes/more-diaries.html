@@ -4,7 +4,7 @@
     
     <div class="grid-center">
 
-      {% assign more-diaries = site.diaries | where_exp:"diary","diary.url != diary.url and diary.hidden != true" %}
+      {% assign more-diaries = site.diaries | where_exp:"diary","diary.url != page.url and diary.hidden != true" | reverse %}
       {% for diary in more-diaries limit:3 %}
 
     
