@@ -6,7 +6,8 @@ collections:
     output: true
   archives: 
     output: true
-    permalink: /:title
+  diary-archives: 
+    output: true
 
 _options:
   content:
