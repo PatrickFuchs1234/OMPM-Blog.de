@@ -586,6 +586,7 @@ form button:hover {
   opacity: 0.5;
   font-size: 0.8rem;
   margin-right: 0.4rem;
+  margin-bottom: 0.6rem;
 }
 
 .post-info {
