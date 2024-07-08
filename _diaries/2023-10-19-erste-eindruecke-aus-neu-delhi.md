@@ -31,11 +31,10 @@ Bestellt wird aus dem Bauch heraus, da wir auf der Karte nichts kennen. Das einz
 
 <figure class="img2">
  	<img src="/images/diary/indien/erste-eindruecke-neu-delhi/erste-eindruecke-4.jpg" alt="Indisches Essen">
+  <figcaption>Wir wissen noch nicht, dass das gleich sehr scharf wird.</figcaption>
   <img src="/images/diary/indien/erste-eindruecke-neu-delhi/erste-eindruecke-5.jpg" alt="Dessert in Indien">
+  <figcaption>Anis-Kümmel-Dings.</figcaption>
 </figure>
-
-*Wir wissen noch nicht, dass das gleich sehr scharf wird.*
-*Anis-Kümmel-Dings.*
 
 Danach nehmen wir uns ein TukTuk zum India Gate und spazieren zum Connought Place. Viele Inder, Erwachsene und Kinder, sprechen uns auf dem Weg an und wollen Fotos mit uns machen. Unsere helle Hautfarbe macht uns zu einer kleinen Attraktion.
 

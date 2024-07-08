@@ -246,7 +246,6 @@ h6 { font-size: 1.2rem; }
 p, li {
   line-height: 1.4; 
   margin-bottom: 1rem;
-  /* font-family: 'Martel', serif;  */
   font-weight: 200;
   font-size: 1.1rem;
 }
@@ -258,6 +257,11 @@ h5:last-child,
 h6:last-child, 
 p:last-child {
 	margin-bottom: 0;
+}
+
+figcaption {
+  font-size: 1.1rem;
+  font-style: italic;
 }
 
 /* Unique Typography Styles  */

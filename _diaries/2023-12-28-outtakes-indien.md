@@ -40,6 +40,7 @@ Wir lernen schnell, dass in Indien die Dinge anders laufen als in Europa – ang
 
 <figure class="img1">
   <img src="/images/diary/outtakes-indien/outtakes-indien-7.jpg" alt="Eierlieferung in Chennai">
+  <figcaption> Eierlieferung in Chennai.</figcaption>
 </figure>
 
 ### Fast Food (im wahrsten Sinne des Wortes)
@@ -54,7 +55,9 @@ Als wir in [Jaipur](2023-10-26-jaipur) nach 5 Stunden Zugfahrt ankommen und auss
 
 <figure class="img2">
   <img src="/images/diary/outtakes-indien/outtakes-indien-1.jpg" alt="Zugfahrt mit offenem Fenster">
-  <img src="/images/diary/outtakes-indien/outtakes-indien-2.jpg" alt="Dafür mit schönem Ausblick">
+  <figcaption> Zugfahrt mit offenem Fenster.</figcaption>
+  <img src="/images/diary/outtakes-indien/outtakes-indien-2.jpg" alt="Zug-Ausblick">
+  <figcaption> Dafür mit schönem Ausblick.</figcaption>
 </figure>
 
 ### Schneckentempo
@@ -67,6 +70,7 @@ Im [Local-Zug in Mumbai](2023-11-06-mumbai-1) erleben wir viele zufällige Begeg
 
 <figure class="img2">
   <img src="/images/diary/outtakes-indien/outtakes-indien-5.jpg" alt="Mumbai Local Train">
+  <figcaption> Mumbai Local Train.</figcaption>
   <img src="/images/diary/outtakes-indien/outtakes-indien-6.jpg" alt="Voller Zug in Mumbai">
 </figure>
 
@@ -108,4 +112,5 @@ Am Ende essen wir ständig Streetfood. Wir essen Dosas sogar am Flughafen mit de
 
 <figure class="img1">
   <img src="/images/diary/outtakes-indien/outtakes-indien-4.jpg" alt="Dosas am Flughafen">
+  <figcaption> Dosas am Flughafen.</figcaption>
 </figure>

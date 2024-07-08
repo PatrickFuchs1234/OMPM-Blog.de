@@ -28,9 +28,8 @@ Während der Fahrt kommen wir ein bisschen mit ihm ins Gespräch und er macht ei
 
 <figure class="img1">
  	<img src="/images/diary/indien/delhi-nach-jaipur/delhi-nach-jaipur-1.jpg" alt="Tuktuk Fahrer in Indien">
+  <figcaption> TukTuk-Fahrer und Held des Tages</figcaption>
 </figure>
-
-*TukTuk-Fahrer und Held des Tages.*
 
 Wir schnappen unsere Rucksäcke und laufen in die Station. Wir tun es dem TukTuk-Fahrer gleich und fragen jeden Passanten nach dem Weg. Jemand schreit uns hinterher, dass es bis zur Platform 3 noch 1 Kilometer ist. Im Laufschritt eilen wir durch den unglaublich riesigen Bahnhof und um 15.16 erreichen wir unsere Plattform. Dort müssen wir noch unseren Wagon finden, denn am Zug hinten hängen schon Menschenmassen an den Türen. Um 15.18 betreten wir endlich den Zug und pünktlich um 15.20 geht die Fahrt nach Jaipur auch schon los.
 

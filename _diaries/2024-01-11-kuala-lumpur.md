@@ -29,7 +29,9 @@ Wir sind jetzt bereits seit fast vier Wochen in Kuala Lumpur, aber wirklich viel
 
 <figure class="img2">
   <img src="/images/diary/kuala-lumpur/kuala-lumpur-10.jpg" alt="Ausblick aus unserer Wohnung">
+  <figcaption> Ausblick aus unserer Wohnung.</figcaption>
   <img src="/images/diary/kuala-lumpur/kuala-lumpur-8.jpg" alt="Infinity Pool am Rooftop">
+  <figcaption> Infinity Pool am Rooftop.</figcaption>
 </figure>
 
 Den gesamten ersten Tag verbringen wir mit waschen (was wirklich dringend notwendig ist, nachdem in Sri Lanka bei der hohen Luftfeuchtigkeit kaum etwas trocken geworden ist). Hier haben wir sogar eine Waschmaschine mit Trocknerfunktion und wir freuen uns extrem darüber. In unserer ersten Woche in Kuala Lumpur unternehmen wir nur sehr wenig. Wir bewegen uns in kleinem Umkreis um die Wohnung, besuchen eine Food Street, mehrere Malls, (irgendwie spielt sich das Leben in Kuala Lumpur hier hauptsächlich in den Shoppingzentren ab), entdecken eine Mall, die sogar einen Vergnügungspark im fünften Stock hat und testen verschiedene Restaurants. Hauptsächlich aber genießen wir es eine Base zu haben, zu Hause zu kochen und auch einfach mal faul auf der Couch zu liegen.
