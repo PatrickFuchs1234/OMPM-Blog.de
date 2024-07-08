@@ -41,12 +41,7 @@ seo:
                 </div>
                 <div class="col-9-middle padded-1">
 
-                    {% for item in diary.categories %}
-                        <span class="tag"> {{item}} </span>
-                    {% endfor %}
-            
-                    <h4 class="margin-t-05 margin-b-05 subtle-heading-xs"> {{ diary.title }} </h4>
-                    <p class="subtitle xs-hide"> {{ diary.description }} </p>
+                    {% include diary-loop-item-square.html %}
             
                 </div>
             </div>
