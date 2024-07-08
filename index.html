@@ -21,20 +21,6 @@ seo:
     </div> 
 </section>
 
-<section class="padded capped-width">
-    categories:
-
-    {% assign categories = site.diary-archives | where_exp:"diary-archive", "true" %}
-    {% for cat in categories %}
-        <a href="{{ cat.url }}">{{ cat.category }}</a>
-    {% endfor %}
-
-    {% for archive in site.archives limit:8 %}
-    <a href="{{archive.url}}" class="tag"> {{archive.category}}</a>
-    {% endfor %}
-
-</section>
-
 <!-- Hallo Banner -->
 <section class="bg-light text-dark grid vh60">
 
