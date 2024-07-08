@@ -3,11 +3,7 @@ layout: post
 title: 'Outtakes: Sri Lanka'
 author: Jenny und Pati
 date: 2024-02-10 14:00:00
-categories:
-  - Asien
-  - Südasien
-  - Sri Lanka
-  - Outtakes
+categories: ['Asien', 'Südasien', 'Sri Lanka', 'Outtakes']
 featured_image: /images/diary/outtakes-sri-lanka/outtakes-sri-lanka-featured.jpg
 seo:
   title: 'Outtakes: Sri Lanka'

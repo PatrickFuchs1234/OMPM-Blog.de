@@ -3,10 +3,7 @@ layout: post
 title: '#27 Sydney, Australien'
 author: Pati
 date: 2024-06-07 14:00:00
-categories:
-  - Australien
-  - Ostküste Australien
-  - Couchsurfing
+categories: ['Australien', 'Ostküste Australien', 'Couchsurfing']
 featured_image: /images/diary/sydney/sydney-featured.jpg
 seo:
   title: Sydney, Australien
