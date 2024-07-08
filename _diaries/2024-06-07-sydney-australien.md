@@ -12,7 +12,6 @@ seo:
   title: Sydney, Australien
   description:
   social_image: /images/diary/sydney/sydney-featured.jpg
-  twitter_card:
   keywords:
   hide-from-google: false
 _comments:

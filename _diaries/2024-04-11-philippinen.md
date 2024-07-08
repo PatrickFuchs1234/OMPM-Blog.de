@@ -12,7 +12,6 @@ seo:
   title: Philippinen
   description:
   social_image: /images/diary/philippinen/philippinen-featured.jpg
-  twitter_card:
   keywords:
   hide-from-google: false
 _comments:
