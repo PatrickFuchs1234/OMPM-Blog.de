@@ -5,7 +5,7 @@ author: Pati
 date: 2024-06-07 14:00:00
 categories:
   - Australien
-  - Sydney
+  - Ostküste Australien
   - Couchsurfing
 featured_image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg')
 seo:

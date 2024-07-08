@@ -4,9 +4,10 @@ title: 'Outtakes: Sri Lanka'
 author: Jenny und Pati
 date: 2024-02-10 14:00:00
 categories:
+  - Asien
+  - Südasien
   - Sri Lanka
   - Outtakes
-  - Busfahrt
 featured_image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg')
 seo:
   title: 'Outtakes: Sri Lanka'

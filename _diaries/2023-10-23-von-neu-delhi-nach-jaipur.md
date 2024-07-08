@@ -4,10 +4,10 @@ title: '#5 Von Neu Delhi nach Jaipur'
 author: Jenny und Pati
 date: 2023-10-23 14:00:00
 categories:
+  - Asien
+  - Südasien
   - Indien
-  - Neu Delhi
-  - Old Delhi
-  - Jaipur
+  - Nordindien
 featured_image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg')
 seo:
   title: Von Neu Delhi nach Jaipur

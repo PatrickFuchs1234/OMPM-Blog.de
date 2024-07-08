@@ -4,8 +4,9 @@ title: '#20 Dog Rescue Center in Songkhla, Thailand'
 author: Jenny
 date: 2024-02-17 14:00:00
 categories:
+  - Asien
+  - Südostasien
   - Thailand
-  - Dog Rescue Center
 featured_image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg')
 seo:
   title: Dog Rescue Center in Songkhla, Thailand

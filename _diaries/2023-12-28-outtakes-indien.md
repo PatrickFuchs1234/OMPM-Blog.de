@@ -4,14 +4,10 @@ title: 'Outtakes: Indien'
 author: Jenny und Pati
 date: 2023-12-28 14:00:00
 categories:
+  - Asien
+  - Südasien
   - Indien
-  - Chennai
-  - Couchsurfing
-  - Jaipur
-  - Mumbai
-  - Neu Delhi
   - Outtakes
-  - Varanasi
 featured_image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg')
 seo:
   title: 'Outtakes: Indien'

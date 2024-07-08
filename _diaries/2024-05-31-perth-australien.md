@@ -5,7 +5,7 @@ author: Jenny
 date: 2024-05-31 14:00:00
 categories:
   - Australien
-  - Perth
+  - Westküste Australien
 featured_image: url('images/ian-dooley-hpTH5b6mo2s-unsplash\(1\).jpg')
 seo:
   title: Perth, Australien
