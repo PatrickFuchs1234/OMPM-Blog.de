@@ -244,7 +244,7 @@ h5 { font-size: 1.4rem; }
 h6 { font-size: 1.2rem; }
 
 p, li, a {
-  line-height: 1.4; 
+  line-height: 1.6; 
   margin-bottom: 1rem;
   font-weight: 200;
   font-size: 1.1rem;
@@ -334,7 +334,7 @@ nav a:hover {
 
 .logo {
   text-decoration: none;
-  font-size: 2.2rem;
+  font-size: 2rem;
 } 
 
 /* footer styles */
@@ -743,6 +743,7 @@ hr.short.center {
   .sm-padded-lr-0 { padding-left: 0; padding-right: 0; }
   .sm-margin-t-0 { margin-top: 0; }
   .sm-margin-b-0 { margin-bottom: 0; }
+  .sm-margin-b-05 {margin-bottom: 0.5rem;}
   .sm-margin-0 { margin: 0; }
 
   .sm-padded-0 { padding: 0; }

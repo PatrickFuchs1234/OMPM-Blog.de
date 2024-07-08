@@ -11,8 +11,7 @@ seo:
 ---
 
 <!------------------------ Image Banner  ------------------------>
-<section class="grid bg-medium center padded vh40">
-<!-- style="background-image: url('/images/ines-alvarez-fdez-_HHjiseEuGw-unsplash\(1\).jpg'); background-position: 0 35%;"> -->
+<section class="grid bg-medium center bg-image padded vh40" style="background-image: url('/images/van-dunkel.jpg');">
 
     <div class="col-12-middle">
         <h2> Willkommen auf deinem neuen Lieblingsblog! </h2>
@@ -32,8 +31,7 @@ seo:
         </div> 
     </div>
     <div class="col-6-middle sm-hide">
-        <div class="bg-image landscape"> 
-        <!-- style="background-image: url('/images/caleb-ekeroth-wSBQFWF77lI-unsplash\(1\).jpg');"> -->
+        <div class="bg-image landscape" style="background-image: url('/images/wir.jpg');">
         </div>
     </div>
 </section>
@@ -43,8 +41,8 @@ seo:
     <div class="capped-width-narrow grid-center">
 
         <div class="col-12 padded-05 center margin-b-1">
-            <h2> Unsere neuesten Travelguides. </h2>
-            <p> Wir haben unsere wichtigsten Erfahrungen und tollsten Erlebnisse für dich zusammengefasst.</p>
+            <h2> Unsere neuesten Travelguides </h2>
+            <p> Wir haben unsere tollsten Erlebnisse, wichtigsten Learnings und viele nützliche Tipps für dich zusammengefasst.</p>
             <!-- now that we have been traveling for quite a while, we want to share our tips and tricks -->
         </div>
 
@@ -68,7 +66,7 @@ seo:
                     <span class="tag sm-hide"> {{item}} </span>
                 {% endfor %}
 
-                <h2 class="margin-t-1"> {{ post.title }} </h2>
+                <h4 class="margin-t-1 sm-margin-b-05"> {{ post.title }} </h4>
                 <a href="{{ post.url }}" class="subtle-button"> weiterlesen </a>
 
             </div>
@@ -95,8 +93,8 @@ seo:
 <section class="padded">
     <div class="capped-width-v-narrow grid-spaceAround-center">
         <div class="col-12 padded-05 center margin-b-1">
-            <h2> Unsere Geschichten </h2>
-            <p> In unserem Tagebuch erzählen wir laufend unsere Erlebnisse auf Reisen. </p>
+            <h2> Unsere Geschichten</h2>
+            <p> In unserem Reisetagebuch berichten wir laufend von unseren Erlebnissen auf Reisen. </p>
         </div>
 
         {% assign travel-diaries = site.diaries | where_exp:"diary", "true" | reverse %}
