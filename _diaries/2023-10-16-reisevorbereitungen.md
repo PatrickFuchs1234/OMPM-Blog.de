@@ -18,10 +18,6 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
----
-
-## \#1 Reisevorbereitungen
-
 Bereits seit gut einem Jahr spielen wir mit dem Gedanken, eine Weltreise machen zu wollen. Seit einem halben Jahr steht fest, dass das auch noch in diesem Jahr 2023 passieren wird. Dadurch mussten wir in letzter Zeit bereits einige Vorbereitungen treffen.
 
 Zuerst mussten wir uns auf einen Startpunkt einigen. Dabei wurde dann sehr bald Indien als erstes Reiseziel ausgewählt. 30 Tage wollen wir dort verbringen. Alle weiteren Reiseziele sollten später spontan festgelegt werden. Durch einen Tipp, dass die Indische Hauptreisezeit im Oktober startet, entschieden wir uns dann doch eine grobe Route durch Indien festzulegen. Wir beschlossen die Städte Neu Delhi, Jaipur, Agra, Varanasi, Mumbai, Goa und Chennai abzufahren. Als Fortbewegungsmittel natürlich, wie in Indien üblich, mit dem Zug.

@@ -28,12 +28,12 @@ In der ersten Woche liegt der Fokus auf Ashtanga und Hatha Yoga. In der zweiten 
 
 Das Yoga Teacher Training beginnt mit einer traditionellen Hinduistischen Eröffnungszeremonie. Es werden Mantras gesungen, wir werden gesegnet und es gibt eine Feuer-Opferung (wir opfern nur Reis, keine Sorge 😉 ). Pati wird hier schon zum ersten Mal zurecht gewiesen, weil er Reis opfern will, der neben seinem Teller statt auf dem Teller liegt. Wir sind ganz schön eingeschüchtert – was sich aber zum Glück im Verlauf der nächsten Tage schnell bessert. Alle Teacher sind sehr nett und unterstützend.
 
-<div class="img1">
+<figure class="img1">
   <img src="/images/diary/ytt/ytt-1.jpg" alt="Eröffnungszeremonie des Yoga Teacher Trainings">
-</div>
-<div class="img1">
+</figure>
+<figure class="img1">
   <img src="/images/diary/ytt/ytt-2.jpg" alt="Feuerzeremonie">
-</div>
+</figure>
 
 ### Woche 1
 
@@ -53,10 +53,10 @@ In der zweiten Woche fühlen wir uns schon wesentlich fitter. Ashtanga Yoga geht
 
 Am Sonntag dürfen wir mit der Besitzerin des Hotels, in dem wir während des Yoga Teacher Trainings wohnen, zu einer Water Purification gehen. Wasser ist in Bali ein Symbol der Kraft und Reinigung. Es ist ein uraltes Ritual zur Reinigung des Wesens und zur Beseitigung negativer Energie. Desak bringt uns und Sylvia (die auch mit uns das Training macht) zu einem Tempel, wo wir uns einen Sarong ausleihen. Wir erwarten, dass es super touristisch wird, aber zu unserer Überraschung sind wir die einzigen Touristen unter vielen Einheimischen dort. Desak erklärt uns genau, wann wir was machen müssen.
 
-<div class="img2">
+<figure class="img2">
   <img src="/images/diary/ytt/ytt-3.jpg" alt="Balinesische Water Purification">
   <img src="/images/diary/ytt/ytt-4.jpg" alt="Nach der Wasserreinigung">
-</div>
+</figure>
 
 Die Purification ist aufwendig. Zuerst werden kleine Blumenopfer zu einer Art Altar gebracht. Dort meditieren wir. Mit mehreren „Om“ werden die einzelnen Blumen geopfert. Danach gibt es einen Bereich mit Wasser, wo verschiedene wichtige Hinduistische Götter je einen Brunnen darstellen. Desak opfert für jeden der Götter Blumen und zündet für jeden ein Räucherstäbchen an. Danach gehen wir ins Wasser. Jede einzelne Gottheit wird mit einem Mantra besungen, dann halten wir unsere Köpfe unter den eiskalten Wasserstrahl, der unter jeder Statue hervortritt. Nach der kalten Purification ziehen wir wieder unsere trockenen Sachen an. Abschließend segnet uns der Priester, der vor Ort ist, noch mit Reis, Honigwasser und einem Armband, das die drei Hauptgötter des Hinduismus (Shiva, Brahma und Vishnu) farblich rot-weiß-schwarz symbolisiert. Dann genießen wir noch unseren restlichen freien Tag.
 
@@ -64,11 +64,11 @@ Die Purification ist aufwendig. Zuerst werden kleine Blumenopfer zu einer Art Al
 
 Die dritte und letzte Woche dreht sich um Aerial Yoga. Zusätzlich finden noch ein paar Acro- und Partneryoga-Workshops statt. Wie vermutet ist Aerial Yoga leider wirklich nicht so unser Ding. Die meiste Zeit hängt man kopfüber von der Decke, die „Hängematte“ schneidet an allen Stellen ein und wir bekommen davon überall blaue Flecken. Außerdem muss man immer warten bis der Teacher die Übung vorgezeigt hat, macht dann die Übung und wartet dann bis alle anderen die Übung auch durchgeführt haben. Eventuell muss man dann noch warten bis der Lehrer allen Schülern bei einer bestimmten Übung einzeln geholfen hat. Man verbringt damit einen guten Teil der Zeit sitzend und wartend. In unserer dritten Woche fühlen wir uns wirklich fit und hätten irgendwie gern mehr gemacht als einen Großteil der Zeit zu warten und zuzusehen.
 
-<div class="img3">
+<figure class="img3">
   <img src="/images/diary/ytt/ytt-5.jpg" alt="Aerial Yoga">
   <img src="/images/diary/ytt/ytt-6.jpg" alt="Aerial Yoga">
   <img src="/images/diary/ytt/ytt-7.jpg" alt="Aerial Yoga">
-</div>
+</figure>
 
 Nach vier Tagen merken wir auch, dass wir langsam quasi „seekrank“ werden – alles schwankt ständig wenn wir gehen, sitzen oder liegen, weil wir den halben Tag in der Hängematte schwingen. Einige unserer Mitschüler können bei vielen Übungen auch schon gar nicht mehr mitmachen. Gegen Ende der Woche können wir auch kaum noch kopfüber hängen; unsere Köpfe fangen jedes Mal an zu schmerzen und danach ist uns eine Zeit lang richtig schwindelig. Wie gesund diese Art von Yoga ist wissen wir nicht. Laut Teacher sollte man sich nach ca. drei Wochen täglichen Trainings an diese Art der Belastung gewöhnen. Ob das wirklich so ist, werden wir aber wohl nie herausfinden.
 
@@ -76,12 +76,12 @@ Auch in dieser Woche leiten wir wieder eine eigene Yoga-Einheit an, die zum Glü
 
 Am letzten Sonntag nach diesen drei Wochen bekommen wir bei einer Zeremonie unsere Abschlusszertifikat. Wir sind damit nun offiziell Yoga Teacher. Wir verabschieden uns bei einem ausgiebigem Brunch von den vielen neugewonnenen Freunden und machen uns am Nachmittag auf unsere Weiterreise.
 
-<div class="img1">
+<figure class="img1">
  	<img src="/images/diary/ytt/ytt-8.jpg" alt="Yoga Teacher Training erfolgreich absolviert">
-</div>
+</figure>
 
 Unsere letzten drei Tage in Asien brechen nun an. Wir gönnen uns für die letzten Tage noch eine schöne Tiny Villa wieder in der Nähe von Canggu. Ehrlich gesagt sind wir nach den drei Wochen Yoga Teacher Training ziemlich erschöpft. Deshalb bewegen wir uns in den letzten drei Tagen nicht wirklich viel aus unserer Villa heraus – bis es dann zum Flughafen geht.
 
-<div class="img1">
+<figure class="img1">
  	<img src="/images/diary/ytt/ytt-9.jpg" alt="Tiny Villa in Bali">
-</div>
+</figure>
