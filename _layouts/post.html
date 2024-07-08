@@ -9,7 +9,7 @@ layout: default
         <div class="intro padded-1 center margin-b-2">
 
             {% for item in page.categories %}
-                <span class="tag"> {{ item }}</span>
+                <a href="{{item.url}}" class="tag"> {{item}}</a>
             {% endfor %}
             
             <h1> {{ page.title }} </h1>

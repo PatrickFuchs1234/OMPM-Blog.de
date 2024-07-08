@@ -1,0 +1,23 @@
+<section class="padded">
+
+    <div class="capped-width grid-center">
+
+        <div class="col-9 padded-05 center margin-b-1">
+
+            <h2> {{ page.title }}</h2>
+            {{ page.description_html }}
+
+        </div>
+
+            {% assign travel-diaries = site.diaries | where_exp:"diary", "true" | reverse %}
+            {% for diary in travel-diaries.categories[page.category] %}
+
+            <!-- {% for post in site.categories[page.category] limit:12 %} -->
+
+                {% include post-loop-item-square.html %}
+
+            {% endfor %}
+
+    </div>
+
+</section>
