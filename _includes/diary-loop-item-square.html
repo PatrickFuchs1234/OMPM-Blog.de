@@ -2,14 +2,14 @@
 <!-- Since the diary loop item uses a column class, make sure the parent container has a grid -->
 
 <div class="col-4_md-6_xs-12 diary-item padded-1">
-    <a href="{{ diary.url }}" class="bg-image square" style="background-image:url( '{{ diary.featured_image }}' );"></a>
+    <a href="{{ diary.url }}" class="bg-image" style="background-image:url( '{{ diary.featured_image }}' );"></a>
     <div class="padded-t-1 padded-b-1">
         
         {% for item in diary.categories %}
             <a href="{{item.url}}" class="tag"> {{item}} </a>
         {% endfor %}
 
-        <h2 class="margin-t-1"> {{ diary.title }} </h2>
+        <h4 class="margin-t-1"> {{ diary.title }} </h4>
         <p> {{ diary.description }} </p>
         <a href="{{ diary.url }}" class="subtle-button"> Read More </a>
 

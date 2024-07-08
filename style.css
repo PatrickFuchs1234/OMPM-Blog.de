@@ -243,7 +243,7 @@ h4 { font-size: 1.6rem; }
 h5 { font-size: 1.4rem; }
 h6 { font-size: 1.2rem; }
 
-p, li {
+p, li, a {
   line-height: 1.4; 
   margin-bottom: 1rem;
   font-weight: 200;
@@ -285,6 +285,7 @@ a:hover {
 p a {
     text-decoration: none;
     border-bottom: 1px solid;
+    font-weight: 200;
 }
 
 p a:hover { 
@@ -512,16 +513,13 @@ form button {
    	font-weight: bold;
    	padding: 0.5rem 2rem;
    	margin-top: 1rem;
+    cursor: pointer;
 }
 
 form button:hover {
   border: 2px solid var(--featured);
 }
 
-.social{
-  font-size: 2rem;
-  margin: 0 1rem;
-}
 /* ------------ Cookie banner Styles  ----------------------- */
 
 #cookie-notice {
@@ -641,7 +639,7 @@ form button:hover {
   /* display: flex; */
 }
 
-.SsideBarParent {
+.SideBarParent {
   height: 100%;
 } 
 
@@ -651,16 +649,23 @@ form button:hover {
   top: 5%;
 }
 
-
-
-/* Social Share Nav  */
-
+/* Social Sharing */
 .social-share a {
   padding: 0.25rem 0.5rem;
 }
 
-/* Miscelaneous elements  */
+.social{
+  font-size: 2rem;
+  margin: 0 1rem;
+}
 
+.fa-brands {
+  font-size: 2.3rem;
+  margin-left: 0.8rem;
+}
+
+
+/* Miscelaneous elements  */
 hr.short {
   border: 1px solid var(--dark-text);
   width: 2rem;
@@ -671,7 +676,6 @@ hr.short.center {
   margin:auto;
   margin: 1rem auto;
 }
-
 
 /* ------------ Page Name  ----------------------- */
 

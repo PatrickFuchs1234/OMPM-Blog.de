@@ -1,24 +1,20 @@
 ---
 layout: default
-title: Blog
+title: Reiseblog
 seo:
-  title: Blog
-  description:
+  title: Reiseblog
+  description: Im Reiseblog sind all unsere Ideen und Tipps zum Reisen zu finden.
   social_image:
   twitter_card:
   keywords:
   hide-from-google: false
 ---
-
-<!------------------------ Image Banner  ------------------------>
-<section class="grid bg-medium center padded vh50">
-<!-- style="background-image: url('/images/ines-alvarez-fdez-_HHjiseEuGw-unsplash\(1\).jpg'); background-position: 0 35%;"> -->
-
+<!------------------------ Intro Banner  ------------------------>
+<section class="grid bg-medium center padded vh40">
     <div class="col-12-middle">
         <h2> Unser Reiseblog </h2>
-        <p> all unsere Erlebnisse zusammengefasst </p>
+        <p> All unsere Erlebnisse und Tipps praktisch zusammengefasst. </p>
     </div>
-
 </section>
 
 <!------------------------ Split blog loop (part 1) ------------------------>
@@ -27,7 +23,7 @@ seo:
     <div class="capped-width-narrow grid-center">
 
     <div class="col-9 padded-05 center margin-b-1">
-        <h2> Unsere letzten Posts </h2>
+        <h3>Aktuelle Posts </h3>
     </div>
 
         {% for post in site.posts limit:3 %}
