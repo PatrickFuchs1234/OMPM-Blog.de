@@ -9,23 +9,10 @@
 
         </div>
 
-        {% assign travel-diaries = site.diaries | where_exp:"diary", "diary.categories contains page.category" %}
+        {% assign travel-diaries = site.diaries | where_exp:"diary", "diary.categories contains page.category" | reverse %}
         {% for diary in travel-diaries %}
 
-        <div class="col-4_md-6_xs-12 diary-item padded-1">
-            <a href="{{ diary.url }}" class="bg-image square" style="background-image:url( '{{ diary.featured_image }}' );"></a>
-            <div class="padded-t-1 padded-b-1">
-                
-                {% for item in diary.categories %}
-                    <span class="tag"> {{item}} </span>
-                {% endfor %}
-        
-                <h2 class="margin-t-1"> {{ diary.title }} </h2>
-                <p> {{ diary.description }} </p>
-                <a href="{{ diary.url }}" class="subtle-button"> Read More </a>
-        
-            </div>
-        </div>
+            {% include diary-loop-item-square.html%}
 
         {% endfor %}
 
