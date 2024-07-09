@@ -261,7 +261,10 @@ p:last-child {
 
 figcaption {
   font-size: 1.1rem;
-  font-style: italic;
+  font-weight: 200;
+  opacity: 0.6;
+  text-align: center;
+  margin-top: 0.4rem;
 }
 
 /* Unique Typography Styles  */
@@ -566,17 +569,13 @@ form button:hover {
 
 /* ------------ Blogging elements  ----------------------- */
 
-
-
 /* Post Loop Item  */
 
 .post-item {
   text-decoration: none;
 }
 
-
 /* Individual Elements */
-
 .tag {
   display: inline-block;
   font-weight: bold;
@@ -595,9 +594,34 @@ form button:hover {
 /* Individual Blog Post Pages  */
 
 .blog-content h1 {
-  font-family: 'Martel', serif; 
   font-weight: 200;
-  font-size: 3rem;
+  font-size: 2.8rem;
+}
+
+/* nicht verändern */
+.blog-content h2 {
+  font-size: 2rem;
+  margin-top: 1.8rem;
+}
+
+/* nicht verändern */
+.blog-content h3 {
+  font-size: 1.6rem;
+}
+
+.blog-content h4 {
+  font-size: 1.4rem;
+  margin-left: 1rem;
+}
+
+/* für listen */
+.blog-content h5 {
+  font-size: 1.2rem;
+  margin-bottom: 0.4rem;
+}
+
+.blog-content h6 {
+  font-size: 1.1rem;
 }
 
 .blog-content p {
@@ -627,6 +651,8 @@ form button:hover {
   font-weight: 300;
 }
 
+.sidebar-item h4 {line-height: 1.3;}
+
 .recent-posts-nav a{
   display: block;
   font-weight: 300;
@@ -654,6 +680,11 @@ form button:hover {
   padding: 0.25rem 0.5rem;
 }
 
+.social-share .fa-brands {
+  font-size: 1.9rem;
+  margin-left: 0.2rem;
+}
+
 .social{
   font-size: 2rem;
   margin: 0 1rem;
@@ -676,6 +707,21 @@ hr.short.center {
   margin:auto;
   margin: 1rem auto;
 }
+
+blockquote {
+  padding: 1.5rem;
+  background-color: var(--medium);
+  border: 1px solid var(--medium);
+  border-radius: 10px;
+  margin-bottom: 2.4rem;
+  margin-top: 2rem;
+}
+
+blockquote h4 { margin-bottom: 2rem; margin-top: 0.8rem;}
+blockquote h5 {padding-left: 3%; padding-bottom: 1%; padding-right: 3%;}
+blockquote p {padding-left: 3%; padding-right: 3%;}
+
+
 
 /* ------------ Page Name  ----------------------- */
 
