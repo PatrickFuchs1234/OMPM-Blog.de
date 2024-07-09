@@ -19,17 +19,18 @@ layout: default
 
 <section class="grid padded capped-width-wide relative">
 
-    <div class="col-9_md-8_sm-12 blog-content">
-
+    <div class="col-9_md-8_sm-12">
+        <div class="capped-width-posts blog-content">
        
-        <div class="padded-1">
+            <div class="padded-1">
 
-            {{content}}
+                {{content}}
+
+            </div>
+            
+            {% include social-share.html %}
 
         </div>
-        
-        {% include social-share.html %}
-
     </div>
 
     <!------------------ SIDEBAR  --------------------------------->
