@@ -320,7 +320,12 @@ p a:hover {
 
 /* ------------ Header -------------- */
 header {
-    padding: 1rem 1rem 1rem 1rem;
+  position: sticky;
+  top: 0;
+  z-index: 1000; /* Ensure it's above other content */
+  background-color: white; /* Example background color */
+  width: 100%; /* Ensures it spans the full width of the viewport */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Adds a shadow for depth */
 }
 
 nav a {
@@ -328,6 +333,7 @@ nav a {
     display: inline-block;
     text-decoration: none;
     text-transform: capitalize;
+    margin-bottom: 0;
 }
 nav a:hover {
   color: var(--featured-text);
@@ -381,26 +387,27 @@ span.dropdown-t-title {
 }
 .dropdown-content {
   position: absolute;
-  top: 100%;
-  left: 0rem;
-  padding: 0.5rem;
+  top: 90%;
+  left: -0.5rem;
+  padding: 0.5rem 0.2rem;
   display:none; 
   background-color: var(--light);
   z-index: 2;
   text-align: left;
-  min-width: 10rem;
+  min-width: 15rem;
 }
 .dropdown:hover .dropdown-content{ 
   display: block;
 }
 .dropdown-content a {
   display: block;
-  padding: 0.2rem;
+  padding: 0.1rem 0.7rem;
+  margin-bottom: 0.3rem;
 }
 
 /* Dropdown styles for translation button */
 
-.dropdown-t { 
+/* .dropdown-t { 
   position: relative; 
   display: inline-block;
 }
@@ -425,22 +432,19 @@ span.dropdown-t-title {
 .dropdown-t-content a {
   display: block;
   padding: 0.2rem;
-}
+} */
 
 /* ------------ Hamburger Menu -------------- */
 
 .hamburger-button {
     cursor: pointer;
-    padding: 0.5rem 2rem;
+    padding: 0 2rem;
     display: inline-block;
     font-weight: 200;
     font-size: 2.5rem;
     line-height: 0.8;
-    /* position: fixed;
-    right: 5%;
-    top: 1rem; */
-    z-index: 4;
     margin-right: -1rem;
+    margin-bottom: 0.8rem;
   }
   
   /* Styles when the hamburger button is active  */
@@ -776,7 +780,7 @@ blockquote p {padding-left: 3%; padding-right: 3%;}
 
 @media(max-width:48em) {
 
-.logo { font-size: 2rem;}
+  .logo { font-size: 1.5rem;}
 
 	.sm-show { display: block; }
 	.sm-hide { display: none;  }
@@ -791,6 +795,7 @@ blockquote p {padding-left: 3%; padding-right: 3%;}
   .sm-padded-1   { padding: 1rem; }
   .sm-padded-05  { padding: 0.5rem; }
 
+  .sm-padded-tb-05 {padding-top: 0.5rem; padding-bottom: 0.5rem;}
   .sm-padded-t-0 { padding-top: 0; }
   .sm-padded-b-0 { padding-bottom: 0; }
   .sm-padded-lr-0 { padding-left: 0; padding-right: 0; }
@@ -821,9 +826,11 @@ blockquote p {padding-left: 3%; padding-right: 3%;}
   /* list item in blogposts */
   .blog-content li{
     margin-right: 3rem;
-}
+  }
 
 }
+
+
 
 /* ------- XS Media Query (36em / 576px) --------------- */ 
 /* - Styles added here will apply at devices smaller than 576px, or zoomed in equivalent */ 

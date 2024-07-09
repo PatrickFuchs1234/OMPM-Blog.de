@@ -4,10 +4,7 @@ layout: post-with-sidebar
 title: 'Low Budget Reisen: Große Abenteuer mit kleinem Budget'
 author: Jenny
 date: 2024-07-06 14:35:00
-categories:
-  - Reisetipps
-  - Low Budget
-  - Reiseplanung
+categories: ['Reisetipps', 'Low Budget', 'Reiseplanung']
 featured_image: 
 seo:
   title: 'Low Budget Reisen: Große Abenteuer mit kleinem Budget'
@@ -41,7 +38,7 @@ Eine weitere Möglichkeit ist Haussitten. Dabei passt man auf das Haus und die H
 Im Austausch gegen ein paar Stunden Arbeit kann man über [Workaway](https://www.workaway.info/invite/324CD22B) gratis wohnen und oft sogar essen. Angebote gibt es in fast allen Ländern der Welt. Bei Anmeldung über diesen [Link](https://www.workaway.info/invite/324CD22B) erhältst du zusätzlich einen Monat gratis zu deinem Membership dazu. Zu beachten ist, dass es sich bei Workaway um *Arbeit* handelt. Das bedeutet, dass man in den meisten Ländern ein Arbeits- oder Work & Travel-Visum benötigt. Eine ganz ähnliche Plattform ist auch Worldpackers - wir haben viel Gutes darüber gehört, allerdings selber noch nicht ausprobiert.
 
 <figure class="img1">
- 	<img src="/images/diary/philippinen/philippinen-3.JPG" alt="Meer auf den Philippinen">
+ 	<img src="/images/asien/philippinen/philippinen-3.JPG" alt="Meer auf den Philippinen">
     <figcaption>Traumziele, wie die Philippinen, lassen sich auch mit wenig Geld bereisen.</figcaption>
 </figure>
 
@@ -70,7 +67,7 @@ Wähle die Urlaubsdestination nach dem günstigten Flug aus. Aber Achtung: gerad
 Weiche auf öffentliche Verkehrsmittel aus, wann immer es geht. Busse und Straßenbahnen sind meist deutlich günstiger als private Taxis und Uber. Außer man teilt sich das Taxi mit 2-3 Personen: Dann lohnt es sich wieder, die Preise zu vergleichen.
 
 <figure class="img1">
- 	<img src="/images/diary/outtakes-sri-lanka/outtakes-sri-lanka-2.jpg" alt="Bus in Sri Lanka">
+ 	<img src="/images/asien/outtakes-sri-lanka/outtakes-sri-lanka-2.jpg" alt="Bus in Sri Lanka">
     <figcaption>Je nach Land können Öffis beim Low Budget Reisen abenteuerlich, aber sehr authentisch sein.</figcaption>
 </figure>
 
@@ -84,7 +81,7 @@ Reisen in der Hauptsaison ist immer am teuersten, weil alle reisen wollen. In de
 Natürlich hängt das Budget, das für die Reise benötigt wird, auch immer vom Reiseziel ab. Ziele in Europa sind fast immer teurer als Ziele in Asien, ebenso ist Nordamerika generell eher teurer als Südamerika. Die Planung einer Low Budget Reise sollte diese Unterschiede natürlich berücksichtigen. Und warum muss es denn Hawaii sein, wenn Inseln rund um Thailand oder Indonesien genauso schön sind?
 
 <figure class="img1">
- 	<img src="/images/diary/ytt/ytt-9.jpg" alt="Tiny Villa in Bali">
+ 	<img src="/images/asien/ytt/ytt-9.jpg" alt="Tiny Villa in Bali">
     <figcaption>Wenn man Low Budget Ziele, wie zum Beispiel Bali, auswählt, kann man sich auch mit wenig Geld mal was gönnen.</figcaption>
 </figure>
 

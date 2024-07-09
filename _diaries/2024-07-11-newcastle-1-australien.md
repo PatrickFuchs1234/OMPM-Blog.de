@@ -5,11 +5,11 @@ title: '#28 Newcastle, Australien - Teil 1'
 author: Pati
 date: 2024-07-11 14:00:00
 categories: ['Australien', 'Ostküste Australien']
-featured_image: /images/diary/newcastle/newcastle-1-featured.jpg
+featured_image: /images/australien/newcastle/newcastle-1-featured.jpg
 seo:
   title: Newcastle, Australien
   description:
-  social_image: /images/diary/newcastle/newcastle-1-featured.jpg
+  social_image: /images/australien/newcastle/newcastle-1-featured.jpg
   keywords:
   hide-from-google: true
 _comments:
@@ -19,7 +19,7 @@ _comments:
 Nach drei aufregenden Tagen in [Sydney](2024-06-07-sydney-australien) kommen wir nach einer kurzen Zugfahrt in Newcastle an. Wir spazieren vom Bahnhof aus zu Rebecca, auf deren Hunde wir im nächsten Monat aufpassen. Rebecca ist mit Betsy, ihrer Hündin, noch beim Training. Daher werden wir, als wir bei ihr ankommen, nur von Louie - einem alten, von Rebecca erst kürzlich aufgenommenen Rescue-Dog - empfangen. Eigentlich sollte man niemals einfach so in ein fremdes Haus gehen, in dem noch dazu ein Hund wohnt, aber Louie hält nicht viel vom Wachhund-Dasein und empfängt uns mit größter Begeisterung wie zwei alte Freunde. 
 
 <figure class="img1">
- 	<img src="/images/diary/newcastle/newcastle-1.JPG" alt="süßer Hund">
+ 	<img src="/images/australien/newcastle/newcastle-1.JPG" alt="süßer Hund">
 </figure>
 
 ## Ankunft in Newcastle
@@ -33,8 +33,8 @@ In der ersten Woche versuchen wir uns gemeinsam mit den Hunden an eine Routine z
 So schwierig sich anfangs auch die Spaziergänge gestalten, zu Hause sind die beiden wahnsinnig nett und Betsy ist wahrscheinlich ähnlich kuschelig, wie die [Chihuahuas bei  Karl und Donna](2024-05-31-perth-australien). So verbringen wir die ersten Wochen spazierend und kuschelnd und sind hauptsächlich zu Hause. Das schlechte Wetter macht es uns da nicht schwer.
 
 <figure class="img2">
- 	<img src="/images/diary/newcastle/newcastle-7.JPG" alt="süße Hunde">
-  <img src="/images/diary/newcastle/newcastle-6.JPG" alt="süße Hunde">
+ 	<img src="/images/australien/newcastle/newcastle-7.JPG" alt="süße Hunde">
+  <img src="/images/australien/newcastle/newcastle-6.JPG" alt="süße Hunde">
 </figure>
 
 ## Merewether Beach
@@ -42,8 +42,8 @@ So schwierig sich anfangs auch die Spaziergänge gestalten, zu Hause sind die be
 In der dritten Woche beschließen wir endlich einmal die Stadt genauer zu erkunden. Wir machen uns am ersten Tag, nach Rebeccas Empfehlung, auf zum Merewether Beach. Dort erwartet uns, ähnlich wie bereits am ersten Tag, ein endloser Ausblick auf den Pazifik und die darin surfenden Locals. Etwas weiter finden wir sogar ein sogenanntes Ocean-Bath, einen Salzwasserpool angrenzend ans Meer. Wir überlegen, ob wir vielleicht einmal schwimmen gehen sollen, allerdings sind die Temperaturen nicht mehr ganz Indonesisch, daher wird der Sprung ins Wasser vorerst vertagt.
 
 <figure class="img2">
- 	<img src="/images/diary/newcastle/newcastle-11.JPG" alt="Merewether Beach">
-  <img src="/images/diary/newcastle/newcastle-5.JPG" alt="im Café mit Hund">
+ 	<img src="/images/australien/newcastle/newcastle-11.JPG" alt="Merewether Beach">
+  <img src="/images/australien/newcastle/newcastle-5.JPG" alt="im Café mit Hund">
 </figure>
 
 ## Zeit zum Umpacken
@@ -56,5 +56,5 @@ Eingepackt und versendet wird:
 Obwohl wir nun unsere Rucksäcke und einige weitere Kleinigkeiten los sind, sind wir immer noch skeptisch, ob wir auf nur sieben Kilo Handgepäck kommen. Wir stellen uns also auf die Waage. Mit und ohne Gepäck und siehe da, wir werden noch einiges loswerden müssen, um dann wirklich mit Handgepäck zu fliegen. Das wird allerdings vorerst vertagt, da unser nächstes Ziel mit dem Zug erreichbar ist. 
 
 <figure class="img1">
- 	<img src="/images/diary/newcastle/newcastle-12.JPG" alt="Gepäck">
+ 	<img src="/images/australien/newcastle/newcastle-12.JPG" alt="Gepäck">
 </figure>

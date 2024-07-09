@@ -4,16 +4,12 @@ layout: post-with-sidebar
 title: 'Sydney im Winter'
 author: Pati
 date: 2024-07-8 14:40:00
-categories:
-  - Reisetipps
-  - Low Budget
-  - Reiseplanung
-  - Australien
-featured_image: 
+categories: ['Reisetipps', 'Low Budget', 'Reiseplanung', 'Australien']
+featured_image: /images/australien/sydney/sydney-featured.jpg
 seo:
   title: Sydney im Winter
   description:
-  social_image:
+  social_image: /images/australien/sydney/sydney-featured.jpg
   keywords:
   hide-from-google: false
 _comments:
