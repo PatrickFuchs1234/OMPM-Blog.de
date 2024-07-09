@@ -35,7 +35,7 @@ section { position: relative; }
 .capped-width           { max-width: 1200px; margin: auto; }
 .capped-width-narrow    { max-width: 1000px; margin: auto; }
 .capped-width-v-narrow  { max-width: 800px;  margin: auto; }
-
+.capped-width-posts     { max-width: 700px;  margin: auto; }
 
 .vh100 { min-height: 100vh; }
 .vh90  { min-height: 90vh; }
@@ -59,6 +59,8 @@ section { position: relative; }
 .padded-b  { padding-bottom: 5%; }
 .padded-l  { padding-left: 5%; }
 .padded-r  { padding-right: 5%; }
+.padded-lr-lg  {  padding-right: 20%; 
+                  padding-left: 20%; }
 
 .padded-tb  { padding-top: 5%; padding-bottom: 5%; }
 .padded-lr  { padding-left: 5%; padding-right: 5%; }
