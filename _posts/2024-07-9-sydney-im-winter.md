@@ -2,7 +2,7 @@
 published: true
 layout: post-with-sidebar
 title: 'Sydney im Winter'
-author: Patrick
+author: Pati
 date: 2024-07-8 14:40:00
 categories:
   - Reisetipps

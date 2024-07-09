@@ -43,7 +43,7 @@ layout: default
 
                         <nav class="recent-posts-nav"> 
                             {% for post in site.posts limit:3 %}
-                                <a href="{{post.url}}"> {{post.title}}</a>
+                                <a href="{{post.url}}"> <i class="fa-regular fa-paper-plane"></i> {{post.title}}</a>
                             {% endfor %}
                         </nav>
 
@@ -54,7 +54,7 @@ layout: default
 
                         <nav> 
                             {% for archive in site.archives limit:8 %}
-                                <a href="{{archive.url}}" class="tag"> {{archive.category}}</a>
+                                <a href="{{archive.url}}"> <i class="fa-regular fa-bookmark"></i> {{archive.category}}</a>
                             {% endfor %}
                         </nav>
 
