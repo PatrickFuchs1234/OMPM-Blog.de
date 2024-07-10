@@ -50,11 +50,11 @@ In Western Australia leben insgesamt 2,9 Millionen Menschen. Der Bundesstaat all
 
 Die ersten drei Tage verbringen wir also gemeinsam mit Donna und Karl und ihren drei Chihuahuas, die erstaunlicherweise ein sehr entspanntes und super nettes Gemüt haben. Einer von den dreien ist noch ein Welpe und noch nicht einmal geimpft. Das bedeutet, wir dürfen in unserer Zeit mit den Hunden auch gar nicht spazieren gehen. In unseren Tagen mit den Hausbesitzern nimmt uns Donna mit zum Einkaufen. Wir kaufen gleich alles was wir für die nächsten zwei Wochen brauchen, denn das einzige Geschäft das in der Nähe des Hauses ist, ist ein Tankstellen-Shop und sogar der ist zu Fuß fast eine Stunde pro Richtung entfernt. Wir haben kein Auto, daher wäre der Tankstellen-Shop nur eine Notfalllösung, die wir hoffentlich nicht oft brauchen.
 
-<figure class="img2">
+<figure class="img2 margin-b-0">
   <img src="/images/australien/perth/perth-4.jpg" alt="Jenny mit Chihuahua">
   <img src="/images/australien/perth/perth-1.jpg" alt="Pati mit Chihuahua">
 </figure>
-<figure class="img1">
+<figure class="img1 margin-t-0">
  	<img src="/images/australien/perth/perth-5.jpg" alt="Drei Chihuahuas in Perth">
 </figure>
 

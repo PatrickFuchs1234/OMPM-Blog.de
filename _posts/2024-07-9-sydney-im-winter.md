@@ -25,7 +25,7 @@ Um sich einen ersten Eindruck über die Stadt und ihre Sehenswürdigkeiten zu ve
 Das Traggerüst der Harbour Bridge kann sogar mit einem Guide begangen werden, was allerdings nicht mehr in die Kategorie low-budget fallen würde.
 
 <figure class="img1">
- 	<img src="/images/diary/sydney/sydney-featured.jpg" alt="Opernhaus von der Harbour Bridge">
+ 	<img src="/images/australien/sydney/sydney-featured.jpg" alt="Opernhaus von der Harbour Bridge">
   <figcaption> Ausblick von der Harbour Bridge</figcaption>
 </figure>
 
