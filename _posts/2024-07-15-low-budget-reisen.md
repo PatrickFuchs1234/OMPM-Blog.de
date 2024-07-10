@@ -5,11 +5,11 @@ title: 'Low Budget Reisen: Große Abenteuer mit kleinem Budget'
 author: Jenny
 date: 2024-07-09 14:35:00
 categories: ['Reisetipps', 'Low Budget']
-featured_image: 
+featured_image: /images/low-budget-2.jpg
 seo:
   title: 'Low Budget Reisen: Große Abenteuer mit kleinem Budget'
   description:
-  social_image:
+  social_image: /images/low-budget-2.jpg
   keywords:
   hide-from-google: false
 _comments:
@@ -31,6 +31,11 @@ Sehr oft gibt es Frühbucherrabatte für Buchungen, die zumindest einige Wochen 
 Völlig kostenlos kann man bei einem Local auf der Couch übernachten indem man sich über [Couchsurfing.com](https://www.couchsurfing.com/) registriert. Seit kurzem ist für die Nutzung eine kleine Gebühr (14,99€/Jahr, Stand 2024) zu entrichten. Wenn man jedoch bedenkt, wie viel Geld man sich gerade in Städten dadurch spart, eine sehr geringe Summe. Wichtig ist, dass es bei Couchsurfing um kulturellen Austausch geht. Man sollte flexibel, offen und spontan sein und den Gastgeber wirklich kennenlernen wollen. Gemeinsame Unternehmungen gehören in den meisten Fällen dazu, ebenso wie ein kleines Gastgeschenk. Wir hatten bisher ausschließlich tolle Erfahrungen und können versprechen, dass man dadurch so richtig in das Leben der Menschen vor Ort eintauchen kann.
 Wichtig: Achte bei der Auswahl der Hosts auf deren Referenzen und vertraue deinem Bauchgefühl!
 
+<figure class="img1">
+ 	<img src="/images/asien/indien/diwali/diwali-featured.jpg" alt="Diwali feiern beim Couchsurfen">
+    <figcaption>Couchsurfen bedeutet nicht nur, irgendwo kostenlos zu schlafen, sondern seine Hosts kennenzulernen und in deren Kultur einzutauchen.</figcaption>
+</figure>
+
 ### Haussitten
 Eine weitere Möglichkeit ist Haussitten. Dabei passt man auf das Haus und die Haustiere der Besitzer auf, während diese selbst im Urlaub sind. Wir finden, es ist ein großartiger Deal, da man quasi im *eigenen* Haus wohnen kann. Häufig gibt es Haussits in Städten, was natürlich ein idealer Ausgangspunkt fürs Low Budget Reisen ist. Über die App [TrustedHousesitters](https://www.trustedhousesitters.com/refer/RAF778659/?utm_source=copy-link&utm_medium=refer-a-friend&utm_campaign=refer-a-friend) sind zudem beide Seiten versichert. Über unseren Link könnt ihr bei [TrustedHousesitters](https://www.trustedhousesitters.com/refer/RAF778659/?utm_source=copy-link&utm_medium=refer-a-friend&utm_campaign=refer-a-friend) 25% auf alle Memberships erhalten.
 
@@ -44,6 +49,11 @@ Im Austausch gegen ein paar Stunden Arbeit kann man über [Workaway](https://www
 
 ## 2 | Low Budget Transport
 Viel sparen kann man nicht nur bei der Unterkunft, sondern auch beim Transport - dem wohl essenziellsten Teil des Reisens. Flüge versuchen wir, wo es geht, zu vermeiden. Züge und Busse - gerade in eher touristschen Gegenden - kommen da oft wesentlich günstiger.
+
+<figure class="img1">
+ 	<img src="/images/low-budget-2.jpg" alt="Flug">
+    <figcaption>Vor allem beim Transport kann man oft gut aufs Budget schauen.</figcaption>
+</figure>
 
 ### Flüge vermeiden
 Bei Reisen zwischen zwei Orten gibt es oft gute Angebote für Fernbusse oder Züge. Bevor du einen Flug buchst, überlege zwei Mal, ob du ihn wirklich brauchst. Manchmal ist der Zeitaufwand für Flüge nur minimal geringer als der für Busse oder Züge, wenn man die Zeiten bedenkt, die man beim Check-In, beim Security-Check und nach Landung beim Gepäckband verbringt.
@@ -94,6 +104,11 @@ Günstig Essen auf Reisen ist oft eine echte Herausforderung, weil günstig oft 
 In Hostels und AirBnB's gibt es fast immer eine Küche, die man nutzen darf. 
 <!-- Und wer kennt es nicht: auf einer längeren Reise hat man halt auch irgendwann keine Lust mehr auf auswärts essen und kocht einfach mal gerne selbst. Gut fürs Gemüt und fürs Budget. -->
 In sehr touristischen Gegenden lohnt es sich, Supermärkte außerhalb des Zentrums aufzusuchen, da diesselben Supermarktketten an unterschiedlichen Standorten unterschiedliche Preise bieten und im Zentrum oft ein Vielfaches verlangen wie außerhalb.
+
+<figure class="img1">
+ 	<img src="/images/low-budget-1.jpg" alt="Lokales Restaurant in Indien">
+    <figcaption>Lokale Restaurants sind meist viel günstiger und auch authentischer als Restaurantketten.</figcaption>
+</figure>
 
 ### SIM-Karte vor Ort kaufen
 Reisen ohne Internet ist heute kaum mehr vorstellbar und an vielen Orten auch nur unter sehr schwierigen Umständen möglich. Sei es Uber oder Google Maps: eine SIM-Karte gehört auch beim Low Budget Reisen dazu. Um auch beim Reisen online zu sein, gibt es folgende Möglichkeiten:
