@@ -319,6 +319,9 @@ p a:hover {
 
 
 /* ------------ Header -------------- */
+header {
+  padding: 1rem;
+}
 
 nav a {
     padding: 0.25rem 0.5rem;
