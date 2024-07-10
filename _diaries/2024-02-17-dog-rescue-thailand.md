@@ -7,11 +7,11 @@ categories:
   - Asien
   - Südostasien
   - Thailand
-featured_image: /images/diary/dog-sanctuary/dog-featured.jpg
+featured_image: /images/asien/dog-sanctuary/dog-featured.jpg
 seo:
   title: Dog Rescue Center in Songkhla, Thailand
   description:
-  social_image: /images/diary/dog-sanctuary/dog-featured.jpg
+  social_image: /images/asien/dog-sanctuary/dog-featured.jpg
   twitter_card:
   keywords:
   hide-from-google: false
@@ -24,8 +24,8 @@ Mit dem Bus geht es von [Penang](2024-02-06-penang) aus über die malaiisch-thai
 Im Dog Rescue Center leben derzeit etwas mehr als 160 Hunde. Wir sind erstaunt, da alle in einem ziemlich großen Gehege mit Grünflächen untergebracht sind. Wir hatten uns die Rahmenbedingungen schlimmer vorgestellt. Angestellte gibt es nicht viele. Vier Thailänder arbeiten dort. Die restliche Arbeit macht Tamara selbst und gelegentlich, sowie als wir ankommen, gibt es einige Freiwillige, die mithelfen wollen.
 
 <figure class="img2-nr">
-  <img src="/images/diary/dog-sanctuary/dog-9.jpg" alt="süßer Hund zu adpotieren">
-  <img src="/images/diary/dog-sanctuary/dog-10.jpg" alt="süßer Hund zu adpotieren">
+  <img src="/images/asien/dog-sanctuary/dog-9.jpg" alt="süßer Hund zu adpotieren">
+  <img src="/images/asien/dog-sanctuary/dog-10.jpg" alt="süßer Hund zu adpotieren">
 </figure>
 
 ### Arbeit in der Hundeauffangstation
@@ -37,8 +37,8 @@ Die Vormittags-Schicht beginnt um 7:00 Uhr, wo erst einmal geschaut wird, dass a
 Die Fütterung ist immer das totale Chaos, doch wir lieben es. Anfangs sind wir noch überfordert damit, aber schon nach wenigen Tagen kennen wir viele der Hunde (zu unserem Erstaunen sogar beim Namen) und ihren Charakter, was das füttern eindeutig erleichtert. Man muss nur ständig auf der Hut sein, dass nicht ein Vielfraß ausbüchst und sich auf das Futter der anderen anderen Hunde stürzt. Sobald alle Vierbeiner gefüttert sind kehrt absolute Stille ein. Niemals hätten wir gedacht, dass 160 Hunde so leise sein können.
 
 <figure class="img2-nr">
-  <img src="/images/diary/dog-sanctuary/dog-7.jpg" alt="süßer Hund zu adpotieren">
-  <img src="/images/diary/dog-sanctuary/dog-4.jpg" alt="süßer Hund zu adpotieren">
+  <img src="/images/asien/dog-sanctuary/dog-7.jpg" alt="süßer Hund zu adpotieren">
+  <img src="/images/asien/dog-sanctuary/dog-4.jpg" alt="süßer Hund zu adpotieren">
 </figure>
 
 Im Anschluss kümmert sich das thailändische Personal darum, dass weiter sauber gemacht wird. Wenn genügend Freiwillige vor Ort sind, geht es sich sogar aus, dass die Hunde ein wenig spazieren gehen dürfen. Wieder zu unserem Erstaunen können einige Hunde sogar richtig gut an der Leine gehen. Die meisten Hunde freuen sich riesig, wenn sie mal aus ihrem Gehege herauskommen. Schon 10 Minuten spazieren reichen, um einen Hund für den Rest des Tages zufrieden zu stellen. Man merkt, dass man hier mit jedem Spaziergang einen Unterschied machen kann.
@@ -46,8 +46,8 @@ Im Anschluss kümmert sich das thailändische Personal darum, dass weiter sauber
 Am späten Vormittag werden die Medikamente vorbereitet. Weil alle Hunde Rescue Dogs sind und die meisten von ihnen krank von der Straße kommen, brauchen auch viele der Hunde Medikamente. Beinahe wie im Altersheim werden die Medikamente geschachtelt und anschließend an die Hunde ausgeteilt. Mit ein wenig Hundefutter fressen die meisten ihre Tabletten problemlos. Dann ist die Vormittags-Schicht auch schon vorbei.
 
 <figure class="img2-nr">
-  <img src="/images/diary/dog-sanctuary/dog-1.jpg" alt="süßer Hund zu adpotieren">
-  <img src="/images/diary/dog-sanctuary/dog-2.jpg" alt="süßer Hund zu adpotieren">
+  <img src="/images/asien/dog-sanctuary/dog-1.jpg" alt="süßer Hund zu adpotieren">
+  <img src="/images/asien/dog-sanctuary/dog-2.jpg" alt="süßer Hund zu adpotieren">
 </figure>
 
 Die Nachmittags-Schicht sieht ganz ähnlich aus. Zuerst werden wieder die Gehege geputzt (160 Hunde können ganz schön viel Dreck machen). Statt dem Spaziergang werden die Hunde am Nachmittag sozialisiert, was eigentlich nur bedeutet, dass man in die einzelnen Gehege hinein geht, die Hunde streichelt, mit ihnen spielt und Vertrauen aufbaut. Damit verbringt man zwei bis drei Stunden. Danach fängt der Fütterungswahnsinn wieder von vorne an und im Anschluss gibt es wieder Medikamente. Danach wird noch einmal – vor allem bei den kranken Hunden – geputzt und damit ist die Nachmittags-Schicht dann erledigt.
@@ -55,8 +55,8 @@ Die Nachmittags-Schicht sieht ganz ähnlich aus. Zuerst werden wieder die Gehege
 Obwohl alle Hunde irgendwann einmal von Tamara gerettet wurden und die meisten von ihnen sehr schlechte Erfahrungen mit Menschen gemacht haben (wir haben richtige Horror-Geschichten gehört), sind bis auf ganz wenige Ausnahmen alle Hunde sehr zutraulich und freuen sich über menschliche Nähe. Natürlich sind auch einige dabei, die etwas schüchterner sind und bei denen es Zeit braucht, um Vertrauen zu gewinnen. Insgesamt gibt es – erneut zu unserem Erstaunen – nur drei Hunde, mit denen wir uns in unserer kurzen Zeit dort gar nicht beschäftigen (dürfen) und die mit Menschen nicht gut zurecht kommen.
 
 <figure class="img2-nr">
-  <img src="/images/diary/dog-sanctuary/dog-6.jpg" alt="süßer Hund zu adpotieren">
-  <img src="/images/diary/dog-sanctuary/dog-8.jpg" alt="süßer Hund zu adpotieren">
+  <img src="/images/asien/dog-sanctuary/dog-6.jpg" alt="süßer Hund zu adpotieren">
+  <img src="/images/asien/dog-sanctuary/dog-8.jpg" alt="süßer Hund zu adpotieren">
 </figure>
 
 ### Wie kann man helfen?
@@ -68,8 +68,8 @@ Außerdem können sehr viele von den Hunden adoptiert werden – und das nicht n
 Falls jemand mal vor Ort ist und ebenfalls einen Blick hinter die Kulissen werfen, hunderte tolle Hunde kennenlernen und mithelfen möchte, schreibt uns gerne für mehr Infos – am besten über [Instagram](https://www.instagram.com/onememorypermile/){:target="_blank"}. Oder meldet euch – ebenfalls über Instagram - direkt bei [Tamara](https://www.instagram.com/thaistreetpaws_dogrescue/){:target="_blank"}.
 
 <figure class="img2-nr">
-  <img src="/images/diary/dog-sanctuary/dog-3.jpg" alt="süßer Hund zu adpotieren">
-  <img src="/images/diary/dog-sanctuary/dog-5.jpg" alt="süßer Hund zu adpotieren">
+  <img src="/images/asien/dog-sanctuary/dog-3.jpg" alt="süßer Hund zu adpotieren">
+  <img src="/images/asien/dog-sanctuary/dog-5.jpg" alt="süßer Hund zu adpotieren">
 </figure>
 
 Die vergangenen 15 Tage waren bestimmt nicht unser letztes Mal in Songkhla. Wir haben unsere Zeit dort mit den Hunden sehr genossen und hoffen, dass viele der Hunde bald ein endgültiges, glückliches zu Hause finden werden.
