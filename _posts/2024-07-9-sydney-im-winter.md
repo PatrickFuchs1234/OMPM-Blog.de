@@ -36,7 +36,7 @@ Direkt an der anderen Seite der Brücke landet man im Stadtteil The Rocks. Diese
 Kommt während der verregneten Wintertage doch noch einmal die Sonne zum Vorschein, sollte man auf keinen Fall versäumen, die Fähre nach Manly zu nehmen. Die Fähren dort gehören dem öffentlichen Nahverkehrssystem an und sind deshalb auch richtig günstig. Wenn man allerdings mit dem Wetter nicht ganz so großes Glück hat, kann man dort kurz dem geschäftigen Treiben zusehen und sich dann weiter auf den Weg zur Sydney Oper machen.
 
 <figure class="img1">
- 	<img src="/images/diary/sydney/sydney-1.jpg" alt="Öffentliche Fähren">
+ 	<img src="/images/australien/sydney/sydney-1.jpg" alt="Öffentliche Fähren">
   <figcaption> Öffentliche Fähren</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ Wer die Sehenswürdigkeit auch gerne einmal von innen sehen möchte, kann sich e
 > **Top-Tip** Als Geheimtipp empfehlen wir, in ein Konzert zu gehen. Karten sind für unter 35-Jährige sogar relativ günstig. Gut zu wissen ist auch, dass es dort keinen Dresscode gibt. Das heißt, solange du dich in deiner Kleidung wohlfühlst, muss man nicht in Abendgarderobe in der Oper erscheinen. 
 
 <figure class="img1">
- 	<img src="/images/diary/sydney/sydney-1.jpg" alt="Opernhaus von innen">
+ 	<img src="/images/australien/sydney/sydney-1.jpg" alt="Opernhaus von innen">
   <figcaption> Im inneren des Opernhauses</figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ Frühaufsteher und Genussmenschen sind beim Sydney Market genau richtig. Ungefä
 Einen perfekten Programmpunkt für richtig schlechtes Wetter bietet die State Library in Sydney. Hier kann man sich einfach ausruhen oder von den vielen lesenden und lernenden Menschen inspirieren lassen. Ein Pluspunkt für Australiens Bibliotheken ist, dass sie um einiges länger geöffnet haben als Cafés und auch kostenloses W-Lan anbieten.
 
 <figure class="img1">
- 	<img src="/images/diary/sydney/sydney-1.jpg" alt="State Libary von NSW">
+ 	<img src="/images/australien/sydney/sydney-1.jpg" alt="State Libary von NSW">
 </figure>
 
 ## Museen
