@@ -5,11 +5,11 @@ title: 'Wasserfälle & Kängurus: Wanderungen in Lorne an der Great Ocean Road'
 author: Jenny
 date: 2024-07-09 14:35:00
 categories: ['Reisetipps', 'Australien']
-featured_image: /images/australien/
+featured_image: /images/australien/gor/hikes-in-lorne-featured.jpg
 seo:
   title: 'Wasserfälle & Kängurus: Wanderungen in Lorne an der Great Ocean Road'
   description:
-  social_image: /images/australien/
+  social_image: /images/australien/gor/hikes-in-lorne-featured.jpg
   keywords:
   hide-from-google: false
 _comments:
@@ -67,7 +67,7 @@ Es gibt drei verschiedene Möglichkeiten, die Erskine Falls zu sehen:
 3. **Buschwanderung von oben nach unten:** Die dritte Möglichkeit besteht darin, dich oben an den Erskine Falls absetzen zu lassen oder per Anhalter dorthin zu kommen und dann hinunter nach Lorne zu wandern. Diese Route durchquert ebenfalls den Great Otway National Park und führt durch den kühlen, gemäßigten Regenwald. Diese Wanderung dauert etwa 2 bis 3 Stunden und ist eine großartige Möglichkeit, die Natur intensiv zu erleben und gleichzeitig den Weg nicht doppelt gehen zu müssen. Wenn du auf deinem Weg durch Lorne genügend Zeit hast - oder sogar länger dort bleibst - solltest du dich unbedingt für diese Option entscheiden.
 
 <figure class="img1">
- 	<img src="/images/australien/hikes-in-lorne.JPG" alt="Erskine Falls">
+ 	<img src="/images/australien/gor/hikes-in-lorne.JPG" alt="Erskine Falls">
 </figure>
 
 ### St. George River
