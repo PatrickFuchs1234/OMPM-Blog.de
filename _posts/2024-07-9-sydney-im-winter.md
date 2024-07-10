@@ -3,7 +3,7 @@ published: true
 layout: post-with-sidebar
 title: 'Sydney im Winter'
 author: Pati
-date: 2024-07-11 14:40:00
+date: 2024-07-09 14:40:00
 categories: ['Reisetipps', 'Low Budget', 'Australien']
 featured_image: /images/australien/sydney/sydney-featured.jpg
 seo:

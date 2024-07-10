@@ -3,7 +3,7 @@ published: true
 layout: post-with-sidebar
 title: 'Roadtrip: Great Ocean Road'
 author: Jenny
-date: 2024-07-12 14:35:00
+date: 2024-07-09 14:35:00
 categories: ['Reisetipps', 'Low Budget', 'Australien']
 featured_image: /images/australien/gor/gor-featured.jpg
 seo:
@@ -19,7 +19,7 @@ _comments:
 Ein Muss, wenn du in Melbourne bist und zwei oder drei Tage Zeit hast, ist die berühmte Great Ocean Road. Je nachdem, wie viel Zeit du dort verbringen möchtest, kannst du entweder nur entlangfahren und an den Fotospots und Aussichtspunkten anhalten oder sogar Wanderungen unternehmen. Unten findest du meine Roadtrip-Karte mit Fotospots und einigen Wanderungen, die ich während meines Aufenthalts in Lorne an der Great Ocean Road unternommen habe.
 
 ## 1 | Die Karte 
-Um die Karte zu benutzen, klicke einfach auf die Karte, um sie in einem neuen Fenster im Vollbild zu öffnen. Es werden dann drei Ebenen neben der Karte angezeigt. Aktiviere einfach die Kästchen neben dem Namen der Ebene, um Richtungen und Orte ein- oder auszublenden. Wenn du auf die Symbole auf der Karte klickst, werden dir die Namen der Orte angezeigt, die ich markiert habe.
+Um die Karte zu benutzen, klicke einfach auf die Karte, um sie in einem neuen Fenster im Vollbild zu öffnen. Es werden dann zwei Ebenen neben der Karte angezeigt: Die Route an sich und Foto-Spots entlang der Route. Aktiviere einfach die Kästchen neben dem Namen der Ebene, um Richtungen und Orte ein- oder auszublenden. Wenn du auf die Symbole auf der Karte klickst, werden dir die Namen der Orte angezeigt, die ich markiert habe.
 
 <!-- embed google map responsively  -->
 <section>
@@ -83,9 +83,7 @@ Lorne ist ein charmantes kleines Städtchen, durch das man in weniger als einer 
 
 > **Top-Tipp:** Das HAH Lorne Beach Cafe ist ein absolut fantastisches Bio-Café direkt am Strand, das köstliche Mahlzeiten, Snacks und Smoothies serviert.
 
-Wenn du einen Spaziergang oder eine Wanderung machen möchtest, bietet Lorne einige tolle Möglichkeiten. Du kannst einen Spaziergang im echten *Australian Bush* machen, tagsüber Wasserfälle sehen oder in der Abenddämmerung Kängurus und Wallabys beobachten. 
-
-<!-- /* Sieh dir dazu meinen Beitrag Wasserfälle & Kängurus an: Wanderungen in Lorne an der Great Ocean Road. -->
+Wenn du einen Spaziergang oder eine Wanderung machen möchtest, bietet Lorne einige tolle Möglichkeiten. Du kannst einen Spaziergang im echten *Australian Bush* machen, tagsüber Wasserfälle sehen oder in der Abenddämmerung Kängurus und Wallabys beobachten. Sieh dir dazu meinen Beitrag [Wasserfälle & Kängurus: Wanderungen in Lorne an der Great Ocean Road](2019-07-15-wanderungen-in-lorne) an.
 
 <figure class="img1">
  	<img src="/images/australien/gor/gor-9.jpg" alt="Lorne">

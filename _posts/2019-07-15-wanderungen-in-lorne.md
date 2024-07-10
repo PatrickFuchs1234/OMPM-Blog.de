@@ -1,25 +1,27 @@
 ---
 published: true
 layout: post-with-sidebar
-title: 'Roadtrip: Great Ocean Road'
+title: 'Wasserfälle & Kängurus: Wanderungen in Lorne an der Great Ocean Road'
 author: Jenny
-date: 2024-07-12 14:35:00
-categories: ['Reisetipps', 'Low Budget', 'Australien']
-featured_image: /images/australien/gor/gor-featured.jpg
+date: 2024-07-09 14:35:00
+categories: ['Reisetipps', 'Australien']
+featured_image: /images/australien/
 seo:
-  title: 'Low Budget Reisen: Große Abenteuer mit kleinem Budget'
+  title: 'Wasserfälle & Kängurus: Wanderungen in Lorne an der Great Ocean Road'
   description:
-  social_image: /images/australien/gor/gor-featured.jpg
+  social_image: /images/australien/
   keywords:
   hide-from-google: false
 _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-Ein Muss, wenn du in Melbourne bist und zwei oder drei Tage Zeit hast, ist die berühmte Great Ocean Road. Je nachdem, wie viel Zeit du dort verbringen möchtest, kannst du entweder nur entlangfahren und an den Fotospots und Aussichtspunkten anhalten oder sogar Wanderungen unternehmen. Unten findest du meine Roadtrip-Karte mit Fotospots und einigen Wanderungen, die ich während meines Aufenthalts in Lorne an der Great Ocean Road unternommen habe.
+Direkt an der Great Ocean Road gelegen, findet man das hübsche Küstenstädchen Lorne. In dessen Umgebung kann man viele Wanderungen unterschiedlichsten Schweregrades unternehmen. Lorne hat einige atemberaubende Wasserfälle zu bieten und die Tierwelt ist faszinierend. In diesem Beitrag findest du die Beschreibungen von einzelnen Wanderungen sowie eine interaktive Karte, die die Ausgangspunkte für alle Spaziergänge und Wanderungen enthält.
+
+> **Top-Tipp:** Wenn ihr nach Lorne fahrt, solltet ihr euch außerdem unbedingt auch den Beitrag [Roadtrip: Great Ocean Road](2019-07-12-great-ocean-road) ansehen. Dort gibt es eine detaillierte Karte über die Roadtrip-Stopps an der Great Ocean Road.
 
 ## 1 | Die Karte 
-Um die Karte zu benutzen, klicke einfach auf die Karte, um sie in einem neuen Fenster im Vollbild zu öffnen. Es werden dann drei Ebenen neben der Karte angezeigt. Aktiviere einfach die Kästchen neben dem Namen der Ebene, um Richtungen und Orte ein- oder auszublenden. Wenn du auf die Symbole auf der Karte klickst, werden dir die Namen der Orte angezeigt, die ich markiert habe.
+Um die Karte zu benutzen, klicke einfach auf die Karte, um sie in einem neuen Fenster im Vollbild zu öffnen. Es werden dann alle Ausgangspunkte für Wanderungen und deren Ziele neben der Karte angezeigt. Aktiviere einfach die Kästchen neben dem Namen der Ebene, um Punkte ein- oder auszublenden. Wenn du auf die Symbole auf der Karte klickst, werden dir die Namen der Orte angezeigt, die ich markiert habe.
 
 <!-- embed google map responsively  -->
 <section>
@@ -41,7 +43,7 @@ Um die Karte zu benutzen, klicke einfach auf die Karte, um sie in einem neuen Fe
 
 <div class="google-maps">
   <iframe
-    src="https://www.google.com/maps/d/u/0/embed?mid=1uEgCl0JxuoRCHb_mISjE-wAh-7D0WXA9&ehbc=2E312F"
+    src="https://www.google.com/maps/d/u/0/embed?mid=1-kCbjsnnHcLkBj9MehuaZLcMyO1lXVE&ehbc=2E312F&noprof=1"
     width="640"
     height="480"
     style="border:0;"
@@ -51,69 +53,29 @@ Um die Karte zu benutzen, klicke einfach auf die Karte, um sie in einem neuen Fe
   </div>
   </section>
 
-## 2 | Der Transport 
-Obwohl es viele Unternehmen gibt, die Bustouren entlang der Great Ocean Road anbieten, würde ich sagen, dass die beste Art, die Great Ocean Road zu erkunden, mit dem Auto ist. Wenn du noch kein Auto hast, kannst du eines bei einer der vielen Autovermietungen mieten. Außerdem gibt es eine Website bzw. App namens [Turo](https://turo.com/), eine Plattform, auf der Leute ihr eigenes Auto teilen - super günstig und die beste Option, wenn man mit einem kleinen Budget reist.
+## 2 | Die Wanderungen
 
-## 3 | Der Reiseplan
-Die Great Ocean Road liegt ganz in der Nähe von Melbourne und ist von dort aus super zu erreichen. Sie gehört bestimmt zu den Must-Do’s für jede Reise in dieser Region. Viele verschiedene Veranstalter bieten an, die gesamte Tour in einem Tag zu erledigen. Um genügend Zeit für die Great Ocean Road zu haben, würde ich aber zumindest zwei Tage empfehlen. Zwei Tage sind ideal, um entspannt an den zahlreichen Aussichtspunkten und Fotospots anzuhalten oder sogar einige der Wanderwege zu erkunden, die entlang der Great Ocean Road verstreut sind.
+### Phantom Falls, Won Wondah Falls und Henderson Falls
+Beginne deine Wanderung, indem du dein Auto am Allenvale Road Carpark parkst. Von dort aus folgst du einem leicht zugänglichen Weg zu den Phantom Falls. Diese Wasserfälle bieten einen malerischen Anblick und sind ein großartiger erster Stopp auf deiner Tour.
+Nachdem du die Phantom Falls genossen hast, kannst du weiter auf dem Weg zu den Won Wondah Falls und Henderson Falls gehen. Diese Falls liegen nicht weit von den Phantom Falls entfernt und bieten eine schöne Ergänzung. Der Weg zwischen den Falls führt durch eine abwechslungsreiche Landschaft, die typisch für den Great Otway National Park ist. Es gibt Abschnitte mit üppigem Regenwald, klaren Bächen und vielleicht sogar einigen wilden Tierbegegnungen.
 
-### Erster Tag
-Die Great Ocean Road beginnt offiziell in Torquay, einer Stadt, die etwa 100 Kilometer südwestlich von Melbourne liegt. Torquay ist bekannt als das Surf-Mekka Australiens und markiert den Anfangspunkt dieser berühmten Küstenstraße. 
+### Erskine Falls
+Es gibt drei verschiedene Möglichkeiten, die Erskine Falls zu sehen:
 
-#### Bells Beach 
-Von Melbourne aus geht es über Geelong und Torquay nach Bells Beach. Bells Beach ist die Heimat des international bekannten Rip Curl Pro Surfing Competition, der jedes Jahr um Ostern herum stattfindet. Doch auch wenn gerade keine Surf-Wettbewerb stattfindet, ist der Ort an sich ein wunderschöner erster Stopp auf der Great Ocean Road.
-
-<figure class="img1">
- 	<img src="/images/australien/gor/gor-3.jpg" alt="Bells Beach">
-</figure>
-
-#### Split Point Leuchtturm 
-Als nächstes solltest du dir das Split Point Lighthouse in Aireys Inlet nicht entgehen lassen. Du kannst entweder für 10 $ an einer selbstgeführten Tour durch den Leuchtturm teilnehmen oder einfach nur herumlaufen und die atemberaubende Aussicht genießen.
+1. **Erskine Falls Access Road und Stufenabstieg:** Fahre über die Erskine Falls Access Road bis zum Gipfel, wo du dein Auto parken kannst. Von dort aus führen gut angelegte Stufen hinunter zu den Wasserfällen. Diese Option ist eine einfache und bequeme Möglichkeit, die Schönheit der Erskine Falls zu genießen, ohne eine lange Wanderung unternehmen zu müssen.
+2. **Wanderung zu den Wasserfällen und zurück:** Wenn du gerne wanderst und fit bist, kannst du auch von Lorne aus zu den Erskine Falls und wieder zurück wandern. Diese Wanderung ist jedoch anspruchsvoll und dauert insgesamt etwa 4 bis 6 Stunden, je nach Tempo und Pausen. Der Weg führt durch den Great Otway National Park und bietet immer wieder spektakuläre Ausblicke und eine Vielfalt an Pflanzen und Tieren.
+3. **Buschwanderung von oben nach unten:** Die dritte Möglichkeit besteht darin, dich oben an den Erskine Falls absetzen zu lassen oder per Anhalter dorthin zu kommen und dann hinunter nach Lorne zu wandern. Diese Route durchquert ebenfalls den Great Otway National Park und führt durch den kühlen, gemäßigten Regenwald. Diese Wanderung dauert etwa 2 bis 3 Stunden und ist eine großartige Möglichkeit, die Natur intensiv zu erleben und gleichzeitig den Weg nicht doppelt gehen zu müssen. Wenn du auf deinem Weg durch Lorne genügend Zeit hast - oder sogar länger dort bleibst - solltest du dich unbedingt für diese Option entscheiden.
 
 <figure class="img1">
- 	<img src="/images/australien/gor/gor-11.jpg" alt="Split Point Lighthouse">
+ 	<img src="/images/australien/hikes-in-lorne.JPG" alt="Erskine Falls">
 </figure>
 
-#### Gedenkbogen 
-Der Memorial Arch ist wahrscheinlich einer der berühmtesten und meistfotografierten Orte entlang der Straße. Direkt daneben befindet sich ein Parkplatz, auf dem du anhalten und ein paar unvergessliche Fotos machen kannst.
-Der Memorial Arch wurde zu Ehren der aus dem Ersten Weltkrieg zurückgekehrten Soldaten errichtet, die an der Great Ocean Road gearbeitet haben. Die Great Ocean Road selbst wurde zu Ehren aller Australier gebaut, die im Ersten Weltkrieg ihr Leben verloren haben. Mit 243 km von Torquay nach Allansford gilt die Great Ocean Road als das größte Kriegerdenkmal der Welt.
+### St. George River
+Der St. George River Wanderweg bietet einen einfachen Spaziergang von Teddy's Lookout oder direkt von der Great Ocean Road zum Allenvale Carpark. Ein Spaziergang auf diesem Weg in der Abenddämmerung ist etwas ganz Besonderes, da du an den meisten Tagen Hunderte von wilden Kängurus und sogar einige Koalas entlang des Weges sehen kannst. Die Wanderung ist leicht und für die ganze Familie geeignet.
 
-#### Lorne 
-Lorne ist ein charmantes kleines Städtchen, durch das man in weniger als einer halben Stunde durch spazieren kann. Es ist der perfekte Ort, um unterwegs einen Happen zu essen. 
+### Sheoak Falls
+Die Sheoak Falls sind vom Sheoak Falls Carpark aus leicht zu erreichen und nur einen kurzen Spaziergang von der Great Ocean Road entfernt. Der Weg zum Sheoak Falls Carpark ist gut ausgeschildert, und der Pfad zu den Wasserfällen selbst ist ebenfalls klar markiert. Es ist ein schöner Spaziergang, um sich die Beine zu vertreten, nachdem du die Great Ocean Road entlang gefahren bist.
 
-> **Top-Tipp:** Das HAH Lorne Beach Cafe ist ein absolut fantastisches Bio-Café direkt am Strand, das köstliche Mahlzeiten, Snacks und Smoothies serviert.
+> **Top-Tipp:** Wenn du Kängurus in freier Wildbahn sehen möchtest, ohne die Strapazen einer Wanderung auf dich nehmen zu müssen, kannst du im Lorne's Country Club zu Abend essen. In der Abenddämmerung sind normalerweise einige Kängurus in der Nähe - achte nur darauf, dass du nicht auf den Feldern spazierst, während die Leute noch Golf spielen!
 
-Wenn du einen Spaziergang oder eine Wanderung machen möchtest, bietet Lorne einige tolle Möglichkeiten. Du kannst einen Spaziergang im echten *Australian Bush* machen, tagsüber Wasserfälle sehen oder in der Abenddämmerung Kängurus und Wallabys beobachten. 
-
-<!-- /* Sieh dir dazu meinen Beitrag Wasserfälle & Kängurus an: Wanderungen in Lorne an der Great Ocean Road. -->
-
-<figure class="img1">
- 	<img src="/images/australien/gor/gor-9.jpg" alt="Lorne">
-</figure>
-
-#### Apollo Bay 
-Die letzte Station des Tages ist Apollo Bay. In Apollo Bay gibt es viele Übernachtungsmöglichkeiten und Restaurants, was den Ort zu einem perfekten letzten Stopp des Tages macht. Gleichzeitig ist es ein idealer Ausgangspunkt, um am nächsten Tag Sehenswürdigkeiten wie die 12 Apostel, die Loch Ard Gorge und andere natürliche Attraktionen entlang der Küste zu besuchen.
-
-### Zweiter Tag 
-Am zweiten Tag mach dich am besten gleich früh am Morgen auf den Weg zu den berühmten 12 Aposteln.
-
-#### 12 Apostel
-Die 12 Apostel sind eine der bekanntesten Sehenswürdigkeiten entlang der Great Ocean Road. Diese imposanten Felsformationen ragen majestätisch aus dem Ozean empor und bieten eine spektakuläre Kulisse. Früher waren die Felsen unter dem Namen *Sow and Piglets* (also *Sau und Ferkel*) bekannt. Später erhielten sie den Namen *12 Apostel* in Anlehnung an die biblische Metapher der 12 Apostel, obwohl es nie tatsächlich 12 Felsen gab. Dennoch zieht dieser Ort Millionen von Touristen jedes Jahr an.
-
-> **Top-Tipp:** Versuche, vor 11 Uhr dort zu sein, da alle Reisebusse zu diesem Zeitpunkt ankommen.
-
-<figure class="img1">
- 	<img src="/images/australien/gor/gor-2.jpg" alt="12 Apostel an der Great Ocean Road">
-</figure>
-
-#### Loch Ard Gorge, London Arc und die Grotte 
-Als Nächstes stehen die Loch Ard Gorge, der berühmte London Arc und die Grotte auf dem Programm. Geh am besten gleich nach der Besichtigung der 12 Apostel dorthin, denn auch hier kann es sehr voll werden - vor allem während der australischen Sommerferien.
-
-Die Loch Ard Gorge, der London Arch und die Grotte sind drei bemerkenswerte Sehenswürdigkeiten entlang der Great Ocean Road, die jeden Besucher faszinieren. Die Loch Ard Gorge ist eine atemberaubende Bucht mit hohen Felswänden und tiefblauem Wasser, benannt nach dem Schiff "Loch Ard", das 1878 hier sank. Der nahe gelegene London Arch ist ein natürlicher Felsbogen, der einst eine Brücke verband, bis sein zentraler Teil 1990 einstürzte und zwei Touristen strandete, die per Helikopter gerettet wurden. Die Grotte, eine beeindruckende Felsenhöhle, bietet einen spektakulären Blick auf das Meer und die Küste.
-
-<figure class="img1">
- 	<img src="/images/australien/gor/gor-5.jpg" alt="Loch Ard Gorge, London Arc und Grotte an der Great Ocean Road">
-</figure>
-
-## 4 | Weitere Ziele
-Nachdem du auf der Great Ocean Road einige atemberaubende Fotos gemacht und zwei unvergessliche Tage verbracht hast,  kannst du entweder weiter nach Westen in Richtung Adelaide reisen, um mehr von Südaustralien zu entdecken, oder nach Norden zum Grampians National Park, um die beeindruckende Berglandschaft zu erkunden. Alternativ kannst du dich auf den Rückweg nach Melbourne machen und dabei die ruhigere Route durch das Landesinnere wählen. Dort herrscht wesentlich weniger Verkehr und man kommt dementsprechend viel schneller voran.
+Wie bei jeder Wanderung solltest du genügend Wasser mitnehmen und bedenken, dass es an manchen Tagen in Australien extrem heiß werden kann. Halte immer Ausschau nach Spinnen, Schlangen, Koalas und Kängurus - und so faszinierend es auch ist: Wenn du diese Tiere in freier Wildbahn siehst, halte einen Sicherheitsabstand und füttere sie nicht.

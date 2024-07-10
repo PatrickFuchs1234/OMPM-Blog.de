@@ -287,9 +287,9 @@ figcaption {
 .emphasis       { font-size: 1.2rem; }
 .text-featured  { color: var(--featured-text);}
 .text-light     { color: var(--light-text);}
-.subtle         { opacity: 0.8;     }
-.subtitle       { font-size: 0.8rem; }
-
+.subtle         { opacity: 0.8; margin-bottom: 0.2rem; }
+.subtitle       { font-size: 0.9rem; font-weight: 300;}
+.copyright     { opacity: 0.8; font-size: 0.9rem; text-decoration: none;}
 
 /* ------------ Buttons & Links ------------ */
 a {
