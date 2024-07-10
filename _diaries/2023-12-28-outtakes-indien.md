@@ -49,12 +49,16 @@ Sie hingegen möchte auch noch eine Flasche Wasser haben und gibt dem Mann das G
 
 Als wir in [Jaipur](2023-10-26-jaipur) nach 5 Stunden Zugfahrt ankommen und aussteigen, merken wir, dass Patis Gesichtshälfte, die zum Fenster ohne Fensterscheibe gewandt war, komplett schwarz ist. Der Hostelbesitzer, der uns bei unserem Hostel empfängt, sieht Patis Gesicht und sagt nur „oh no, looks like you had a tough train ride  …“. Da hat er wohl recht.
 
-<figure class="img2">
-  <img src="/images/asien/outtakes-indien/outtakes-indien-1.jpg" alt="Zugfahrt mit offenem Fenster">
-  <figcaption> Zugfahrt mit offenem Fenster.</figcaption>
-  <img src="/images/asien/outtakes-indien/outtakes-indien-2.jpg" alt="Zug-Ausblick">
-  <figcaption> Dafür mit schönem Ausblick.</figcaption>
-</figure>
+<div class="img2">
+  <figure>
+    <img src="/images/asien/outtakes-indien/outtakes-indien-1.jpg" alt="Zugfahrt mit offenem Fenster">
+    <figcaption> Zugfahrt mit offenem Fenster.</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/asien/outtakes-indien/outtakes-indien-2.jpg" alt="Zug-Ausblick">
+    <figcaption> Dafür mit schönem Ausblick.</figcaption>
+  </figure>
+</div>
 
 ### Schneckentempo
 
@@ -64,11 +68,15 @@ Für die Fahrt zum Flughafen in Varanasi nehmen wir uns ein TukTuk. Anders als s
 
 Im [Local-Zug in Mumbai](2023-11-06-mumbai-1) erleben wir viele zufällige Begegnungen. Einmal lernen wir Raj kennen. Er möchte wissen, was Jennys Lieblingsessen ist. Im Gegenzug erfahren wir, dass sein Lieblingsessen Chicken Tandoori ist. Dann steigt er wieder aus dem Zug aus. 
 
-<figure class="img2">
-  <img src="/images/asien/outtakes-indien/outtakes-indien-5.jpg" alt="Mumbai Local Train">
-  <figcaption> Mumbai Local Train.</figcaption>
-  <img src="/images/asien/outtakes-indien/outtakes-indien-6.jpg" alt="Voller Zug in Mumbai">
-</figure>
+<div class="img2-nr">
+  <figure>
+    <img src="/images/asien/outtakes-indien/outtakes-indien-5.jpg" alt="Mumbai Local Train">
+    <figcaption> Mumbai Local Train.</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/asien/outtakes-indien/outtakes-indien-6.jpg" alt="Voller Zug in Mumbai">
+  </figure>
+</div>
 
 ### Abendliche Hosen-Rettung
 

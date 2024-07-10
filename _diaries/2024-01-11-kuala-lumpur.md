@@ -21,12 +21,16 @@ _comments:
 ---
 Wir sind jetzt bereits seit fast vier Wochen in Kuala Lumpur, aber wirklich viel erzählenswertes ist in diesen Wochen nicht passiert. Angekommen sind wir bereits am 15. Dezember, etwas mehr als eine Woche vor Weihnachten. Wir haben unsere Wohnung in Chow Kit bezogen, ein Airbnb im 14. Stock in einem Hochhaus mit Fitnessstudio und Infinity Pool. Es ist mega cool, aber auch irgendwie absurd nobel. Als wir unsere Wohnung das erste Mal betreten, können wir kaum glauben wie unglaublich toll der Ausblick und auch insgesamt die Lage dieser Wohnung ist. Wir sind einfach mitten im Zentrum. 
 
-<figure class="img2">
-  <img src="/images/asien/kuala-lumpur/kuala-lumpur-10.jpg" alt="Ausblick aus unserer Wohnung">
-  <figcaption> Ausblick aus unserer Wohnung.</figcaption>
-  <img src="/images/asien/kuala-lumpur/kuala-lumpur-8.jpg" alt="Infinity Pool am Rooftop">
-  <figcaption> Infinity Pool am Rooftop.</figcaption>
-</figure>
+<div class="img2">
+  <figure>
+    <img src="/images/asien/kuala-lumpur/kuala-lumpur-10.jpg" alt="Ausblick aus unserer Wohnung">
+    <figcaption> Ausblick aus unserer Wohnung.</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/asien/kuala-lumpur/kuala-lumpur-8.jpg" alt="Infinity Pool am Rooftop">
+    <figcaption> Infinity Pool am Rooftop.</figcaption>
+  </figure>
+</div>
 
 Den gesamten ersten Tag verbringen wir mit waschen (was wirklich dringend notwendig ist, nachdem in Sri Lanka bei der hohen Luftfeuchtigkeit kaum etwas trocken geworden ist). Hier haben wir sogar eine Waschmaschine mit Trocknerfunktion und wir freuen uns extrem darüber. In unserer ersten Woche in Kuala Lumpur unternehmen wir nur sehr wenig. Wir bewegen uns in kleinem Umkreis um die Wohnung, besuchen eine Food Street, mehrere Malls, (irgendwie spielt sich das Leben in Kuala Lumpur hier hauptsächlich in den Shoppingzentren ab), entdecken eine Mall, die sogar einen Vergnügungspark im fünften Stock hat und testen verschiedene Restaurants. Hauptsächlich aber genießen wir es eine Base zu haben, zu Hause zu kochen und auch einfach mal faul auf der Couch zu liegen.
 
