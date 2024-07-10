@@ -5,11 +5,11 @@ author: Pati
 date: 2023-10-16 18:31:00
 categories:
   - Reiseplanung
-featured_image: /images/diary/reisevorbereitungen-featured.jpg
+featured_image: /images/reisevorbereitungen-featured.jpg
 seo:
   title: Reisevorbereitungen
   description:
-  social_image: /images/diary/reisevorbereitungen-featured.jpg
+  social_image: /images/reisevorbereitungen-featured.jpg
   twitter_card:
   keywords:
   hide-from-google: false

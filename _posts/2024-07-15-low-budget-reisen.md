@@ -4,7 +4,7 @@ layout: post-with-sidebar
 title: 'Low Budget Reisen: Große Abenteuer mit kleinem Budget'
 author: Jenny
 date: 2024-07-06 14:35:00
-categories: ['Reisetipps', 'Low Budget', 'Reiseplanung']
+categories: ['Reisetipps', 'Low Budget']
 featured_image: 
 seo:
   title: 'Low Budget Reisen: Große Abenteuer mit kleinem Budget'
