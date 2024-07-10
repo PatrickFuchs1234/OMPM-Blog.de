@@ -30,12 +30,16 @@ Nach einem kurzen Refresh und einer Stunde Schlaf lassen wir uns von einem Mitar
 
 Bestellt wird aus dem Bauch heraus, da wir auf der Karte nichts kennen. Das einzige, das wir wissen ist, dass alles vegetarisch ist. Kurz nach unserer Bestellung kommt auch schon das Essen, das inmitten von tausenden Fliegen und einem unangenehm beißenden Geruch in der Luft serviert wird. Natürlich haben wir nicht daran gedacht nachzufragen, wie scharf das Essen sein wird. Nun ja… sehr scharf. Dreiviertel der Portionen können wir mit Hilfe von Butter-Naan und einem Liter Wasser aufessen, doch dann wird uns viel zu heiß 😀 Wir bezahlen 3,80€ und bekommen als Dessert ein Anis-Kümmel-Dings in Grün, das eher süß und sehr lecker war.
 
-<figure class="img2">
+<div class="img2">
+<figure>
  	<img src="/images/asien/indien/erste-eindruecke-neu-delhi/erste-eindruecke-4.jpg" alt="Indisches Essen">
   <figcaption>Wir wissen noch nicht, dass das gleich sehr scharf wird.</figcaption>
+</figure>
+<figure>
   <img src="/images/asien/indien/erste-eindruecke-neu-delhi/erste-eindruecke-5.jpg" alt="Dessert in Indien">
   <figcaption>Anis-Kümmel-Dings.</figcaption>
 </figure>
+</div>
 
 Danach nehmen wir uns ein TukTuk zum India Gate und spazieren zum Connought Place. Viele Inder, Erwachsene und Kinder, sprechen uns auf dem Weg an und wollen Fotos mit uns machen. Unsere helle Hautfarbe macht uns zu einer kleinen Attraktion.
 
