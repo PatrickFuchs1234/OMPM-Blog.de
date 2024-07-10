@@ -26,7 +26,7 @@ Das Traggerüst der Harbour Bridge kann sogar mit einem Guide begangen werden, w
 
 <figure class="img1">
  	<img src="/images/diary/sydney/sydney-featured.jpg" alt="Opernhaus von der Harbour Bridge">
-  <figcaption> Ausblick von der Harbour Bridge</figcaption>
+  <figcaption> Ausblick von der Harbour Bridge.</figcaption>
 </figure>
 
 ## The Rocks
@@ -37,7 +37,7 @@ Kommt während der verregneten Wintertage doch noch einmal die Sonne zum Vorsche
 
 <figure class="img1">
  	<img src="/images/australien/sydney/sydney-1.jpg" alt="Öffentliche Fähren">
-  <figcaption> Öffentliche Fähren</figcaption>
+  <figcaption> Öffentliche Fähren.</figcaption>
 </figure>
 
 ## Manly 
@@ -49,8 +49,8 @@ Wer die Sehenswürdigkeit auch gerne einmal von innen sehen möchte, kann sich e
 > **Top-Tip** Als Geheimtipp empfehlen wir, in ein Konzert zu gehen. Karten sind für unter 35-Jährige sogar relativ günstig. Gut zu wissen ist auch, dass es dort keinen Dresscode gibt. Das heißt, solange du dich in deiner Kleidung wohlfühlst, muss man nicht in Abendgarderobe in der Oper erscheinen. 
 
 <figure class="img1">
- 	<img src="/images/australien/sydney/sydney-1.jpg" alt="Opernhaus von innen">
-  <figcaption> Im inneren des Opernhauses</figcaption>
+ 	<img src="/images/australien/sydney/sydney-1.jpg" alt="Opernhaus Konzertsaal">
+  <figcaption> Der Konzertsaal des Opernhauses.</figcaption>
 </figure>
 
 
