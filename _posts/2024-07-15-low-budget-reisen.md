@@ -40,7 +40,7 @@ Wichtig: Achte bei der Auswahl der Hosts auf deren Referenzen und vertraue deine
 Eine weitere Möglichkeit ist Haussitten. Dabei passt man auf das Haus und die Haustiere der Besitzer auf, während diese selbst im Urlaub sind. Wir finden, es ist ein großartiger Deal, da man quasi im *eigenen* Haus wohnen kann. Häufig gibt es Haussits in Städten, was natürlich ein idealer Ausgangspunkt fürs Low Budget Reisen ist. Über die App [TrustedHousesitters](https://www.trustedhousesitters.com/refer/RAF778659/?utm_source=copy-link&utm_medium=refer-a-friend&utm_campaign=refer-a-friend) sind zudem beide Seiten versichert. Über unseren Link könnt ihr bei [TrustedHousesitters](https://www.trustedhousesitters.com/refer/RAF778659/?utm_source=copy-link&utm_medium=refer-a-friend&utm_campaign=refer-a-friend) 25% auf alle Memberships erhalten.
 
 ### Workaway
-Im Austausch gegen ein paar Stunden Arbeit kann man über [Workaway](https://www.workaway.info/invite/324CD22B) gratis wohnen und oft sogar essen. Angebote gibt es in fast allen Ländern der Welt. Bei Anmeldung über diesen [Link](https://www.workaway.info/invite/324CD22B) erhältst du zusätzlich einen Monat gratis zu deinem Membership dazu. Zu beachten ist, dass es sich bei Workaway um *Arbeit* handelt. Das bedeutet, dass man in den meisten Ländern ein Arbeits- oder Work & Travel-Visum benötigt. Eine ganz ähnliche Plattform ist auch Worldpackers - wir haben viel Gutes darüber gehört, allerdings selber noch nicht ausprobiert.
+Im Austausch gegen ein paar Stunden Arbeit kann man über [Workaway](https://www.workaway.info/invite/324CD22B) gratis wohnen und oft sogar essen. Angebote gibt es in fast allen Ländern der Welt. Bei Anmeldung über diesen [Link](https://www.workaway.info/invite/324CD22B) erhältst du zusätzlich einen Monat gratis zu deinem Membership dazu. Zu beachten ist, dass es sich bei Workaway um *Arbeit* handelt. Das bedeutet, dass man in den meisten Ländern ein Arbeits- oder Work & Travel-Visum benötigt. Eine ganz ähnliche Plattform ist auch Worldpackers - wir haben viel Gutes darüber gehört, sie allerdings selber noch nicht ausprobiert.
 
 <figure class="img1">
  	<img src="/images/asien/philippinen/philippinen-3.JPG" alt="Meer auf den Philippinen">
@@ -72,6 +72,10 @@ Gerade bei längeren Flügen empfehlenswert, weil man dadurch die Unterkunft fü
 Oft sind die Flüge selbst gar nicht teuer, sondern es sind die Gepäckstücke die den Preis in die Höhe treiben.
 ##### 5 | Flexibel sein
 Wähle die Urlaubsdestination nach dem günstigten Flug aus. Aber Achtung: gerade in der Hauptsaison sind die Flüge zu teuren Urlaubszielen oft günstig - allerdings zahlt man dann dafür vor Ort für Unterkünft und Essen umso mehr.
+##### 6 Preise vergleichen
+Websiten und Apps wie Skyscanner, Kayak, Hopper oder Kiwi vergleichen die Preise verschiedener Flüge. Zudem lohnt es sich, auch die Preise zwischen den Apps zu vergleichen, da diese ebenso schwanken können.
+<!-- kiwi afiliate -->
+
 
 ### Öffis nutzen
 Weiche auf öffentliche Verkehrsmittel aus, wann immer es geht. Busse und Straßenbahnen sind meist deutlich günstiger als private Taxis und Uber. Außer man teilt sich das Taxi mit 2-3 Personen: Dann lohnt es sich wieder, die Preise zu vergleichen.
@@ -102,7 +106,7 @@ In den meisten Städten werden mittlerweile auch sogenannte Free Walking Tours a
 ### Low Budget Essen
 Günstig Essen auf Reisen ist oft eine echte Herausforderung, weil günstig oft *Fast Food* bedeutet. In lokalen Restaurants kann man dennoch oft gute Deals bekommen und Streetfood ist eine Low Budget Alternative. 
 In Hostels und AirBnB's gibt es fast immer eine Küche, die man nutzen darf. 
-<!-- Und wer kennt es nicht: auf einer längeren Reise hat man halt auch irgendwann keine Lust mehr auf auswärts essen und kocht einfach mal gerne selbst. Gut fürs Gemüt und fürs Budget. -->
+Und wer kennt es nicht: auf einer längeren Reise hat man halt auch irgendwann keine Lust mehr auf auswärts essen und möchte einfach mal gerne selbst kochen. Gut fürs Gemüt und fürs Budget.
 In sehr touristischen Gegenden lohnt es sich, Supermärkte außerhalb des Zentrums aufzusuchen, da diesselben Supermarktketten an unterschiedlichen Standorten unterschiedliche Preise bieten und im Zentrum oft ein Vielfaches verlangen wie außerhalb.
 
 <figure class="img1">
@@ -123,5 +127,5 @@ Achtung: In einigen Ländern muss zur Aktivierung der SIM-Karte der Reisepass vo
 > **Top-Tipp:** Beim Reisen zu zweit nur eine SIM-Karte kaufen. Meistens haben solche SIM-Karten so viel Datenvolumen, dass die zweite Person ganz einfach im Hotspot mitsurfen kann.
 
 ### Fazit
-Low Budget Reisen ist eine ganz besondere und oft abenteuerliche Art des Reisens, die wir keinesfalls eintauschen würden. Man wird oft aus seiner Komfortzone gelockt, 
-Wir kombinieren Couchsurfen mit Haussitten und Workaways und machen worauf wir gerade Lust haben. Früh zu buchen lohnt sich in vielen Fällen, wir achten dann darauf, dass man die Buchung gegebenenfalls noch kostenlos stornieren kann. SIM-Karte kaufen wir eigentlich immer nur eine, weil das Datenvolumen - dank Hotspot - locker für uns beide reicht. 
+Low Budget Reisen ist eine ganz besondere und oft abenteuerliche Art des Reisens, die wir keinesfalls eintauschen würden. Man wird oft aus seiner Komfortzone gelockt, erlebt dadurch allerdings auch vieles was man für gewöhnlich nicht machen würde.
+Wir kombinieren Couchsurfen mit Haussitten und Workaways und machen worauf wir gerade Lust haben. Früh zu buchen lohnt sich in vielen Fällen, wir achten dann darauf, dass man die Buchung gegebenenfalls noch kostenlos stornieren kann. SIM-Karte kaufen wir eigentlich immer nur eine, weil das Datenvolumen - dank Hotspot - locker für uns beide reicht (und es in großen Städten an fast jeder Straßenecke WLAN gibt).
