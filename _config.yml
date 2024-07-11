@@ -1,9 +1,10 @@
 collections:
   posts:
     output: true
-    permalink: /posts/:year/:slug
+    permalink: /posts/:slug
   diaries:
     output: true
+    permalink: /diaries/:slug
   archives: 
     output: true
   diary-archives: 
