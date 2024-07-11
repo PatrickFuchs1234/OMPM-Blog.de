@@ -52,7 +52,7 @@ Um die Karte zu benutzen, klicke einfach auf die Karte, um sie in einem neuen Fe
   </section>
 
 ## 2 | Der Transport 
-Obwohl es viele Unternehmen gibt, die Bustouren entlang der Great Ocean Road anbieten, würde ich sagen, dass die beste Art, die Great Ocean Road zu erkunden, mit dem Auto ist. Wenn du noch kein Auto hast, kannst du eines bei einer der vielen Autovermietungen mieten. Außerdem gibt es eine Website bzw. App namens [Turo](https://turo.com/), eine Plattform, auf der Leute ihr eigenes Auto teilen - super günstig und die beste Option, wenn man mit einem kleinen Budget reist.
+Es gibt viele Unternehmen, die Bustouren entlang der Great Ocean Road anbieten. Trotzdem würde ich sagen, dass die beste Art, die Great Ocean Road zu erkunden, mit dem Auto ist. Wenn du noch kein Auto hast, kannst du eines bei einer der vielen Autovermietungen mieten. Außerdem gibt es eine Website bzw. App namens [Turo](https://turo.com/), eine Plattform, auf der Leute ihr eigenes Auto teilen - super günstig und die beste Option, wenn man mit einem kleinen Budget reist.
 
 ## 3 | Der Reiseplan
 Die Great Ocean Road liegt ganz in der Nähe von Melbourne und ist von dort aus super zu erreichen. Sie gehört bestimmt zu den Must-Do’s für jede Reise in dieser Region. Viele verschiedene Veranstalter bieten an, die gesamte Tour in einem Tag zu erledigen. Um genügend Zeit für die Great Ocean Road zu haben, würde ich aber zumindest zwei Tage empfehlen. Zwei Tage sind ideal, um entspannt an den zahlreichen Aussichtspunkten und Fotospots anzuhalten oder sogar einige der Wanderwege zu erkunden, die entlang der Great Ocean Road verstreut sind.
@@ -61,7 +61,7 @@ Die Great Ocean Road liegt ganz in der Nähe von Melbourne und ist von dort aus 
 Die Great Ocean Road beginnt offiziell in Torquay, einer Stadt, die etwa 100 Kilometer südwestlich von Melbourne liegt. Torquay ist bekannt als das Surf-Mekka Australiens und markiert den Anfangspunkt dieser berühmten Küstenstraße. 
 
 #### Bells Beach 
-Von Melbourne aus geht es über Geelong und Torquay nach Bells Beach. Bells Beach ist die Heimat des international bekannten Rip Curl Pro Surfing Competition, der jedes Jahr um Ostern herum stattfindet. Doch auch wenn gerade keine Surf-Wettbewerb stattfindet, ist der Ort an sich ein wunderschöner erster Stopp auf der Great Ocean Road.
+Von Melbourne aus geht es über Geelong und Torquay nach Bells Beach. Bells Beach ist die Heimat des international bekannten Rip Curl Pro Surfing Competition, der jedes Jahr um Ostern stattfindet. Doch auch wenn gerade keine Surf-Wettbewerb stattfindet, ist der Ort an sich ein wunderschöner erster Stopp auf der Great Ocean Road.
 
 <figure class="img1">
  	<img src="/images/australien/gor/gor-3.jpg" alt="Bells Beach">
@@ -83,7 +83,7 @@ Lorne ist ein charmantes kleines Städtchen, durch das man in weniger als einer 
 
 > **Top-Tipp:** Das HAH Lorne Beach Cafe ist ein absolut fantastisches Bio-Café direkt am Strand, das köstliche Mahlzeiten, Snacks und Smoothies serviert.
 
-Wenn du einen Spaziergang oder eine Wanderung machen möchtest, bietet Lorne einige tolle Möglichkeiten. Du kannst einen Spaziergang im echten *Australian Bush* machen, tagsüber Wasserfälle sehen oder in der Abenddämmerung Kängurus und Wallabys beobachten. Sieh dir dazu meinen Beitrag [Wasserfälle & Kängurus: Wanderungen in Lorne an der Great Ocean Road](2019-07-15-wanderungen-in-lorne) an.
+Wenn du einen Spaziergang oder eine Wanderung machen möchtest, bietet Lorne einige tolle Möglichkeiten. Du kannst im echten *Australian Bush* spazieren, tagsüber Wasserfälle sehen oder in der Abenddämmerung Kängurus und Wallabys beobachten. Sieh dir dazu meinen Beitrag [Wasserfälle & Kängurus: Wanderungen in Lorne an der Great Ocean Road](2019-07-15-wanderungen-in-lorne) an.
 
 <figure class="img1">
  	<img src="/images/australien/gor/gor-9.jpg" alt="Lorne">
@@ -93,10 +93,10 @@ Wenn du einen Spaziergang oder eine Wanderung machen möchtest, bietet Lorne ein
 Die letzte Station des Tages ist Apollo Bay. In Apollo Bay gibt es viele Übernachtungsmöglichkeiten und Restaurants, was den Ort zu einem perfekten letzten Stopp des Tages macht. Gleichzeitig ist es ein idealer Ausgangspunkt, um am nächsten Tag Sehenswürdigkeiten wie die 12 Apostel, die Loch Ard Gorge und andere natürliche Attraktionen entlang der Küste zu besuchen.
 
 ### Zweiter Tag 
-Am zweiten Tag mach dich am besten gleich früh am Morgen auf den Weg zu den berühmten 12 Aposteln.
+Am zweiten Tag, mach dich am besten gleich früh am Morgen auf den Weg zu den berühmten 12 Aposteln.
 
 #### 12 Apostel
-Die 12 Apostel sind eine der bekanntesten Sehenswürdigkeiten entlang der Great Ocean Road. Diese imposanten Felsformationen ragen majestätisch aus dem Ozean empor und bieten eine spektakuläre Kulisse. Früher waren die Felsen unter dem Namen *Sow and Piglets* (also *Sau und Ferkel*) bekannt. Später erhielten sie den Namen *12 Apostel* in Anlehnung an die biblische Metapher der 12 Apostel, obwohl es nie tatsächlich 12 Felsen gab. Dennoch zieht dieser Ort Millionen von Touristen jedes Jahr an.
+Die 12 Apostel sind eine der bekanntesten Sehenswürdigkeiten entlang der Great Ocean Road. Diese imposanten Felsformationen ragen majestätisch aus dem Ozean empor und bieten eine spektakuläre Kulisse. Früher waren die Felsen unter dem Namen *Sow and Piglets* (also *Sau und Ferkel*) bekannt. Später erhielten sie den Namen *12 Apostel* in Anlehnung an die biblische Metapher der 12 Apostel, obwohl es nie tatsächlich 12 Felsen gab. Dennoch zieht dieser Ort jedes Jahr Millionen von Touristen an.
 
 > **Top-Tipp:** Versuche, vor 11 Uhr dort zu sein, da alle Reisebusse zu diesem Zeitpunkt ankommen.
 
@@ -104,10 +104,10 @@ Die 12 Apostel sind eine der bekanntesten Sehenswürdigkeiten entlang der Great 
  	<img src="/images/australien/gor/gor-2.jpg" alt="12 Apostel an der Great Ocean Road">
 </figure>
 
-#### Loch Ard Gorge, London Arc und die Grotte 
-Als Nächstes stehen die Loch Ard Gorge, der berühmte London Arc und die Grotte auf dem Programm. Geh am besten gleich nach der Besichtigung der 12 Apostel dorthin, denn auch hier kann es sehr voll werden - vor allem während der australischen Sommerferien.
+#### Loch Ard Gorge, London Arch und die Grotte 
+Als Nächstes stehen die Loch Ard Gorge, der berühmte London Arch und die Grotte auf dem Programm. Geh am besten gleich nach der Besichtigung der 12 Apostel dorthin, denn auch hier kann es sehr voll werden - vor allem während der australischen Sommerferien.
 
-Die Loch Ard Gorge, der London Arch und die Grotte sind drei bemerkenswerte Sehenswürdigkeiten entlang der Great Ocean Road, die jeden Besucher faszinieren. Die Loch Ard Gorge ist eine atemberaubende Bucht mit hohen Felswänden und tiefblauem Wasser, benannt nach dem Schiff "Loch Ard", das 1878 hier sank. Der nahe gelegene London Arch ist ein natürlicher Felsbogen, der einst eine Brücke verband, bis sein zentraler Teil 1990 einstürzte und zwei Touristen strandete, die per Helikopter gerettet wurden. Die Grotte, eine beeindruckende Felsenhöhle, bietet einen spektakulären Blick auf das Meer und die Küste.
+Die Loch Ard Gorge, der London Arch und die Grotte sind drei bemerkenswerte Sehenswürdigkeiten entlang der Great Ocean Road, die jeden Besucher faszinieren. Die Loch Ard Gorge ist eine atemberaubende Bucht mit hohen Felswänden und tiefblauem Wasser, benannt nach dem Schiff "Loch Ard", das 1878 hier sank. Der nahe gelegene London Arch ist ein natürlicher Felsbogen, der einst Teil der "London Bridge" war. Die Grotte, eine beeindruckende Felsenhöhle, bietet einen spektakulären Blick auf das Meer und die Küste.
 
 <figure class="img1">
  	<img src="/images/australien/gor/gor-5.jpg" alt="Loch Ard Gorge, London Arc und Grotte an der Great Ocean Road">
