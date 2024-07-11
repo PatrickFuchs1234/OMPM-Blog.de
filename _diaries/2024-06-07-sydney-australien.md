@@ -9,7 +9,7 @@ seo:
   title: Sydney, Australien
   description:
   social_image: /images/australien/sydney/sydney-featured-diary.jpg
-  keywords:
+  keywords: Backpacking in Australien, Couchsurfing in Sydney, Angebote für das Opernhaus in Sydney, Sydney im Winter, Manly Beach Sydney, Australien, Sydney
   hide-from-google: false
 _comments:
   title: Max 70 characters

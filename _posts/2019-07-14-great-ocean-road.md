@@ -64,14 +64,14 @@ Die Great Ocean Road beginnt offiziell in Torquay, einer Stadt, die etwa 100 Kil
 Von Melbourne aus geht es über Geelong und Torquay nach Bells Beach. Bells Beach ist die Heimat des international bekannten Rip Curl Pro Surfing Competition, der jedes Jahr um Ostern stattfindet. Doch auch wenn gerade keine Surf-Wettbewerb stattfindet, ist der Ort an sich ein wunderschöner erster Stopp auf der Great Ocean Road.
 
 <figure class="img1">
- 	<img src="/images/australien/gor/gor-3.jpg" alt="Bells Beach" data-pin-hover="true" data-pin-url="{{ site.baseurl }}{{ page.url | absolute_url }}">
+ 	<img src="/images/australien/gor/gor-3.jpg" alt="Bells Beach">
 </figure>
 
 #### Split Point Leuchtturm 
 Als nächstes solltest du dir das Split Point Lighthouse in Aireys Inlet nicht entgehen lassen. Du kannst entweder für 10 $ an einer selbstgeführten Tour durch den Leuchtturm teilnehmen oder einfach nur herumlaufen und die atemberaubende Aussicht genießen.
 
 <figure class="img1">
- 	<img src="/images/australien/gor/gor-11.jpg" alt="Split Point Lighthouse" data-pin-hover="true" data-pin-url="{{ site.baseurl }}{{ page.url | absolute_url }}">
+ 	<img src="/images/australien/gor/gor-11.jpg" alt="Split Point Lighthouse">
 </figure>
 
 #### Gedenkbogen 
@@ -86,7 +86,7 @@ Lorne ist ein charmantes kleines Städtchen, durch das man in weniger als einer 
 Wenn du einen Spaziergang oder eine Wanderung machen möchtest, bietet Lorne einige tolle Möglichkeiten. Du kannst im echten *Australian Bush* spazieren, tagsüber Wasserfälle sehen oder in der Abenddämmerung Kängurus und Wallabys beobachten. Sieh dir dazu meinen Beitrag [Wasserfälle & Kängurus: Wanderungen in Lorne an der Great Ocean Road](2019-07-15-wanderungen-in-lorne) an.
 
 <figure class="img1">
- 	<img src="/images/australien/gor/gor-9.jpg" alt="Lorne" data-pin-hover="true" data-pin-url="{{ site.baseurl }}{{ page.url | absolute_url }}">
+ 	<img src="/images/australien/gor/gor-9.jpg" alt="Lorne">
 </figure>
 
 #### Apollo Bay 
@@ -101,7 +101,7 @@ Die 12 Apostel sind eine der bekanntesten Sehenswürdigkeiten entlang der Great 
 > **Top-Tipp:** Versuche, vor 11 Uhr dort zu sein, da alle Reisebusse zu diesem Zeitpunkt ankommen.
 
 <figure class="img1">
- 	<img src="/images/australien/gor/gor-2.jpg" alt="12 Apostel an der Great Ocean Road" data-pin-hover="true" data-pin-url="{{ site.baseurl }}{{ page.url | absolute_url }}">
+ 	<img src="/images/australien/gor/gor-2.jpg" alt="12 Apostel an der Great Ocean Road">
 </figure>
 
 #### Loch Ard Gorge, London Arch und die Grotte 
@@ -110,7 +110,7 @@ Als Nächstes stehen die Loch Ard Gorge, der berühmte London Arch und die Grott
 Die Loch Ard Gorge, der London Arch und die Grotte sind drei bemerkenswerte Sehenswürdigkeiten entlang der Great Ocean Road, die jeden Besucher faszinieren. Die Loch Ard Gorge ist eine atemberaubende Bucht mit hohen Felswänden und tiefblauem Wasser, benannt nach dem Schiff "Loch Ard", das 1878 hier sank. Der nahe gelegene London Arch ist ein natürlicher Felsbogen, der einst Teil der "London Bridge" war. Die Grotte, eine beeindruckende Felsenhöhle, bietet einen spektakulären Blick auf das Meer und die Küste.
 
 <figure class="img1">
- 	<img src="/images/australien/gor/gor-5.jpg" alt="Loch Ard Gorge, London Arc und Grotte an der Great Ocean Road" data-pin-hover="true" data-pin-url="{{ site.baseurl }}{{ page.url | absolute_url }}">
+ 	<img src="/images/australien/gor/gor-5.jpg" alt="Loch Ard Gorge, London Arc und Grotte an der Great Ocean Road">
 </figure>
 
 ## 4 | Weitere Ziele
