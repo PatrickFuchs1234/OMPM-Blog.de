@@ -7,11 +7,10 @@ categories:
   - Reiseplanung
 featured_image: /images/reisevorbereitungen-featured.jpg
 seo:
-  title: Reisevorbereitungen
-  description:
+  title: 'Reisevorbereitungen'
+  description: 'Unsere Weltreise 2023: Von unseren Träumen zur konkreten Planung. Begleite uns auf unserem Abenteuer, das vor einem Jahr als reine Idee begann.'
   social_image: /images/reisevorbereitungen-featured.jpg
-  twitter_card:
-  keywords:
+  keywords: 'Reisevorbereitungen, Weltreise, Zugreise, Visum beantragen für Indien, Reiseroute für eine Weltreise festlegen'
   hide-from-google: false
 _comments:
   title: Max 70 characters

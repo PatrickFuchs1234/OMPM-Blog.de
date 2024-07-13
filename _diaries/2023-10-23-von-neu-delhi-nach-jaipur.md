@@ -11,7 +11,7 @@ categories:
 featured_image: /images/asien/indien/delhi-nach-jaipur/delhi-nach-jaipur-featured.jpg
 seo:
   title: Von Neu Delhi nach Jaipur
-  description:
+  description: 'Erfahre von unserer turbulenten Zugfahrt von Neu Delhi nach Jaipur, mit Hindernissen, freundlichen Begegnungen und einer unerwarteten Lieferung.'
   social_image: /images/asien/indien/delhi-nach-jaipur/delhi-nach-jaipur-featured.jpg
   twitter_card:
   keywords:

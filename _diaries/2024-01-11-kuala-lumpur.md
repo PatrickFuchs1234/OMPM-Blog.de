@@ -10,14 +10,10 @@ categories:
 featured_image: /images/asien/kuala-lumpur/kuala-lumpur-featured.jpg
 seo:
   title: Kuala Lumpur, Malaysia
-  description:
+  description: 'Erlebe unser außergewöhnliches Weihnachten und Silvester in Kuala Lumpur mit Freunden, Sightseeing und unvergesslichen Momenten.'
   social_image: /images/asien/kuala-lumpur/kuala-lumpur-featured.jpg
-  twitter_card:
-  keywords:
+  keywords: 'Kuala Lumpur, Malaysia, Weihnachten in KL, Silvester in Kuala Lumpur, Sightseeing Malaysia, Petronas Towers, Batu Caves'
   hide-from-google: false
-_comments:
-  title: Max 70 characters
-  social_image: landscape 1200 x 600px
 ---
 Wir sind jetzt bereits seit fast vier Wochen in Kuala Lumpur, aber wirklich viel erzählenswertes ist in diesen Wochen nicht passiert. Angekommen sind wir bereits am 15. Dezember, etwas mehr als eine Woche vor Weihnachten. Wir haben unsere Wohnung in Chow Kit bezogen, ein Airbnb im 14. Stock in einem Hochhaus mit Fitnessstudio und Infinity Pool. Es ist mega cool, aber auch irgendwie absurd nobel. Als wir unsere Wohnung das erste Mal betreten, können wir kaum glauben wie unglaublich toll der Ausblick und auch insgesamt die Lage dieser Wohnung ist. Wir sind einfach mitten im Zentrum. 
 

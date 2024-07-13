@@ -10,11 +10,10 @@ categories:
   - Reiseplanung
 featured_image: /images/asien/indien/los-gehts/los-gehts-featured.jpg
 seo:
-  title: Reisestart
-  description:
+  title: 'Reisestart: Vorbereitungen, Flug und Ankunft in Neu Delhi'
+  description: 'Erlebe mit uns die aufregenden ersten Schritte unserer Indienreise: Vorbereitungen, Flugabenteuer und Ankunft in Neu Delhi.'
   social_image: /images/asien/indien/los-gehts/los-gehts-featured.jpg
-  twitter_card:
-  keywords:
+  keywords: 'Reisestart, Indien, Weltreise-Vorbereitungen, Neu Delhi, Asien, Südasien, Reiseplanung'
   hide-from-google: false
 _comments:
   title: Max 70 characters

@@ -11,14 +11,10 @@ categories:
 featured_image: /images/asien/outtakes-indien/outtakes-indien-featured.jpg
 seo:
   title: 'Outtakes: Indien'
-  description:
+  description: 'Lies von unvergesslichen Outtakes während unserer Abenteuerreise durch Indien. Von kuriosen Taxifahrten bis hin zu kulinarischen Entdeckungen ist alles dabei.'
   social_image: /images/asien/outtakes-indien/outtakes-indien-featured.jpg
-  twitter_card:
-  keywords:
+  keywords: 'Indien, Outtakes aus Indien, Reiseerlebnisse, Indien Reise, Erfahrungsbericht, Abenteuer Indien, kulturelle Unterschiede'
   hide-from-google: false
-_comments:
-  title: Max 70 characters
-  social_image: landscape 1200 x 600px
 ---
 Neben unseren täglichen Erlebnissen gibt es noch einige unerzählte, kurze Geschichten die wir euch natürlich nicht vorenthalten wollen. Es folgen also einige Outtakes unserer Indien-Reise.
 

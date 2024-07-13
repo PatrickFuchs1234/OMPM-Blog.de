@@ -10,11 +10,10 @@ categories:
   - Nordindien
 featured_image: /images/asien/indien/erste-eindruecke-neu-delhi/erste-eindruecke-featured.jpg
 seo:
-  title: Erste Eindrücke aus Neu Delhi
-  description:
+  title: 'Erste Eindrücke aus Neu Delhi: Essen, Smog und Kulturshock'
+  description: 'Unsere ersten Stunden in Neu Delhi: Von scharfem Essen über den Smog bis zu kulturellen Erlebnissen – ein intensiver Start in Indien.'
   social_image: /images/asien/indien/erste-eindruecke-neu-delhi/erste-eindruecke-featured.jpg
-  twitter_card:
-  keywords:
+  keywords: 'Erste Eindrücke aus Neu Delhi, Indien, indisches Essen, Smog in Indien, India Gate, Connought Place'
   hide-from-google: false
 _comments:
   title: Max 70 characters

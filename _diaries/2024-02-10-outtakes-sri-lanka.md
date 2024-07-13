@@ -7,14 +7,10 @@ categories: ['Asien', 'Südasien', 'Sri Lanka', 'Outtakes']
 featured_image: /images/asien/outtakes-sri-lanka/outtakes-sri-lanka-featured.jpg
 seo:
   title: 'Outtakes: Sri Lanka'
-  description:
+  description: 'Erfahre in unseren Sri Lanka Outtakes von Abenteuern mit Stegen, Straßenlaternen und Busgeschichten, die wir so nur hier erlebt haben.'
   social_image: /images/asien/outtakes-sri-lanka/outtakes-sri-lanka-featured.jpg
-  twitter_card:
-  keywords:
+  keywords:  'Sri Lanka, Reisebericht Sri Lanka, Outtakes Sri Lanka, Busgeschichten aus Sri Lanka, Unerzähltes'
   hide-from-google: false
-_comments:
-  title: Max 70 characters
-  social_image: landscape 1200 x 600px
 ---
 Wie auch schon von [Indien](2023-12-28-outtakes-indien), gibt es auch aus Sri Lanka noch einige unerzählte Geschichten und einige Outtakes, denen sich dieser Blogbeitrag widmet.
 
