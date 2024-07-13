@@ -755,6 +755,26 @@ blockquote p {padding-left: 3%; padding-right: 3%;}
   vertical-align: top;
 }
 
+/* flexbox */
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-item {
+  width: 50%;
+  box-sizing: border-box;
+}
+
+.order-1 {
+  order: 1;}
+
+.order-2 {
+  order: 2;}
+
+
+
+
 
 /* ------- MD Media Query (64em / 1024px) --------------- */ 
 /* - Styles added here will apply at devices smaller than 576px, or zoomed in equivalent */ 
@@ -763,11 +783,14 @@ blockquote p {padding-left: 3%; padding-right: 3%;}
 
 	.md-show { display: block; }
 	.md-hide { display: none;  }
+  .md-center {text-align: center;}
 
   .md-padded{ padding: 5%; } 
 
   .md-padded-b{padding-bottom: 2rem;}
 
+  .order-1 {order: 2;}
+  .order-2 {order: 1;}
   
 }
 
