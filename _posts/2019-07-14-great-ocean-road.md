@@ -8,9 +8,9 @@ categories: ['Reisetipps', 'Low Budget', 'Australien']
 featured_image: /images/australien/gor/gor-featured.jpg
 seo:
   title: 'Low Budget Reisen: Große Abenteuer mit kleinem Budget'
-  description:
+  description: 
   social_image: /images/australien/gor/gor-featured.jpg
-  keywords:
+  keywords: 
   hide-from-google: false
 _comments:
   title: Max 70 characters
