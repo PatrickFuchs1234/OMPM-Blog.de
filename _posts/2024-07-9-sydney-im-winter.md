@@ -7,10 +7,10 @@ date: 2024-07-09 14:40:00
 categories: ['Reisetipps', 'Low Budget', 'Australien']
 featured_image: /images/australien/sydney/sydney-featured.jpg
 seo:
-  title: Sydney im Winter
-  description:
+  title: 'Sydney im Winter'
+  description: 'Erlebe Sydney im Winter: Entdecke die Sydney Harbour Bridge, The Rocks, Circular Quay, Manly, das Opernhaus, Royal Botanical Gardens und Sydney Markets.'
   social_image: /images/australien/sydney/sydney-featured.jpg
-  keywords:
+  keywords: 'Sydney im Winter, Sydney Harbour Bridge, The Rocks Sydney, Circular Quay, Manly Beach, Sydney Opera House, Royal Botanical Gardens, Sydney Markets, Winteraktivitäten Sydney'
   hide-from-google: false
 _comments:
   title: Max 70 characters

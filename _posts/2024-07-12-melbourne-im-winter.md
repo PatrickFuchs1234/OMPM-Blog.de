@@ -7,10 +7,10 @@ date: 2024-07-09 14:40:00
 categories: ['Reisetipps', 'Low Budget', 'Australien']
 featured_image: /images/australien/melbourne/melbourne-featured.jpg
 seo:
-  title: Melbourne im Winter
-  description:
+  title: 'Melbourne im Winter'
+  description: 'Erkunde Melbourne im Winter: Entdecke die Docklands, Flinders Street Station, State Library of Victoria, National Gallery of Victoria, Shrine of Remembrance und mehr.'
   social_image: /images/australien/melbourne/sydmelbourneney-featured.jpg
-  keywords:
+  keywords: 'Melbourne im Winter, Docklands Melbourne, Flinders Street Station, State Library of Victoria, National Gallery of Victoria, Shrine of Remembrance, Melbourne Parks, St Kilda Pinguine, Queen Victoria Market, Melbourne Shopping, Melbourne Bars und Cafés'
   hide-from-google: false
 _comments:
   title: Max 70 characters

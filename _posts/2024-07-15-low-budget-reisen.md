@@ -8,9 +8,9 @@ categories: ['Reisetipps', 'Low Budget']
 featured_image: /images/low-budget-2.jpg
 seo:
   title: 'Low Budget Reisen: Große Abenteuer mit kleinem Budget'
-  description:
+  description: 'Entdecke, wie du große Abenteuer mit kleinem Budget erleben kannst. Tipps zu günstigen Unterkünften, Transportmöglichkeiten und Spartipps für deine Reise.'
   social_image: /images/low-budget-2.jpg
-  keywords:
+  keywords: 'Low Budget Reisen, günstige Unterkünfte finden, Couchsurfing, Haussitten, Workaway, günstige Reiseziele, kostenlose Attraktionen, lokale Restaurants'
   hide-from-google: false
 _comments:
   title: Max 70 characters

@@ -7,10 +7,10 @@ date: 2024-07-09 14:35:00
 categories: ['Reisetipps', 'Low Budget', 'Australien']
 featured_image: /images/australien/gor/gor-featured.jpg
 seo:
-  title: 'Low Budget Reisen: Große Abenteuer mit kleinem Budget'
-  description: 
+  title: 'Great Ocean Road Roadtrip: Tipps für Low Budget Abenteuer und Sehenswürdigkeiten'
+  description: 'Erlebe die Great Ocean Road mit unserem Guide: Entdecke die 12 Apostel, Bells Beach, Lorne und Apollo Bay. Ideal für Low Budget Reisende und Abenteurer!'
   social_image: /images/australien/gor/gor-featured.jpg
-  keywords: 
+  keywords: 'Great Ocean Road, Roadtrip Australien, Low Budget Reisen, 12 Apostel, Bells Beach, Lorne Wanderungen, Split Point Leuchtturm, Loch Ard Gorge, Apollo Bay, Roadtrip Great Ocean Road'
   hide-from-google: false
 _comments:
   title: Max 70 characters
