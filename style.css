@@ -768,7 +768,6 @@ blockquote p {padding-left: 3%; padding-right: 3%;}
 
 
 
-
 /* ------------ Responsive Styles ----------------------- */
 
 /* General CSS Responsive Styles (Apply everywhere unless overriden) */ 
@@ -797,6 +796,8 @@ blockquote p {padding-left: 3%; padding-right: 3%;}
   .md-padded{ padding: 5%; } 
 
   .md-padded-b{padding-bottom: 2rem;}
+
+  
 }
 
 /* ------- SM Media Query (48em / 768px) --------------- */ 

@@ -10,7 +10,15 @@
         {% endfor %}
 
         <h4 class="margin-t-1"> {{ post.title }} </h4>
-        <p class="sm-hide"> {{ post.description }} </p>
+        
+        {% assign words = post.content | number_of_words %}
+        {% if words > 15 %}
+            {% capture short_content %}{{ post.content | truncatewords: 15 }}...{% endcapture %}
+        {% else %}
+            {% capture short_content %}{{ post.content }}{% endcapture %}
+        {% endif %}
+        <p class="sm-hide"> {{ short_content }} </p>
+        
         <a href="{{ post.url }}" class="subtle-button"> weiterlesen </a>
 
     </div>
