@@ -361,7 +361,7 @@ nav a:hover {
 .logo-img-footer {
   width: 200px;
   height: 200px;
-  background-image: url('/images/favicon.png');
+background-image: url('/images/logo-OMPM.png');
   background-size: cover;
   background-repeat: no-repeat;
   float: right; /* Float the logo to the right */
