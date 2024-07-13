@@ -6,14 +6,11 @@ date: 2024-06-07 14:00:00
 categories: ['Australien', 'Ostküste Australien', 'Couchsurfing']
 featured_image: /images/australien/sydney/sydney-featured-diary.jpg
 seo:
-  title: Sydney, Australien
-  description:
+  title: 'Sydney, Australien'
+  description: 'Erlebe mit uns unsere Abenteuer in Sydney: Von Couchsurfing mit Linda und Steve bis zu Ausflügen zum Opernhaus und Manly Beach.'
   social_image: /images/australien/sydney/sydney-featured-diary.jpg
-  keywords: Backpacking in Australien, Couchsurfing in Sydney, Angebote für das Opernhaus in Sydney, Sydney im Winter, Manly Beach Sydney, Australien, Sydney
+  keywords: 'Backpacking in Australien, Couchsurfing in Sydney, Opernhaus Sydney, Manly Beach Sydney, Sydney Winter, Sydney Markt'
   hide-from-google: false
-_comments:
-  title: Max 70 characters
-  social_image: landscape 1200 x 600px
 ---
 Um 23:55 Uhr geht unser Flug von [Perth](2024-05-31-perth-australien) nach Sydney. Nach einer sehr langen Nacht kommen wir um 6 Uhr morgens an der Ostküste Australiens an. Dort wollen wir die nächsten drei Tage die Stadt erkunden.
 

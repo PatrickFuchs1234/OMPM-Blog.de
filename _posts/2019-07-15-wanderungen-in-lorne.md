@@ -8,9 +8,9 @@ categories: ['Reisetipps', 'Australien']
 featured_image: /images/australien/gor/hikes-in-lorne-featured.jpg
 seo:
   title: 'Wasserfälle & Kängurus: Wanderungen in Lorne an der Great Ocean Road'
-  description:
+  description: 'Erkunde Lorne an der Great Ocean Road. Finde die besten Wanderungen wie Erskine Falls, Phantom Falls und St. George River Trail.'
   social_image: /images/australien/gor/hikes-in-lorne-featured.jpg
-  keywords:
+  keywords: 'Lorne Wanderungen, Wasserfälle Great Ocean Road, Erskine Falls Wanderung, Phantom Falls Lorne, St. George River Trail, Sheoak Falls Australien, Great Ocean Road Reisetipps'
   hide-from-google: false
 _comments:
   title: Max 70 characters

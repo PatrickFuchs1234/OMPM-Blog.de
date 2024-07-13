@@ -10,14 +10,10 @@ categories:
 featured_image: /images/asien/kambodscha/kambodscha-featured.jpg
 seo:
   title: Kambodscha
-  description:
+  description: 'Erlebe Kambodscha durch unsere Augen: Grenzübergänge, beeindruckende Tempel von Angkor Wat und die faszinierende Atmosphäre von Siem Reap.'
   social_image: /images/asien/kambodscha/kambodscha-featured.jpg
-  twitter_card:
-  keywords: Siem Reap, Angkor Wat
+  keywords: 'Kambodscha, Siem Reap, Angkor Wat, Grenzübertritt nach Kambodscha, Tempelanlagen in Kambotscha, Reisebericht'
   hide-from-google: false
-_comments:
-  title: Max 70 characters
-  social_image: landscape 1200 x 600px
 ---
 Von Bangkok aus fahren wir mit einem – wieder sehr noblen – Bus nach Kambodscha. Um 7:00 Uhr morgens fährt der Bus direkt hinter unserem Hostel los. Die angenehme Fahrt dauert circa 3 Stunden, dann sind wir auch schon an der Grenze. Dort müssen wir aus dem Bus aussteigen und zu Fuß über die Grenze gehen, um auf der Kambodscha-Seite wieder abgeholt zu werden. Eine Stunde ist dafür eingeplant, dann soll der Bus wieder weiterfahren. Die meisten Busunternehmen, mit denen wir bisher gefahren sind, geben genaue Grenzwartezeiten an. Schafft man es in dieser Zeit nicht über die Grenze, muss man auf den nächsten Bus warten und mit diesem weiterfahren. 
 

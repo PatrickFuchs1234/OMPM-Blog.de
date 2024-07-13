@@ -10,13 +10,10 @@ categories:
 featured_image: /images/asien/philippinen/philippinen-featured.jpg
 seo:
   title: Philippinen
-  description:
+  description: 'Unsere Zeit auf den Philippinen: Von Manila über Cebu bis Siquijor. Entdecke unser Workaway-Projekt, Freediving und entspannte Inselmomente.'
   social_image: /images/asien/philippinen/philippinen-featured.jpg
-  keywords:
+  keywords: 'Philippinen, Cebu, Siquijor, Manila, Freediving, Workaway, Workaway auf den Philippinen, Oslob, Reisen Philippinen'
   hide-from-google: false
-_comments:
-  title: Max 70 characters
-  social_image: landscape 1200 x 600px
 ---
 Von Bangkok aus fliegen wir auf die Philippinen, in die Hauptstadt Manila. Vom Flughafen aus machen wir uns zu Fuß auf den Weg zu unserem Hotel. Wir haben vorab die Empfehlung bekommen nicht in Flughafennähe zu übernachten, lassen uns davon allerdings nicht abhalten es doch zu tun. Während wir vollgepackt mit unseren Rucksäcken die überfüllten 4-spurigen Straßen entlang spazieren, erinnert uns das Treiben ein wenig an [Indien](2023-10-19-erste-eindruecke-aus-neu-delhi).  Die Häuser sind sehr heruntergekommen. Wahnsinnig viele Menschen stehen am Straßenrand, unzählige kleine Essens- und Verkaufsstände reihen sich aneinander und viele lustige und überfüllte Gefährte – Moped mit Beiwagen und Dach – stehen daneben. Bis zu unserem Hotel ist Stau: Autos, Mopeds, Menschen zu Fuß mit irgendwelchen Wägen – alle sind auf der Hauptstraße unterwegs. Wir sind belustigt und freuen uns über das Leben in den Straßen, aber nach 20 Minuten neben der Hauptstraße sind wir dann doch froh im Hotel anzukommen.
 

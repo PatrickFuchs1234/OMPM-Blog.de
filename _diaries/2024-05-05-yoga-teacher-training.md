@@ -11,14 +11,10 @@ categories:
 featured_image: /images/asien/ytt/ytt-featured.jpg
 seo:
   title: Yoga Teacher Training
-  description:
+  description: '22 Tage Yoga Teacher Training in Ubud: Ashtanga, Hatha, Vinyasa und Aerial Yoga. Erlebe unsere Herausforderungen und Erfolge auf dem Weg zum Yoga-Lehrer.'
   social_image: /images/asien/ytt/ytt-featured.jpg
-  twitter_card:
-  keywords:
+  keywords: 'Yoga Teacher Training Ubud, Yoga Ausbildung Bali, Water Purification Bali, Yoga Teacher Training, Erfahrungen im YTT'
   hide-from-google: false
-_comments:
-  title: Max 70 characters
-  social_image: landscape 1200 x 600px
 ---
 Insgesamt 22 Tage verbringen wir in Ubud beim Yoga Teacher Training. Nach einer super feinen Woche in [Canggu](2024-04-18-bali) sind wir bereit für drei Wochen intensives Training. Insgesamt werden 200 Stunden Yoga-Praxis und Yoga-Theorie in diesen 22 Tagen stattfinden. Frei haben wir nur eineinhalb Tage insgesamt.
 

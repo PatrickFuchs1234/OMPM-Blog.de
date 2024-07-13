@@ -6,14 +6,11 @@ date: 2024-05-31 14:00:00
 categories: ['Australien', 'Westküste Australien']
 featured_image: /images/australien/perth/perth-featured.jpg
 seo:
-  title: Perth, Australien
-  description:
+  title: 'Perth, Australien'
+  description: 'Erlebe unsere Abenteuer in Perth: Hostel-Erfahrungen, Hundesitting und beeindruckende Küstenlandschaften.'
   social_image: /images/australien/perth/perth-featured.jpg
-  keywords:
+  keywords: 'Perth Australien, Hostel Perth, Australian Bush, Hundesitting Perth, Chihuahuas beim Hundesitten, Perth Küste, Reiseberichte Australien'
   hide-from-google: false
-_comments:
-  title: Max 70 characters
-  social_image: landscape 1200 x 600px
 ---
 Von [Bali](2024-04-18-bali) aus fliegen wir nach Australien. Gegen 4:00 Uhr morgens landen wir am Flughafen in Perth. Am Flughafen ist kaum was los und die Einreise ist super unkompliziert. So stehen wir bereits um kurz vor fünf bei 14° – nach sechs Monaten heißem Asien für uns gefühlte Eiseskälte – vorm Terminal und warten auf unser Uber.
 
