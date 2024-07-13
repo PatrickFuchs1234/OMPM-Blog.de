@@ -3,4 +3,25 @@
     {% endfor %}
 
     <h4 class="margin-t-1 sm-margin-b-05"> {{ diary.title }} </h4>
-    <p class="sm-hide"> {{ diary.description }} </p>
+    
+    {% if diary.content %}
+                        {% assign words = diary.content | number_of_words %}
+                        {% if words > 15 %}
+                            {% capture short_content %}{{ diary.content | truncatewords: 15 }}...{% endcapture %}
+                        {% else %}
+                            {% capture short_content %}{{ diary.content }}{% endcapture %}
+                        {% endif %}
+                        <p>{{ short_content }}</p>
+
+                        {% assign urls = diary.content | split: " " | where_exp:"word", "word contains 'http'" %}
+                        {% if urls.size > 0 %}
+                            <p>Links in the content: 
+                                {% for url in urls %}
+                                    {% capture url_without_link %}{{ url | replace:'<a href="','' | replace:'">','' }}{% endcapture %}
+                                    {{ url_without_link }}
+                                    {% unless forloop.last %}, {% endunless %}
+                                {% endfor %}
+                            </p>
+                        {% endif %}
+                        
+                    {% endif %}
