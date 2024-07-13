@@ -28,8 +28,12 @@ function createCookie(name, value, days) {
   
   function runCookiedCodes() {
     // Add tracking scripts here
+    async src="https://www.googletagmanager.com/gtag/js?id=G-TTER589G1V";
+    
+    window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-TTER589G1V');
+     // End tracking scripts
+
     console.log("cookies ran");
-    // End tracking scripts
   }
   
   if (readCookie("cookie-notice-accepted") == "true") {
