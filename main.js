@@ -28,8 +28,6 @@ function createCookie(name, value, days) {
   
   function runCookiedCodes() {
     // Add tracking scripts here
-    async src="https://www.googletagmanager.com/gtag/js?id=G-TTER589G1V";
-    
     window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-TTER589G1V');
      // End tracking scripts
 
@@ -39,8 +37,6 @@ function createCookie(name, value, days) {
   if (readCookie("cookie-notice-accepted") == "true") {
     runCookiedCodes();
   document.querySelector(".reshow-button").classList.add("hide-button");
-    //removes cookies while testing
-    //eraseCookie('cookie-notice-accepted')
     
   } else {
     
@@ -61,6 +57,8 @@ function createCookie(name, value, days) {
     .addEventListener("click", (e) => {
       eraseCookie("cookie-notice-accepted")
       document.getElementById("cookie-notice").style.display = "none";
+
+      console.log("cookies erased")
     });
   
   document.querySelector(".reshow-button")
