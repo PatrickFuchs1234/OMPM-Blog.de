@@ -1,0 +1,15 @@
+    {% for item in diary.categories %}
+        <span class="tag sm-hide"> {{item}} </span>
+    {% endfor %}
+
+    <h4 class="margin-t-1 sm-margin-b-05"> {{ diary.title }} </h4>
+    
+    {% if diary.content %}
+    {% assign words = diary.content | number_of_words %}
+    {% if words > 15 %}
+        {% capture short_content %}{{ diary.content | truncatewords: 15 }}...{% endcapture %}
+    {% else %}
+        {% capture short_content %}{{ diary.content }}{% endcapture %}
+    {% endif %}
+    <p>{{ short_content }}</p>
+    {% endif %}
