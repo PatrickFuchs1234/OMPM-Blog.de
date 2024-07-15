@@ -2,7 +2,7 @@
 layout: post
 title: '#28 Newcastle, Australien - Teil 1'
 author: Pati
-date: 2024-07-15 14:00:00
+date: 2024-07-14 14:00:00
 categories: ['Australien', 'Ostküste Australien']
 featured_image: /images/australien/newcastle/newcastle-1-featured.jpg
 seo:
@@ -10,7 +10,7 @@ seo:
   description: 'Erlebe Newcastle mit uns: Unsere Ankunft, erste Entdeckungen und der spannende Start als Hundesitter für Louie und Betsy.'
   social_image: /images/australien/newcastle/newcastle-1-featured.jpg
   keywords: 'Newcastle Australien, Hundesitter Abenteuer, Hundesitten, Merewether Beach, Reiseberichte Australien'
-  hide-from-google: true
+  hide-from-google: false
 ---
 Nach drei aufregenden Tagen in [Sydney](2024-06-07-sydney-australien) kommen wir nach einer kurzen Zugfahrt in Newcastle an. Wir spazieren vom Bahnhof aus zu Rebecca, auf deren Hunde wir im nächsten Monat aufpassen. Rebecca ist mit Betsy, ihrer Hündin, noch beim Training. Daher werden wir, als wir bei ihr ankommen, nur von Louie - einem alten, von Rebecca erst kürzlich aufgenommenen Rescue-Dog - empfangen. Eigentlich sollte man niemals einfach so in ein fremdes Haus gehen, in dem noch dazu ein Hund wohnt, aber Louie hält nicht viel vom Wachhund-Dasein und empfängt uns mit größter Begeisterung wie zwei alte Freunde. 
 

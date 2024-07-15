@@ -11,7 +11,7 @@
 
         <h4 class="margin-t-1 sm-margin-0 sm-margin-b-05"> {{ post.title }} </h4>
         
-        <div class="sm-hide">
+        <div>
         {% assign words = post.content | number_of_words %}
         {% if words > 15 %}
             {% capture short_content %}{{ post.content | truncatewords: 15 }}...{% endcapture %}

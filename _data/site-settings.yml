@@ -1,12 +1,12 @@
 seo: 
-  site_name: Tina's Amazing Blog
-  title: Default SEO Title
-  description: Default description
-  keywords: Default
+  site_name: OneMemoryPerMile Reiseblog und Reisetagebuch
+  title: onememorypermile
+  description: Willkommen auf unserem Reiseblog, auf dem wir Erlebnisse, Tipps und Reisegeschichten teilen.
+  keywords: ['Österreichischer Reiseblog, Reisetagebuch, Low Budget Reisen, Backpacking, Weltreise']
   social_image: /images/logo-OMPM.png
-  author: PF
+  author: Jenny & Pati
   favicon_image: /images/favicon-OMPM.png
-social: 
+social:
   instagram_username: https://www.instagram.com/onememorypermile
   facebook_url: https://www.facebook.com/profile.php?id=61557339363740
   pinterest: https://www.pinterest.com/onememorypermile/

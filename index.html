@@ -53,26 +53,6 @@ seo:
             {% endfor %}  
         </div>
 
-        <!-- div for small devices -->
-        <!-- <div class="col-12-middle sm-show-flex grid-spaceAround">
-            {% for post in site.posts limit:3 %}
-            <div class="col-4-middle post-item padded-05">
-                <div class="bg-image square" style="background-image:url( '{{ post.featured_image }}' );"></div>
-            </div>
-            <div class="col-6 margin-t-1 padded-t-1 sm-margin-0 sm-padded-0">
-                    
-                {% for item in post.categories %}
-                    <span class="tag sm-hide"> {{item}} </span>
-                {% endfor %}
-
-                <h4 class="margin-t-1 sm-margin-b-05"> {{ post.title }} </h4>
-                <a href="{{ post.url }}" class="subtle-button"> weiterlesen </a>
-
-            </div>
-            {% endfor %}
-        </div> -->
-
-
         <div class="col-12 center padded-t sm-padded-b">
             <a href="/blog" class="button"> Mehr anzeigen</a>
         </div>
@@ -100,7 +80,7 @@ seo:
         {% for diary in travel-diaries limit:3 %}
             
             <div class="col-4-middle_sm-12 post-item padded-05">
-                <div class="bg-image square sm-landscape" style="background-image:url( '{{ diary.featured_image }}' );"></div>
+                <a class="bg-image square sm-landscape sm-margin-0" style="background-image:url( '{{ diary.featured_image }}' )" href="{{ diary.url }}"></a>
             </div>
             <div class="col-6-middle_sm-12 sm-center sm-margin-b">
                     

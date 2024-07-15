@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: '#29 Newcastle, Australien - Teil 2'
 author: Pati
@@ -7,10 +8,10 @@ categories: ['Australien', 'Ostküste Australien']
 featured_image: /images/australien/newcastle/newcastle-2-featured.jpg
 seo:
   title: 'Newcastle, Australien - Teil 2'
-  description: 'Erlebe Newcastle: Walbeobachtungen bei Nobbys Lighthouse, der Anzac Memorial Walk und unsere Abenteuer als Hundesitter mit Louie und Betsy.'
+  description: 'Erlebe Newcastle: Walbeobachtungen bei Nobbys Lighthouse, der Anzac Memorial Walk und unsere Abenteuer beim Haussitting.'
   social_image: /images/australien/newcastle/newcastle-2-featured.jpg
   keywords: 'Newcastle Australien, Walbeobachtungen, Wale in Newcastle, Anzac Memorial Walk, Hundesitter Abenteuer, Reiseberichte Australien, Reisetagebuch'
-  hide-from-google: true
+  hide-from-google: false
 ---
 In den letzten zwei Wochen in [Newcastle](2024-07-11-newcastle-1-australien) wollen wir neben unserem Hundesitter-Job endlich auch die Stadt und deren Strände etwas genauer erkunden. 
 
