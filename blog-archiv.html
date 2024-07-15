@@ -10,35 +10,36 @@ seo:
 ---
 
 <!------------------------ Split blog loop (part 1) ------------------------>
-<section class="padded archive">
+<section class="padded">
 
     <div class="capped-width-narrow padded-05 center margin-b-1">
         <h2> Blog Archiv </h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, quaerat necessitatibus? Praesentium fugit ex neque magni, possimus, iste itaque voluptatem id doloremque voluptas consequatur dolor cumque! Dolores possimus laboriosam adipisci.</p>
+        <p>Hier findest du alle unsere Blogeinträge gesammelt.</p>
     </div>
 
-    <div class="capped-width grid">
+    <div class="capped-width-v-narrow grid sm-margin-b">
 
         {% for post in site.posts limit:100 %}
 
-        <a class="col-6_md-12 post-item padded-2 sm-padded-1" href="{{ post.url }}">
+        <div class="col-12 post-item padded-1 sm-padded-b ">
             <div class="grid">
-                <div class="col-3-middle">
-                    <div class="bg-image square" style="background-image:url( '{{ post.featured_image }}' );"></div>
+                <div class="col-3-middle_sm-12">
+                    <a class="bg-image square sm-landscape" style="background-image:url( '{{ post.featured_image }}' );"  href="{{ post.url }}"></a>
     
                 </div>
-                <div class="col-9-middle padded-1">
+                <div class="col-9-middle_sm-12 padded sm-padded-0">
 
                     {% for item in post.categories %}
                         <span class="tag"> {{item}} </span>
                     {% endfor %}
             
-                    <h4 class="margin-t-05 margin-b-05 subtle-heading-xs"> {{ post.title }} </h4>
-                    <p class="subtitle xs-hide"> {{ post.description }} </p>
+                    <h4 class="margin-t-05 margin-b-05 sm-margin-0 sm-margin-b-05"> {{ post.title }} </h4>
+                    <p class="subtitle sm-hide"> {{ post.description }} </p>
+                    <a href="{{ post.url }}" class="subtle-button"> weiterlesen </a>
             
                 </div>
             </div>
-        </a>
+        </div>
 
         {% endfor %}
 

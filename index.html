@@ -10,32 +10,34 @@ seo:
 ---
 
 <!------------------------ Intro Banner  ------------------------>
-<section class="grid bg-medium center bg-image padded vh40" style="background-image: url('#');">
+<section class="grid-spaceAround center bg-image padded vh80 xs-vh70" style="background-image: url('/images/bannerimg.JPG'); background-position: 50% 40%;"">
 
-    <div class="col-12-middle">
-        <h2> Willkommen auf unserem neuen Reiseblog! </h2>
-        <p> Ab sofort findest du hier Blogbeiträge zu allem, was mit dem Reisen zu tun hat. Auch unser Reisetagebuch ist hierher mit umgezogen. Viel Spaß beim Stöbern! </p>
+    <div class="col-8-middle_md-10_xs-12 bg-light center padded homepage-box vh40 sm-padded-lg xs-vh60 grid">
+        <div class="col-12-middle padded">
+            <h2> Willkommen auf unserem neuen Reiseblog! </h2>
+            <p> Ab sofort findest du hier Blogbeiträge zu allem, was mit dem Reisen zu tun hat. Auch unser Reisetagebuch ist hierher mit umgezogen. Viel Spaß beim Stöbern! </p>
+        </div>
     </div> 
 </section>
 
 <!-- Schön dass du da bist Banner -->
-<section class="bg-light text-dark grid flex-container">
+<section class="text-dark grid">
 
-    <div class="col-7-middle_sm-12 padded md-center flex-item order-1">
+    <div class="col-7-middle_sm-12 padded md-center">
         <h2 class="sm-padded-t"> Schön, dass du da bist! </h2>
         <p> Wir sind Jenny & Pati. In den letzten drei Jahren waren wir Teilzeit in unserem Van Marshall in Europa unterwegs. Jetzt haben wir unsere Jobs an den Nagel gehängt und erkunden seit Oktober 2023 gemeinsam die Welt. Auf unserem Blog berichten wir von unseren Erlebnissen und Abenteuern. </p>
         <div class="padded-t sm-center sm-padded-1">
             <a href="/ueber-uns" class="button">Mehr über uns</a>
         </div> 
     </div>
-    <div class="col-5-middle_sm-12 flex-item order-2">
-        <div class="bg-image square sm-landscape" style="background-image: url('/images/wir.jpg');">
+    <div class="col-5-middle_sm-12">
+        <div class="bg-image square sm-landscape" style="background-image: url('/images/wir_bw.JPG'); background-position: 50% 62%;">
         </div>
     </div>
 </section>
 
 <!------------------------ Latest Blog loop ------------------------>
-<section class="padded">
+<section class="padded bg-light">
     <div class="capped-width-narrow grid-center">
 
         <div class="col-12 padded-05 center margin-b-1">
@@ -43,7 +45,7 @@ seo:
             <p> Wir haben unsere tollsten Erlebnisse, wichtigsten Learnings und viele nützliche Tipps für dich zusammengefasst.</p>
         </div>
 
-        <div class="col-12 sm-hide grid-center">
+        <div class="col-12 grid-center">
             {% for post in site.posts limit:3 %}
 
                 {% include post-loop-item-portrait.html %} 
@@ -52,7 +54,7 @@ seo:
         </div>
 
         <!-- div for small devices -->
-        <div class="col-12-middle sm-show-flex grid-spaceAround">
+        <!-- <div class="col-12-middle sm-show-flex grid-spaceAround">
             {% for post in site.posts limit:3 %}
             <div class="col-4-middle post-item padded-05">
                 <div class="bg-image square" style="background-image:url( '{{ post.featured_image }}' );"></div>
@@ -68,7 +70,7 @@ seo:
 
             </div>
             {% endfor %}
-        </div>
+        </div> -->
 
 
         <div class="col-12 center padded-t sm-padded-b">
@@ -97,10 +99,10 @@ seo:
         {% assign travel-diaries = site.diaries | where_exp:"diary", "true" | reverse %}
         {% for diary in travel-diaries limit:3 %}
             
-            <div class="col-4-middle post-item padded-05">
-                <div class="bg-image square" style="background-image:url( '{{ diary.featured_image }}' );"></div>
+            <div class="col-4-middle_sm-12 post-item padded-05">
+                <div class="bg-image square sm-landscape" style="background-image:url( '{{ diary.featured_image }}' );"></div>
             </div>
-            <div class="col-6-middle">
+            <div class="col-6-middle_sm-12 sm-center sm-margin-b">
                     
                 {% include index-diary-loop.html %}
                 <a href="{{ diary.url }}" class="subtle-button"> weiterlesen </a>

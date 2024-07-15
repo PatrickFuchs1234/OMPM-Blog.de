@@ -3,7 +3,7 @@
     {% endfor %}
 
     <h4 class="margin-t-1 sm-margin-b-05"> {{ diary.title }} </h4>
-    
+    <div class="sm-hide">
     {% if diary.content %}
     {% assign words = diary.content | number_of_words %}
     {% if words > 15 %}
@@ -13,3 +13,4 @@
     {% endif %}
     <p>{{ short_content }}</p>
     {% endif %}
+    </div>
