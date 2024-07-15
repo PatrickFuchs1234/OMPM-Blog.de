@@ -3,7 +3,7 @@ published: false
 layout: post
 title: '#28 Newcastle, Australien - Teil 1'
 author: Pati
-date: 2024-07-11 14:00:00
+date: 2024-07-15 14:00:00
 categories: ['Australien', 'Ostküste Australien']
 featured_image: /images/australien/newcastle/newcastle-1-featured.jpg
 seo:
