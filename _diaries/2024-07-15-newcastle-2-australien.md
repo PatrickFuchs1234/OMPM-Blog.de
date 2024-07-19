@@ -31,7 +31,7 @@ Bei unserem nächsten kleinen Ausflug Richtung Strand haben wir vor den Anzac Me
 
 Betsy und Louie werden uns immer mehr gewohnt und schön langsam werden wir ein richtig gutes Team. Auch die Spaziergänge werden etwas einfacher. Allerdings werden wir immer wieder von Regentagen überrascht, und wie könnte es auch anders sein, Louie hasst Regen. Wir lassen uns davon allerdings nicht abhalten, zwingen die Hunde zu ihrem Glück und verpassen ihnen kurzerhand ihre (gewohnten) Regenmäntel. Es sieht ultra komisch aus. Wir gehen also allesamt tip-top-bekleidet außer Haus, wobei die Hunde wahrscheinlich besser ausgerüstet sind als wir. So spazieren wir nun, trotz strömenden Regen, Tränen lachend. Wir haben schließlich zwei Warnleuchten dabei. 
 
-<figure class="img2">
+<figure class="img1">
   <img src="/images/australien/newcastle/newcastle-8.JPG" alt="Hund mit Regenmantel">
 </figure>
 
