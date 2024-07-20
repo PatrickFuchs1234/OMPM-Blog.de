@@ -784,7 +784,11 @@ blockquote p {padding-left: 3%; padding-right: 3%;}
 
   .md-padded-b{padding-bottom: 2rem;}
 
-  
+  li, ul, ol {
+    margin-left: 0rem;
+    padding-left: 0;
+    margin-right: 0rem;
+}
 }
 
 
@@ -842,7 +846,7 @@ blockquote p {padding-left: 3%; padding-right: 3%;}
     justify-items: center;
   }
 
-  .img1, .img2, .img2-nr, .img3, .img3-nr, .img4, .img4-nr {margin: 0;}
+  /* .img1, .img2, .img2-nr, .img3, .img3-nr, .img4, .img4-nr {margin: 0;} */
 
   /* list item in blogposts */
   .blog-content li{
