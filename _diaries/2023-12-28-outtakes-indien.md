@@ -37,13 +37,13 @@ Wir lernen schnell, dass in Indien die Dinge anders laufen als in Europa – ang
 
 ### Fast Food (im wahrsten Sinne des Wortes)
 
-Nach einer [aufregenden Taxifahrt](2023-10-23-von-neu-delhi-nach-jaipur) sitzen wir im Zug. Von Delhi nach Jaipur halten wir an verschiedenen Stationen. Der Zug hat statt Fensterscheiben nur Fensterrahmen ohne Scheiben und am Bahnsteig warten jedes Mal hunderte Menschen auf den nächsten Zug. Als es langsam Zeit zum Abendessen wird, halten wir wieder an einer Station. Hinter uns sitzt eine Frau im Abteil am Fenster. Sie schreit nach draußen, was sie gerne zu essen hätte und streckt Geld durchs Fenster hinaus auf den Bahnsteig. Ohne zu zögern nimmt ein Mann das Geld, geht zum Kiosk und kauft dort das gewünschte Essen. Er bringt der Frau das Essen und das Wechselgeld und reicht es ihr durchs Fenster in den Zug.
+Nach einer [aufregenden Taxifahrt](von-neu-delhi-nach-jaipur) sitzen wir im Zug. Von Delhi nach Jaipur halten wir an verschiedenen Stationen. Der Zug hat statt Fensterscheiben nur Fensterrahmen ohne Scheiben und am Bahnsteig warten jedes Mal hunderte Menschen auf den nächsten Zug. Als es langsam Zeit zum Abendessen wird, halten wir wieder an einer Station. Hinter uns sitzt eine Frau im Abteil am Fenster. Sie schreit nach draußen, was sie gerne zu essen hätte und streckt Geld durchs Fenster hinaus auf den Bahnsteig. Ohne zu zögern nimmt ein Mann das Geld, geht zum Kiosk und kauft dort das gewünschte Essen. Er bringt der Frau das Essen und das Wechselgeld und reicht es ihr durchs Fenster in den Zug.
 
 Sie hingegen möchte auch noch eine Flasche Wasser haben und gibt dem Mann das Geld wieder zurück. In der Zwischenzeit setzt sich der Zug bereits wieder langsam in Bewegung. Der Mann drängt sich am Kiosk nochmal vor und kauft schnell eine Flasche Wasser. Wir verlassen dabei bereits den Bahnhof. Der Mann sprintet dennoch hinterher, die Frau lehnt sich aus dem Fenster und gerade noch rechtzeitig kann der Mann ihr sowohl das Wechselgeld als auch die Flasche Wasser überreichen. 
 
 ### Schwarz
 
-Als wir in [Jaipur](2023-10-26-jaipur) nach 5 Stunden Zugfahrt ankommen und aussteigen, merken wir, dass Patis Gesichtshälfte, die zum Fenster ohne Fensterscheibe gewandt war, komplett schwarz ist. Der Hostelbesitzer, der uns bei unserem Hostel empfängt, sieht Patis Gesicht und sagt nur „oh no, looks like you had a tough train ride  …“. Da hat er wohl recht.
+Als wir in [Jaipur](jaipur) nach 5 Stunden Zugfahrt ankommen und aussteigen, merken wir, dass Patis Gesichtshälfte, die zum Fenster ohne Fensterscheibe gewandt war, komplett schwarz ist. Der Hostelbesitzer, der uns bei unserem Hostel empfängt, sieht Patis Gesicht und sagt nur „oh no, looks like you had a tough train ride  …“. Da hat er wohl recht.
 
 <div class="img2">
   <figure>
@@ -62,7 +62,7 @@ Für die Fahrt zum Flughafen in Varanasi nehmen wir uns ein TukTuk. Anders als s
 
 ### Mumbai Local Train
 
-Im [Local-Zug in Mumbai](2023-11-06-mumbai-1) erleben wir viele zufällige Begegnungen. Einmal lernen wir Raj kennen. Er möchte wissen, was Jennys Lieblingsessen ist. Im Gegenzug erfahren wir, dass sein Lieblingsessen Chicken Tandoori ist. Dann steigt er wieder aus dem Zug aus. 
+Im [Local-Zug in Mumbai](mumbai-1) erleben wir viele zufällige Begegnungen. Einmal lernen wir Raj kennen. Er möchte wissen, was Jennys Lieblingsessen ist. Im Gegenzug erfahren wir, dass sein Lieblingsessen Chicken Tandoori ist. Dann steigt er wieder aus dem Zug aus. 
 
 <div class="img2-nr">
   <figure>
@@ -86,11 +86,11 @@ Am selben Tag morgens wird unser Couchsurfing-Host Nimit von seinem Vater besuch
 
 ### Little Little
 
-Gemeinsam mit Nimit machen wir eine [Mumbai Streetfood Tour](2023-11-07-mumbai-2) und alles schmeckt köstlich. Zwischendurch wollen wir etwas trinken, daher organisiert Nimit einen frischen Juice für uns. Der Juice wird allerdings mit Eis gemacht (und wir haben bereits gesehen, wie Crushed Ice in Indien hergestellt wird) und darum fragt Pati dann doch nach: „Is it safe to drink?“ worauf Nimit kurz „No“ antwortet, nur um dann mit einem Grinsen hinzuzufügen „But little little is okay“. Weil es ausgezeichnet schmeckt und wir glücklicherweise keine weitere Lebensmittelvergiftung davontragen wird das unser Motto für die weitere Reise.
+Gemeinsam mit Nimit machen wir eine [Mumbai Streetfood Tour](mumbai-2) und alles schmeckt köstlich. Zwischendurch wollen wir etwas trinken, daher organisiert Nimit einen frischen Juice für uns. Der Juice wird allerdings mit Eis gemacht (und wir haben bereits gesehen, wie Crushed Ice in Indien hergestellt wird) und darum fragt Pati dann doch nach: „Is it safe to drink?“ worauf Nimit kurz „No“ antwortet, nur um dann mit einem Grinsen hinzuzufügen „But little little is okay“. Weil es ausgezeichnet schmeckt und wir glücklicherweise keine weitere Lebensmittelvergiftung davontragen wird das unser Motto für die weitere Reise.
 
 ### Gut verpackt
 
-Random Side Fact: Verpackungen, egal welche, sind in Indien extra gut verschlossen. In Chennai, beim [Diwali-Feiern](2023-11-15-diwali) mit Jatins Familie, bringen wir mal wieder eine Verpackung fast nicht auf. Der Bruder von Jatins Frau erzählt – nachdem er uns ausgelacht hat- dass er in England studiert hat und Verpackungen in Europa wirklich viel leichter zu öffnen sind als hier. Bei seinem ersten Versuch Chips in England zu essen, hat er direkt alle Chips am Boden verteilt, weil er mit derselben Kraft wie hier die Packung öffnen wollte und die Verpackung quasi in seinen Händen explodiert ist.
+Random Side Fact: Verpackungen, egal welche, sind in Indien extra gut verschlossen. In Chennai, beim [Diwali-Feiern](diwali) mit Jatins Familie, bringen wir mal wieder eine Verpackung fast nicht auf. Der Bruder von Jatins Frau erzählt – nachdem er uns ausgelacht hat- dass er in England studiert hat und Verpackungen in Europa wirklich viel leichter zu öffnen sind als hier. Bei seinem ersten Versuch Chips in England zu essen, hat er direkt alle Chips am Boden verteilt, weil er mit derselben Kraft wie hier die Packung öffnen wollte und die Verpackung quasi in seinen Händen explodiert ist.
 
 ### Fotosession
 

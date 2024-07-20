@@ -48,5 +48,5 @@ Genauso wie Uber funktioniert auch Grab. Grab (und manchmal auch Gojek) ist vor 
 Nicht immer, aber gerade in Städten gibt es bei AirBnB oft gute und günstige Angebote. Je früher man bucht, desto günstiger sind die Unterkünfte und desto mehr Auswahl gibt es noch. 
 > **Top-Tipp:** Bei vielen Unterkünften bekommt man einen *Long-Stay* Rabatt - dafür muss man allerdings oft nur 3 Nächte bleiben.
 
-Diese Apps haben nicht nur unsere Reiseorganisation vereinfacht, sondern tragen auch dazu bei, dass wir mehr von der Welt sehen können, ohne dabei unser Budget zu sprengen. Weitere Tipps zum günstigen Reisen findest du außerdem noch in unserem Blogpost [Low Budget Reisen](2024-07-15-low-budget-reisen).
+Diese Apps haben nicht nur unsere Reiseorganisation vereinfacht, sondern tragen auch dazu bei, dass wir mehr von der Welt sehen können, ohne dabei unser Budget zu sprengen. Weitere Tipps zum günstigen Reisen findest du außerdem noch in unserem Blogpost [Low Budget Reisen](low-budget-reisen).
 

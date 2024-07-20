@@ -12,7 +12,7 @@ seo:
   keywords: 'Newcastle Australien, Walbeobachtungen, Wale in Newcastle, Anzac Memorial Walk, Hundesitter Abenteuer, Reiseberichte Australien, Reisetagebuch'
   hide-from-google: false
 ---
-In den letzten zwei Wochen in [Newcastle](2024-07-11-newcastle-1-australien) wollen wir neben unserem Hundesitter-Job endlich auch die Stadt und deren Strände etwas genauer erkunden. 
+In den letzten zwei Wochen in [Newcastle](newcastle-1-australien) wollen wir neben unserem Hundesitter-Job endlich auch die Stadt und deren Strände etwas genauer erkunden. 
 
 Also machen wir uns mit dem Bus auf den Weg in die Innenstadt. Kurz durchgeschlendert - im Winter ist hier wirklich nichts los - landen wir wieder am Strand. Dieses Mal am Newcastle Beach. Von hier aus gehen wir immer der Küste entlang zu Nobbys Lighthouse, einem alten Leuchtturm in der Hafeneinfahrt von Newcastle. Ganz am Ende des Wellenbrechers der Hafeneinfahrt wundern wir uns, warum so viele Menschen aufs Meer hinaus blicken und zeigen. 
 

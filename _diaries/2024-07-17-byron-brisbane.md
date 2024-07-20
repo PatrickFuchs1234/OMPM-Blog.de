@@ -12,7 +12,7 @@ seo:
   keywords: 'Backpacking in Australien, Haussitten in Brisbane, Housesitting in Australien, Byron Bay'
   hide-from-google: false
 ---
-Nach einem Monat beim Haussit in [Newcastle](2024-07-11-newcastle-1-australien.md) geht es jetzt weiter in Richtung Norden, wo es auch endlich wieder ein bisschen wärmer werden soll. Mit dem Zug fahren wir 9 Stunden in den berühmten Surfer-Ort *Byron Bay*.
+Nach einem Monat beim Haussit in [Newcastle](newcastle-1-australien) geht es jetzt weiter in Richtung Norden, wo es auch endlich wieder ein bisschen wärmer werden soll. Mit dem Zug fahren wir 9 Stunden in den berühmten Surfer-Ort *Byron Bay*.
 
 ## Byron Bay
 Weil Australien ziemlich teuer ist, haben wir ein Privatzimmer in einem Hostel gebucht. Bei unserer Ankunft nach der langen Zugfahrt, die super angenehm verlaufen ist, stellen wir zu unserer positiven Überraschung fest, dass wir - absichtlich oder unabsichtlich; einem geschenkten Gaul schaut man nicht ins Maul - ein Zimmerupgrade erhalten haben und in einem sehr schönen Zimmer mit Balkon und großem, eigenen Bad landen. So lässt sich unser *Kurzurlaub* bestens aushalten.

@@ -15,7 +15,7 @@ seo:
   keywords: 'Dog Rescue Center, Songkhla Thailand, Thailand dog sanctuary, adopt a dog Thailand'
   hide-from-google: false
 ---
-Mit dem Bus geht es von [Penang](2024-02-06-penang) aus über die malaiisch-thailändische Grenze nach Hatyai. Von dort aus nehmen wir uns ein Taxi zum ersten Stopp unserer Thailand Reise: Songkhla. Songkhla liegt ganz im Süden Thailands. Die Gegend dort ist kaum touristisch – perfekt für uns. Über eine App haben wir Kontakt zu Tamara bekommen, die dort eine Hundeauffangstation aka Dog Rescue Center aufgebaut hat. Tamara kommt ursprünglich aus Australien, lebt aber schon seit 13 Jahren in Thailand und geht ihrer Aufgabe nach. Die kommenden zwei Wochen verbringen wir bei Tamara.
+Mit dem Bus geht es von [Penang](penang) aus über die malaiisch-thailändische Grenze nach Hatyai. Von dort aus nehmen wir uns ein Taxi zum ersten Stopp unserer Thailand Reise: Songkhla. Songkhla liegt ganz im Süden Thailands. Die Gegend dort ist kaum touristisch – perfekt für uns. Über eine App haben wir Kontakt zu Tamara bekommen, die dort eine Hundeauffangstation aka Dog Rescue Center aufgebaut hat. Tamara kommt ursprünglich aus Australien, lebt aber schon seit 13 Jahren in Thailand und geht ihrer Aufgabe nach. Die kommenden zwei Wochen verbringen wir bei Tamara.
 
 Im Dog Rescue Center leben derzeit etwas mehr als 160 Hunde. Wir sind erstaunt, da alle in einem ziemlich großen Gehege mit Grünflächen untergebracht sind. Wir hatten uns die Rahmenbedingungen schlimmer vorgestellt. Angestellte gibt es nicht viele. Vier Thailänder arbeiten dort. Die restliche Arbeit macht Tamara selbst und gelegentlich, sowie als wir ankommen, gibt es einige Freiwillige, die mithelfen wollen.
 

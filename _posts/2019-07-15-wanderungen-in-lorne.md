@@ -18,7 +18,7 @@ _comments:
 ---
 Direkt an der Great Ocean Road gelegen, findet man das hübsche Küstenstädchen Lorne. In dessen Umgebung kann man viele Wanderungen unterschiedlichsten Schweregrades unternehmen. Lorne hat einige atemberaubende Wasserfälle zu bieten und die Tierwelt ist faszinierend. In diesem Beitrag findest du die Beschreibungen von einzelnen Wanderungen sowie eine interaktive Karte, die die Ausgangspunkte für alle Spaziergänge und Wanderungen enthält.
 
-> **Top-Tipp:** Wenn ihr nach Lorne fahrt, solltet ihr euch außerdem unbedingt auch den Beitrag [Roadtrip: Great Ocean Road](2019-07-12-great-ocean-road) ansehen. Dort gibt es eine detaillierte Karte über die Roadtrip-Stopps an der Great Ocean Road.
+> **Top-Tipp:** Wenn ihr nach Lorne fahrt, solltet ihr euch außerdem unbedingt auch den Beitrag [Roadtrip: Great Ocean Road](great-ocean-road) ansehen. Dort gibt es eine detaillierte Karte über die Roadtrip-Stopps an der Great Ocean Road.
 
 ## 1 | Die Karte 
 Um die Karte zu benutzen, klicke einfach auf die Karte, um sie in einem neuen Fenster im Vollbild zu öffnen. Es werden dann alle Ausgangspunkte für Wanderungen und deren Ziele neben der Karte angezeigt. Aktiviere einfach die Kästchen neben dem Namen der Ebene, um Punkte ein- oder auszublenden. Wenn du auf die Symbole auf der Karte klickst, werden dir die Namen der Orte angezeigt, die ich markiert habe.

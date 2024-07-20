@@ -12,7 +12,7 @@ seo:
   keywords: 'Newcastle Australien, Hundesitter Abenteuer, Hundesitten, Merewether Beach, Reiseberichte Australien'
   hide-from-google: false
 ---
-Nach drei aufregenden Tagen in [Sydney](2024-06-07-sydney-australien) kommen wir nach einer kurzen Zugfahrt in Newcastle an. Wir spazieren vom Bahnhof aus zu Rebecca, auf deren Hunde wir im nächsten Monat aufpassen. Rebecca ist mit Betsy, ihrer Hündin, noch beim Training. Daher werden wir, als wir bei ihr ankommen, nur von Louie - einem alten, von Rebecca erst kürzlich aufgenommenen Rescue-Dog - empfangen. Eigentlich sollte man niemals einfach so in ein fremdes Haus gehen, in dem noch dazu ein Hund wohnt, aber Louie hält nicht viel vom Wachhund-Dasein und empfängt uns mit größter Begeisterung wie zwei alte Freunde. 
+Nach drei aufregenden Tagen in [Sydney](sydney-australien) kommen wir nach einer kurzen Zugfahrt in Newcastle an. Wir spazieren vom Bahnhof aus zu Rebecca, auf deren Hunde wir im nächsten Monat aufpassen. Rebecca ist mit Betsy, ihrer Hündin, noch beim Training. Daher werden wir, als wir bei ihr ankommen, nur von Louie - einem alten, von Rebecca erst kürzlich aufgenommenen Rescue-Dog - empfangen. Eigentlich sollte man niemals einfach so in ein fremdes Haus gehen, in dem noch dazu ein Hund wohnt, aber Louie hält nicht viel vom Wachhund-Dasein und empfängt uns mit größter Begeisterung wie zwei alte Freunde. 
 
 <figure class="img1">
  	<img src="/images/australien/newcastle/newcastle-1.JPG" alt="süßer Hund">
@@ -26,7 +26,7 @@ Louie ist ein mittelgroßer, super fröhlicher Mischling, der bisher immer wiede
 
 In der ersten Woche versuchen wir uns gemeinsam mit den Hunden an eine Routine zu gewöhnen. Das verlangt uns allerdings einiges ab, da die beiden - so lieb, nett und kuschelig sie im Haus auch sind - beim Spazieren gehen sehr schwierig sind. Wir gewöhnen uns aber rasch aneinander. So wissen wir zum Beispiel in der zweiten Woche bereits, wer mit wem spazieren geht - Betsy geht mit Pati und Louie geht mit Jenny (und ja, die Hunde gehen mit uns) - und zu welcher Tageszeit keine anderen Hunde ausgeführt werden. Die Tageszeiten werden auch bestmöglich eingehalten, da die beiden kaum zu halten sind, wenn sie einen anderen Hund sehen. Louie will am liebsten spielen und Betsy, naja, wir wollen lieber nicht wissen, was sie machen würde. 
 
-So schwierig sich anfangs auch die Spaziergänge gestalten, zu Hause sind die beiden wahnsinnig nett und Betsy ist wahrscheinlich ähnlich kuschelig, wie die [Chihuahuas bei  Karl und Donna](2024-05-31-perth-australien). So verbringen wir die ersten Wochen spazierend und kuschelnd und sind hauptsächlich zu Hause. Das schlechte Wetter macht es uns da nicht schwer.
+So schwierig sich anfangs auch die Spaziergänge gestalten, zu Hause sind die beiden wahnsinnig nett und Betsy ist wahrscheinlich ähnlich kuschelig, wie die [Chihuahuas bei  Karl und Donna](perth-australien). So verbringen wir die ersten Wochen spazierend und kuschelnd und sind hauptsächlich zu Hause. Das schlechte Wetter macht es uns da nicht schwer.
 
 <figure class="img2">
  	<img src="/images/australien/newcastle/newcastle-7.JPG" alt="süße Hunde">
