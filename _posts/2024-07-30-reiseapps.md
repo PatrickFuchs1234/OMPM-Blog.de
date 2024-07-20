@@ -12,11 +12,8 @@ seo:
   social_image: /images/low-budget-2.jpg
   keywords: 'Low Budget Reisen, Apps für die Weltreise, Reiseapps, Apps zum günstig Reisen, Geld sparen auf Weltreise'
   hide-from-google: false
-_comments:
-  title: Max 70 characters
-  social_image: landscape 1200 x 600px
 ---
-<!-- intro fehlt -->
+Bevor wir unsere Weltreise angetreten haben, haben wir uns mit hilfreichen Reise-Apps ausgestattet. Diese haben nicht nur unsere Navigation vereinfacht, sondern auch dabei geholfen, unser Budget im Rahmen zu halten.
 In diesem Beitrag findest unsere Top 10 Apps, die wir auf unserer Weltreise ständig verwenden und die uns mitunter auch schon einiges an Geld gespart haben.
 
 ## 1 | Booking.com
@@ -34,12 +31,9 @@ Eine super Low-Budget Möglichkeit, ein Auto unterwegs zu mieten, bietet Turo. A
 
 ## 5 | Couchsurfing
 Wer offen für ein kleines Abenteuer ist, der sollte Couchsurfing auf der Weltreise auf keinen Fall verpassen. Couchsurfing ist eine einzigartige Gelegenheit Locals kennenzulernen, in deren Leben und die Kultur vor Ort einzutauchen und dabei auch noch kostenlos - meist auf der Couch - zu übernachten. Über die App lassen sich an vielen Orten der Welt Leute finden, die gerne Reisende bei sich zu Hause aufnehmen. Wichtig: Der Sinn vom Couchsurfen liegt im kulturellen Austausch. Ein kleines Gastgeschenk und der Wille, den oder die GastgeberIn kennenzulernen, gehören auf jeden Fall dazu. Wir haben mit Couchsurfing schon richtig inspirierende Menschen kennengelernt und großartige Erfahrungen gemacht. In Indien durften wir sogar [Diwali mit einer indischen Familie](/_diaries/2023-11-15-diwali.md) feiern. Die App kostet 14,99€ pro Jahr (Stand 2024).
-<!-- link diwali funktioniert?-->
 
 ## 6 | TrustedHousesitters
-Über die App TrustedHousesitters kann man ganz einfach auf der ganzen Welt Haussits finden. Man passt dabei auf das Haus - und meistens die Haustiere - der Besitzer auf, während diese selbst im Urlaub sind. Haussitten ist eine tolle Möglichkeit, wenn man viel Zeit an einem Ort verbringen und langsam Reisen möchte. Besonders in teureren Ländern, wie Australien, USA oder Kanada kann man dadurch richtig viel Geld sparen. Die App kostet
-<!-- wie viel? -->
-pro Jahr. Wenn du dich über unseren Link von [TrustedHousesitters](https://www.trustedhousesitters.com/refer/RAF778659/?utm_source=copy-link&utm_medium=refer-a-friend&utm_campaign=refer-a-friend) anmeldest, erhältst du -25% auf alle Memberships.
+Über die App TrustedHousesitters kann man ganz einfach auf der ganzen Welt Haussits finden. Man passt dabei auf das Haus - und meistens die Haustiere - der Besitzer auf, während diese selbst im Urlaub sind. Haussitten ist eine tolle Möglichkeit, wenn man viel Zeit an einem Ort verbringen und langsam Reisen möchte. Besonders in teureren Ländern, wie Australien, USA oder Kanada kann man dadurch richtig viel Geld sparen. Die App kostet je nach Membership 119 bis 239 Euro im Jahr (wir nutzen die günstige Basic Sitter Variante). Wenn du dich über unseren Link von [TrustedHousesitters](https://www.trustedhousesitters.com/refer/RAF778659/?utm_source=copy-link&utm_medium=refer-a-friend&utm_campaign=refer-a-friend) anmeldest, erhältst du -25% auf alle Memberships.
 
 ## 7 | Google Maps
 Google Maps ist eine unverzichtbare App für jede Reise. Das Feature, das wir auf unserer Weltreise bestimmt am häufigsten verwenden, sind Offline Maps. In der App kann man ganz einfach selbst einen Bereich auswählen und downloaden. Bevor wir in ein neues Land aufbrechen, laden wir uns immer die Karte des Ortes herunter, in dem wir ankommen. So spart man sich anfangs den Stress kostenfreies WLAN oder eine einigermaßen günstige SIM-Karte zu finden und findet auf jeden Fall den Weg zur Unterkunft. Gerade wenn man an einem Flughafen ankommt, lohnt es sich nicht direkt dort eine Touristen-SIM-Karte zu erwerben, sondern später in einen lokalen Shop zu gehen und eine Karte für den halben Preis zu kaufen.
@@ -54,6 +48,5 @@ Genauso wie Uber funktioniert auch Grab. Grab (und manchmal auch Gojek) ist vor 
 Nicht immer, aber gerade in Städten gibt es bei AirBnB oft gute und günstige Angebote. Je früher man bucht, desto günstiger sind die Unterkünfte und desto mehr Auswahl gibt es noch. 
 > **Top-Tipp:** Bei vielen Unterkünften bekommt man einen *Long-Stay* Rabatt - dafür muss man allerdings oft nur 3 Nächte bleiben.
 
-<!-- fazit fehlt -->
-Weitere Tipps zum günstigen Reisen findest du außerdem noch in unserem Blogpost [Low Budget Reisen](2024-07-15-low-budget-reisen).
+Diese Apps haben nicht nur unsere Reiseorganisation vereinfacht, sondern tragen auch dazu bei, dass wir mehr von der Welt sehen können, ohne dabei unser Budget zu sprengen. Weitere Tipps zum günstigen Reisen findest du außerdem noch in unserem Blogpost [Low Budget Reisen](2024-07-15-low-budget-reisen).
 

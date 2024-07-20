@@ -12,7 +12,4 @@ seo:
   social_image: /images/low-budget-2.jpg
   keywords: 'Low Budget Reisen, günstige Aktivitäten in New York City, New York City kostenlose Dinge, günstige Unternehmungen in NYC, kostenlose Attraktionen'
   hide-from-google: false
-_comments:
-  title: Max 70 characters
-  social_image: landscape 1200 x 600px
 ---
