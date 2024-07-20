@@ -1,19 +1,18 @@
 ---
-published: false
 layout: post
 title: '#30 Byron Bay und Brisbane'
 author: Jenny
-date: 2024-06-07 14:00:00
+date: 2024-07-17 14:00:00
 categories: ['Australien', 'Ostküste Australien']
-featured_image: /images/australien/
+featured_image: /images/bannerimg.jpg
 seo:
   title: 'Byron Bay und Brisbane'
   description: 'Erfahre von unserem Kurzurlaub in Byron Bay und unserer Zeit beim Haussitten in Brisbane.'
-  social_image: /images/australien/sydney/sydney-featured-diary.jpg
-  keywords: 'Backpacking in Australien, Haussitten in Brisbane, Housesitting in Australien'
+  social_image: /images/bannerimg.jpg
+  keywords: 'Backpacking in Australien, Haussitten in Brisbane, Housesitting in Australien, Byron Bay'
   hide-from-google: false
 ---
-Nach einem Monat beim Haussitten in [Newcastle](2024-07-11-newcastle-1-australien.md) geht es jetzt weiter in Richtung Norden, wo es auch endlich wieder ein bisschen wärmer werden soll. Mit dem Zug fahren wir 9 Stunden in den berühmten Surfer-Ort *Byron Bay*.
+Nach einem Monat beim Haussit in [Newcastle](2024-07-11-newcastle-1-australien.md) geht es jetzt weiter in Richtung Norden, wo es auch endlich wieder ein bisschen wärmer werden soll. Mit dem Zug fahren wir 9 Stunden in den berühmten Surfer-Ort *Byron Bay*.
 
 ## Byron Bay
 Weil Australien ziemlich teuer ist, haben wir ein Privatzimmer in einem Hostel gebucht. Bei unserer Ankunft nach der langen Zugfahrt, die super angenehm verlaufen ist, stellen wir zu unserer positiven Überraschung fest, dass wir - absichtlich oder unabsichtlich; einem geschenkten Gaul schaut man nicht ins Maul - ein Zimmerupgrade erhalten haben und in einem sehr schönen Zimmer mit Balkon und großem, eigenen Bad landen. So lässt sich unser *Kurzurlaub* bestens aushalten.
@@ -34,7 +33,7 @@ Nach zwei sehr feinen Tagen in Byron Bay geht es mit dem Greyhound Bus weiter na
 Dieses Mal passen wir auf Rocco und Cora, einen ganz jungen, aktiven Border-Collie-Mischling und einen super alten, gemütlichen Windhund, auf. Windhunde werden in Australien hauptsächlich für Rennzwecke gezüchtet und nachdem ihre Rennkarriere vorbei ist, werden die Greyhounds entweder adoptiert oder eingeschläfert. Cora hatte das Glück, bei der Familie in Brisbane zu landen. Rocco ist ebenfalls ein Rescue-Hund, der von einem Bauern gerettet wurde, dessen Farmhund aus Versehen Welpen bekommen hatte.
 
 <figure class="img1">
- 	<img src="/images/australien/brisbane/cora-rocco.JPG" alt="Hund beim Haussitten">
+ 	<img src="/images/australien/brisbane/cora-rocco.JPG" alt="Hunde beim Haussitten">
 </figure>
 
 Mittlerweile haben wir das Haussitting-Spiel schon gut drauf. Nach drei Tagen haben wir uns alle aneinander gewöhnt und alles läuft wie am Schnürchen. Direkt auf unserer Terrasse gibt es sogar einen Pool, wir können uns also wieder einmal wirklich nicht beklagen. 
