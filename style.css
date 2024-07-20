@@ -799,8 +799,6 @@ blockquote p {padding-left: 3%; padding-right: 3%;}
 
   .logo { font-size: 1.5rem;}
 
-  .padded {padding: 8%;}
-
 	.sm-show { display: block; }
 	.sm-hide { display: none;  }
   .sm-show-flex { display: flex; }
