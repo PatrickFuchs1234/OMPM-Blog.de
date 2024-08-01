@@ -6,13 +6,12 @@ date: 2024-08-01 14:00:00
 categories: ['USA']
 featured_image: /images/usa/roadtrip/roadtrip-featured.JPG
 seo:
-  title: 'USA Roadtrip: Von San Francisco nach Las Vegas'
+  title: 'Zwischenstopp in Hawaii'
   description: 'Mit Freunden unternehmen wir einen 6 Wochen langen Roadtrip quer durch die USA. Los geht's von San Francisco über Los Angeles bis nach Las Vegas.'
   social_image: /images/usa/roadtrip/roadtrip-featured.JPG
   keywords: 'USA, San Francisco, Los Angeles, LA, Roadtrip von San Francisco nach Las Vegas, Kalifornien-Roadtrip, ein Tag in Las Vegas'
   hide-from-google: false
 ---
-
 Von [Hawaii](hawaii) aus geht es jetzt aufs Amerikanische Festland. Wir fliegen von Honolulu nach San Francisco, wo wir uns mit unseren Freunden, Sophia und Mathias, treffen. Die nächsten 6 Wochen werden wir gemeinsam verbringen. Wir wollen einen Roadtrip quer durch die USA machen und dabei von San Francisco an der Westküste bis nach New York an die Ostküste Amerika’s fahren.
 
 ## San Francisco
