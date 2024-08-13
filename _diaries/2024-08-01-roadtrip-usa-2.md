@@ -49,7 +49,7 @@ Wir sehen uns gleich am nächsten Morgen den Sonnenaufgang am Horseshoe Bend an.
 </figure>
 
 ## Bryce Canyon Nationalpark
-Im Bryce Canyon haben wir Glück und können noch drei Nächte am Campingplatz im Nationalpark reservieren. Der Bryce Canyon ist zum Glück auch deutlich weniger touristisch als der Zion Nationalpark obwohl er ähnlich klein ist. Wir genießen es einmal drei Tage an einem Ort zu sein - das hatten wir schon seit [San Francisco](##) nicht mehr. Obwohl schon wieder ein Canyon, sieht dieser Nationalpark wieder ganz anders aus als die anderen davor. Wir verbringen drei gemütliche Tage, wandern durch die *Hoodoos* (so werden die Steinformationen genannt) und lesen sogar mal ein Buch. Am Campingplatz leben sehr viele Chipmunks und Eichhörnchen, die hier in die Autos springen und Essen klauen wollen. Zum Glück gibt es dieses Mal aber zumindest keine Bären.
+Im Bryce Canyon haben wir Glück und können noch drei Nächte am Campingplatz im Nationalpark reservieren. Der Bryce Canyon ist zum Glück auch deutlich weniger touristisch als der Zion Nationalpark obwohl er ähnlich klein ist. Wir genießen es einmal drei Tage an einem Ort zu sein - das hatten wir schon seit [San Francisco](roadtrip-usa-1) nicht mehr. Obwohl schon wieder ein Canyon, sieht dieser Nationalpark wieder ganz anders aus als die anderen davor. Wir verbringen drei gemütliche Tage, wandern durch die *Hoodoos* (so werden die Steinformationen genannt) und lesen sogar mal ein Buch. Am Campingplatz leben sehr viele Chipmunks und Eichhörnchen, die hier in die Autos springen und Essen klauen wollen. Zum Glück gibt es dieses Mal aber zumindest keine Bären.
 
 <figure class="img1">
   <img src="/images/usa/roadtrip/roadtrip-35.JPG" alt="Bryce Canyon Nationalpark von Oben">
@@ -125,7 +125,7 @@ Morgens ist es nach der verregneten Nacht dann doch sehr ungemütlich, kalt und 
 
 Am Nachmittag fahren wir zu viert noch ans nördliche Ende des Nationalparks, um uns die Hotsprings anzusehen - wieder ein fast 4-stündiger Roundtrip. Abends sind wir dann erschöpft, wir schlafen schon während Sophia und Mathias noch essen bereits ein. Um 21 Uhr schleppen wir uns alle noch zu einem Ranger-Programm über Bären und Bisons. Sophia hat ihr ausgefülltes Junior Ranger Heft, das wir anfangs von Bob bekommen haben, dabei und wird spontan noch zum Junior Ranger ernannt. Dann ist es aber wirklich genug und wir fallen ins Bett.
 
-<figure class="img3-nr">
+<figure class="img3">
   <img src="/images/usa/roadtrip/roadtrip-20.JPG" alt="Mammoth Hot Springs">
   <img src="/images/usa/roadtrip/roadtrip-23.JPG" alt="Mammoth Hot Springs">
   <img src="/images/usa/roadtrip/roadtrip-21.JPG" alt="Junior Ranger Sophia">
