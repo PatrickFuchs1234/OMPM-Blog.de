@@ -12,7 +12,7 @@ seo:
   keywords: 'USA, Roadtrip durch Amerikanische Nationalparks, Campen in den USA, Badlands Nationalpark, Mount Rushmore, Devils Tower, Chicago'
   hide-from-google: false
 ---
-Vom Yellowstone Nationalpark fahren wir weiter in Richtung Osten. In 16 Tagen wollen wir schon in New York an der Ostküste Amerikas sein. 
+Vom [Yellowstone Nationalpark](roadtrip-usa-2) fahren wir weiter in Richtung Osten. In 16 Tagen wollen wir schon in New York an der Ostküste Amerikas sein. 
 
 ## Devils Tower
 Wir durchqueren Wyoming bis ans östliche Ende, wo wir uns den Devils Tower, ein weiteres National Monument ansehen. Der Devils Tower ist ein markanter Felsen, der sich etwa 265 Meter über die umliegende Landschaft erhebt. Er wurde 1906 zum ersten National Monument der Vereinigten Staaten ernannt. Der Turm besteht aus einer einzigartigen Form von vulkanischem Gestein und ist bekannt für seine auffällige, säulenartige Struktur, die durch Lava entstanden ist. Zudem ist der Devils Tower ein wichtiger Ort in der Kultur der Lakota und anderen indigenen Völkern, die ihn als heiligen Ort betrachten.
