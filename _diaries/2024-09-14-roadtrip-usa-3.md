@@ -31,7 +31,7 @@ Aus unerklärlichen Gründen haben wir alle vier gedacht, dass der Mount Rushmor
 Wir fahren gleich am nächsten Vormittag zum National Monument. Es sind hauptsächlich Amerikaner:innen vor Ort und kaum andere ausländische Touristen. Für eine 10$ Parkgebühr dürfen wir uns den Mount Rushmore mit den vier Präsidentenköpfen dann ansehen.
 
 <figure class="img1">
-  <img src="/images/usa/roadtrip/inland-featured.JPG" alt="Mount Rushmore">
+  <img src="/images/usa/roadtrip/roadtrip-69.JPG" alt="Mount Rushmore">
 </figure>
 
 Der Berg übertrifft alle unsere Erwartungen und könnte nicht *Amerikanischer* sein. Die Köpfe der vier einflussreichen US-Präsidenten (von links nach rechts: G. Washington, T. Jefferson, T. Roosevelt und A. Lincoln) sehen wirklich unglaublich mächtig aus. Man hat das Monument dann doch sehr schnell gesehen, aber der Zwischenstopp war auf jeden Fall seine Zeit wert.
