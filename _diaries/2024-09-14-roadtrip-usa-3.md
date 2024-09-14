@@ -112,3 +112,7 @@ Die Niagara Fälle liegen bereits im Bundesstaat New York, etwa 5 Stunden nördl
 </figure>
 
 Am nächsten Tag fahren wir vormittags zum Flughafen und bringen unser Auto zurück. Für Sophia und Mathias geht es jetzt zurück nach Hause, wir werden abgeholt und fahren weiter nach Washington DC.
+
+<figure class="img1">
+  <img src="/images/usa/roadtrip/roadtrip-70.JPG" alt="Selfie mit Auto">
+</figure>
