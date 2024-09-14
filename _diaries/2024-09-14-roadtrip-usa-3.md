@@ -64,10 +64,10 @@ Zwei Tage verbringen wir in Chicago, wo wir es uns gemütlich machen, brunchen, 
 
 <figure class="img1">
   <img src="/images/usa/roadtrip/roadtrip-63.JPG" alt="Chicago">
-  <figcaption> Wenn man in Chicago ist, darf eine klassische Deep-Dish Pizza, die fast wie eine Mischung aus Lasagne und Pizza schmeckt, natürlich nicht fehlen. </figcaption>
 </figure>
 <figure class="img1">
   <img src="/images/usa/roadtrip/roadtrip-65.JPG" alt="Chicago Style Deep Dish Pizza">
+  <figcaption> Wenn man in Chicago ist, darf eine klassische Deep-Dish Pizza, die fast wie eine Mischung aus Lasagne und Pizza schmeckt, natürlich nicht fehlen. </figcaption>
 </figure>
 
 ## Indiana Dunes
