@@ -5,7 +5,7 @@ title: 'Die 10 besten Reise-Apps'
 author: Jenny
 date: 2024-09-18 14:35:00
 categories: ['Reisetipps', 'Low Budget']
-featured_image: /images/low-budget-2.jpg
+featured_image: /images/apps.jpg
 seo:
   title: 'Die 10 besten Reise-Apps'
   description: 'In diesem Beitrag findest du die Top 10 Reise-Apps, die wir tagtäglich auf unserer Low Budget Weltreise verwenden.'
