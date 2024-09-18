@@ -1,9 +1,9 @@
 ---
-published: false
+published: true
 layout: post-with-sidebar
 title: 'Die 10 besten Reise-Apps'
 author: Jenny
-date: 2024-07-30 14:35:00
+date: 2024-09-18 14:35:00
 categories: ['Reisetipps', 'Low Budget']
 featured_image: /images/low-budget-2.jpg
 seo:
@@ -15,6 +15,10 @@ seo:
 ---
 Bevor wir unsere Weltreise angetreten haben, haben wir uns mit hilfreichen Reise-Apps ausgestattet. Diese haben nicht nur unsere Navigation vereinfacht, sondern auch dabei geholfen, unser Budget im Rahmen zu halten.
 In diesem Beitrag findest unsere Top 10 Apps, die wir auf unserer Weltreise ständig verwenden und die uns mitunter auch schon einiges an Geld gespart haben.
+
+<figure class="img1">
+ 	<img src="/images/apps.jpg" alt="Apps">
+</figure>
 
 ## 1 | Booking.com
 Allen Apps voran verwenden wir Booking.com in der App-Version beinahe täglich (wenn wir nicht gerade Haussitten oder Couchsurfen). Der Vorteil der App sind ganz klar die günstigeren Mobil-Preise. Bucht man in der Desktopversion zahlt man meist mehr. Und: Je mehr man über Booking.com bucht, desto günstiger werden die Angebote, da man im *Genius Level* steigt.
@@ -49,4 +53,3 @@ Nicht immer, aber gerade in Städten gibt es bei AirBnB oft gute und günstige A
 > **Top-Tipp:** Bei vielen Unterkünften bekommt man einen *Long-Stay* Rabatt - dafür muss man allerdings oft nur 3 Nächte bleiben.
 
 Diese Apps haben nicht nur unsere Reiseorganisation vereinfacht, sondern tragen auch dazu bei, dass wir mehr von der Welt sehen können, ohne dabei unser Budget zu sprengen. Weitere Tipps zum günstigen Reisen findest du außerdem noch in unserem Blogpost [Low Budget Reisen](low-budget-reisen).
-
