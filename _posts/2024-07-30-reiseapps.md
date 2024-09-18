@@ -1,13 +1,13 @@
 ---
 published: true
 layout: post-with-sidebar
-title: 'Die besten Reiseapps: Unsere Top-10 Weltreise-Apps'
+title: 'Unsere Top-10 Weltreise-Apps'
 author: Jenny
 date: 2024-09-18 14:35:00
 categories: ['Reisetipps', 'Low Budget']
 featured_image: /images/apps.jpg
 seo:
-  title: 'Die besten Reiseapps: Unsere Top-10 Weltreise-Apps'
+  title: 'Unsere Top-10 Weltreise-Apps'
   description: 'In diesem Beitrag findest du die Top 10 Reise-Apps, die wir tagtäglich auf unserer Low Budget Weltreise verwenden.'
   social_image: /images/low-budget-2.jpg
   keywords: 'Low Budget Reisen, Apps für die Weltreise, Reiseapps, Apps zum günstig Reisen, Geld sparen auf Weltreise, Top 10 Reiseapps, Sparen'
