@@ -3,7 +3,7 @@ published: false
 layout: post-with-sidebar
 title: '12 Kostenlose Aktivitäten in New York City'
 author: Jenny
-date: 2024-07-24 14:35:00
+date: 2024-09-27 14:35:00
 categories: ['Reisetipps', 'Low Budget']
 featured_image: /images/low-budget-2.jpg
 seo:
