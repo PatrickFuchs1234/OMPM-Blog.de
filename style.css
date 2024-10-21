@@ -161,7 +161,7 @@ a.bg-image { display: block;}
 .portrait-tall { padding-bottom: 175%; }
 .portrait      { padding-bottom: 125%; }
 .square        { padding-bottom: 100%; }
-
+.padding-map   { padding-bottom: 60%;}
 
 /* Background Position */
 .bg-pos-t { background-position: top; }
