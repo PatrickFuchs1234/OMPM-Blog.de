@@ -90,7 +90,7 @@ Wir essen eine Kleinigkeit, trinken Chai und versuchen die wilden Geschichten zu
 
 An unserem zweiten Tag brechen wir gleich am Morgen auf, um uns die Burg und den Tempel gleich hinter unserer Unterkunft anzusehen. Das Fort ist gigantisch und wir verbringen mit Audioguide fast zwei Stunden im Burg-Museum und lernen allerhand Geschichtliches - hauptsächlich geht es um die Maharajas, deren vielen Frauen (also Sex), um Opium und um Krieg. Wir machen auch ein Foto mit drei Frauen, die sich ebenso die Burg ansehen. Dann essen wir im Burgcafé Samosas, um uns für den Tempel zu stärken. Diesen erreichen wir ebenso zu Fuß, verbringen dort aber lange nicht so viel Zeit wie im Museum. 
 
-<figure class="img2-nr">
+<figure class="img2">
   <img src="/images/asien/indien/indien2/indien-35.JPG" alt="Chai Pause im Mehrangarh Fort">
   <img src="/images/asien/indien/indien2/indien-36.JPG" alt="Tempel Jaswant Thada">
 </figure>
@@ -156,7 +156,7 @@ Nach dem späten Frühstück lassen wir uns vom Hotel aus zum *Karni Mata Tempel
 Wir haben so einige Horrorgeschichten über den Rattentempel gehört, wollen uns aber möglichst unvoreingenommen selbst ein Bild davon machen. 
 Beim Tempel angekommen ziehen wir wie üblich unsere Schuhe aus, bekommen allerdings dann gleich Plastiküberzieher für unsere Füße. Glücklicherweise können wir unserem Begleiter, der „geschäftlich“ wohl doch nichts zu tun hat, außer eventuell für uns den Guide zu spielen und mit uns Geschäfte zu machen, am Eingang des Tempels klar machen, dass wir keinen Führer brauchen. So schaffen wir es also, alleine den Tempel zu besuchen. Im Tempel leben tatsächlich unglaublich viele Ratten, allerdings sind diese viel kleiner als angenommen. Außerdem ist der Boden des Tempels relativ sauber. Die Plastiküberzieher für unsere Füße sind eher sinnlos. Die Ratten essen auch kaum Müll, sondern sehr viele Maiskörner und Kichererbsen, die die Gläubigen hier spenden. Alles in allem geht es den Tieren sehr gut. 
 
-<figure class="img3-nr">
+<figure class="img3">
   <img src="/images/asien/indien/indien2/indien-16.JPG" alt="Rattentempel Bikaner">
   <img src="/images/asien/indien/indien2/indien-17.JPG" alt="Rattentempel Bikaner">
   <img src="/images/asien/indien/indien2/indien-18.JPG" alt="Rattentempel Bikaner">
