@@ -72,7 +72,7 @@ Gerade bei längeren Flügen empfehlenswert, weil man dadurch die Unterkunft fü
 Oft sind die Flüge selbst gar nicht teuer, sondern es sind die Gepäckstücke die den Preis in die Höhe treiben.
 ##### 5 | Flexibel sein
 Wähle die Urlaubsdestination nach dem günstigten Flug aus. Aber Achtung: gerade in der Hauptsaison sind die Flüge zu teuren Urlaubszielen oft günstig - allerdings zahlt man dann dafür vor Ort für Unterkünft und Essen umso mehr.
-##### 6 Preise vergleichen
+##### 6 | Preise vergleichen
 Websiten und Apps wie Skyscanner, Kayak, Hopper oder [Kiwi](https://kiwi.tp.st/Tuv3xlLK) vergleichen die Preise verschiedener Flüge. Zudem lohnt es sich, auch die Preise zwischen den Apps zu vergleichen, da diese ebenso schwanken können.
 
 ### Öffis nutzen

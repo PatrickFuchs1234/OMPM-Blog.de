@@ -848,7 +848,7 @@ blockquote p {padding-left: 3%; padding-right: 3%;}
 
   /* list item in blogposts */
   .blog-content li{
-    margin-right: 3rem;
+    margin-right: 1rem;
   }
 
    /* flex container */
