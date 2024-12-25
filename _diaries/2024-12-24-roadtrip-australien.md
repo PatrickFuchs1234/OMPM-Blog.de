@@ -1,13 +1,13 @@
 ---
 layout: post
-title: '#41 Roadtrip an der Australischen Wesküste'
+title: '#41 Roadtrip an der Australischen Westküste'
 author: Jenny & Pati
 date: 2024-12-24 08:00:00
 categories:
   - Australien
 featured_image: /images/australien/wa/wa-ft.jpg
 seo:
-  title: 'Roadtrip an der Australischen Wesküste'
+  title: 'Roadtrip an der Australischen Westküste'
   description: 'Nach langer Einreise über Indien und Kuala Lumpur, fahren wir von Perth aus mit einem Camper bis nach Exmouth in den Cape Range Nationalpark.'
   social_image: /images/australien/wa/wa-ft.jpg
   keywords: 'Australien, Outback, Roadtrip, Australische Westküste, Cape Range Nationalpark, Kampung Nationalpark, Coral Bay, Shark Bay, Kalbarri Nationalpark, Ningaloo Reef'
