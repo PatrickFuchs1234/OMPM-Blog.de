@@ -48,6 +48,10 @@ Da wir nur diesen einen Nachmittag in Singapur sind, beschließen wir, hier in d
 
 In der Mall können wir nicht anders als in den Apple Store zu gehen. Dieser ist zunächst nur ein langer Gang, dem eine Rolltreppe folgt. Als wir mit der Rolltreppe nach oben fahren, stehen wir plötzlich in einer Glaskuppel direkt im Wasser. Ein richtig cooler Schauraum mit besonderer Lage. Ausblick auf eine weitere Glaskuppel im Wasser - Louis Vuitton. Obwohl wir natürlich nichts kaufen, ist das wahrscheinlich eines unserer Highlights. 
 
+<figure class="img1">
+  <img src="/images/australien/wa/wa-11.jpg" alt="Rolltreppe im Apple Store">
+</figure>
+
 Als es endlich dunkel ist, gehen wir nochmal durch die *Gardens by the Bay* und finden sogar ein kleines Lokal für einen Absacker. Morgen früh geht es schon wieder weiter nach Hat Yai in Thailand.
 
 <figure class="img1">
