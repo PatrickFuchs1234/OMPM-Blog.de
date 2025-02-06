@@ -66,5 +66,3 @@ function createCookie(name, value, days) {
     document.getElementById("cookie-notice").style.display = "block";
   })
     
-
-

@@ -83,6 +83,7 @@ section { position: relative; }
 .margin-b { margin-bottom: 5%; }
 .margin-l { margin-left: 5%; }
 .margin-r { margin-right: 5%; }
+.margin-0 {margin: 0;}
 
 .margin-t-05 { margin-top: 0.5rem; }
 .margin-b-05 { margin-bottom: 0.5rem; }
@@ -330,6 +331,21 @@ p a:hover {
   text-decoration: none;
   border-bottom: 1px solid;
 }
+
+.button2{ 
+  display: inline-block;
+  text-decoration: none;
+  line-height: 1;
+  padding: 0.5rem 1.5rem;
+  color: var(--light);
+  border: 1.4px solid var(--light);
+}
+
+.button2:hover {
+  color: var(--dark-text);
+  border: 1.4px solid var(--dark-text);
+}
+
 
 /* suggested additional styles 
 - .button-inverted, .button-subtle, .button-lg  */
