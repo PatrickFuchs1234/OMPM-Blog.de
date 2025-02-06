@@ -14,6 +14,8 @@ seo:
   keywords: 'Bali, Singapur, Jewel Singapur, Bayfront, Changi Airport, Gardens by the Bay, Marina Bay Sandy, Thailand, Songkhla, Thai Street Paws, Heimreise, Hund, Reise mit Hund'
   hide-from-google: true
 ---
+Die letzten Stopps unserer Reise stehen nun an und wir machen uns langsam, aber sicher auf den Heimweg.
+
 ## Bali
 
 Von Perth aus fliegen wir mit kurzem Zwischenstopp nach Bali. Wir haben gedacht, wir machen es uns einfach und schlafen eine Nacht im Flughafen von Denpasar, bevor dann unsere Reise am nächsten Morgen weiter geht. Beim internationalen Transfer gibt es dann allerdings - ähnlich wie damals bei der [Durchreise durch Indien](roadtrip-australien) - überraschenderweise ein Problem. Vorab haben wir uns bei der Botschaft in Jakarta erkundigt, ob es möglich ist, die Nacht am Flughafen zu verbringen und ein klares JA erhalten. Die Flughafenangestellte am Transferdesk lässt uns aber warten, da sie in unserem Fall nicht weiß, was zu tun ist. Dann kommt ein Flughafen-Security hinzu, erkundigt sich nach dem Problem, weiß aber auch nicht weiter. 

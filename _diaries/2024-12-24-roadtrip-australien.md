@@ -13,6 +13,8 @@ seo:
   keywords: 'Australien, Outback, Roadtrip, Australische Westküste, Cape Range Nationalpark, Kampung Nationalpark, Coral Bay, Shark Bay, Kalbarri Nationalpark, Ningaloo Reef'
   hide-from-google: false
 ---
+Von Nepal geht es jetzt über Indien und weitere Zwischenstopps weiter bis nach Australien. Aber von vorn:
+
 ## Von Nepal über Indien…
 
 Nach aufregenden Wochen in [Nepal](nepal) machen wir uns auf eine etwas längere Reise. Unser erster Stopp führt uns zurück nach Neu Delhi, Indien. Hier machen wir dieses Mal allerdings nur einen sehr kurzen Zwischenstopp und verbringen einen Tag am Flughafen. Am frühen Nachmittag landen wir und kurz vor Mitternacht geht unser Anschlussflug nach Malaysia. Eigentlich nur internationaler Transit, der mit Handgepäck kein Problem sein sollte. Weil wir aber bereits zwei Mal in Indien waren und die Bürokratie kennengelernt haben, haben wir uns bei der letzten Einreise sicherheitshalber schon ein Jahresvisum für Indien geholt (Transitvisa bekommt man nämlich nur persönlich bei der Botschaft in Wien - warum auch immer :D ).
