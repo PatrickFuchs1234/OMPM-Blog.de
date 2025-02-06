@@ -100,6 +100,8 @@ section { position: relative; }
 .margin-l-2 { margin-left: 2rem; }
 .margin-r-2 { margin-right: 2rem; }
 
+.margin-t-2p { margin-top: 2%; }
+
 .margin-t-0 { margin-top: 0; }
 .margin-b-0 { margin-bottom: 0; }
 .margin-l-0 { margin-left: 0; }
@@ -337,16 +339,16 @@ p a:hover {
 .button2{ 
   display: inline-block;
   text-decoration: none;
-  font-weight: bold;
+/*   font-weight: bold; */
   line-height: 1;
   padding: 0.5rem 1.5rem;
   color: var(--light);
-  border: 2px solid var(--light);
+  border: 1.4px solid var(--light);
 }
 
 .button2:hover {
   color: var(--dark-text);
-  border: 2px solid var(--dark-text);
+  border: 1.4px solid var(--dark-text);
 }
 
 .button3 { 
