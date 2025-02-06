@@ -104,7 +104,3 @@ Wenn ihr wissen wollt, wohin es uns jetzt gerade verschlagen hat und was als Nä
 Vielen Dank für euer fleißiges Mitlesen - und bis bald!
 
 Jenny & Patrick
-
-<figure class="img1">
-  <img src="/images/heimreise/heimreise-10.webp" alt="Mit Hund in Griechenland">
-</figure>
