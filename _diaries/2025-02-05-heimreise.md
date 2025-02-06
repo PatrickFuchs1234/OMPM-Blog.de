@@ -94,9 +94,9 @@ In den nächsten drei Wochen wollen wir möglichst viel Zeit mit unseren Familie
 
 15 Monate Weltreise sind vorbei. Wir sind einmal um den Globus geflogen, waren in 11 Ländern und auf drei Kontinenten. Zusätzlich konnten wir das schönste Reisemitbringsel überhaupt mit nach Hause nehmen. Für uns eine unglaubliche und unvergessliche Zeit.
 
-Damit heißt es auch, die Zeit der wilden Abenteuer ist (vorerst) vorbei und somit werden wir auch unser Reisetagebuch stilllegen. Wir haben das Schreiben immer geliebt, aber ein öffentliches Online-Tagebuch bedeutet auch eine Menge Arbeit und Aufwand. Deshalb haben wir uns entschieden, euch über unseren brandneuen Newsletter auf dem Laufenden zu halten – viel unkomplizierter und persönlicher.
+Damit heißt es auch, die Zeit der wilden Abenteuer ist (vorerst) vorbei und somit werden wir auch unser Reisetagebuch stilllegen. Wir haben das Schreiben immer geliebt, aber ein öffentliches Online-Tagebuch bedeutet auch eine Menge Arbeit und Aufwand. Deshalb haben wir uns entschieden, euch über unseren brandneuen [Newsletter]() auf dem Laufenden zu halten – viel unkomplizierter und persönlicher.
 
-Wer uns kennt, weiß, dass wir nicht lange stillsitzen können. 😉 Wenn ihr wissen wollt, wohin es uns jetzt gerade verschlagen hat und was als Nächstes kommt, meldet euch für unseren brandneuen Newsletter an. Dort halten wir euch auf dem Laufenden – ohne Spam, aber mit spannenden Updates zu Lanta, unseren Plänen und vielleicht der ein oder anderen Überraschung.
+Wer uns kennt, weiß, dass wir nicht lange stillsitzen können. 😉 Wenn ihr wissen wollt, wohin es uns jetzt gerade verschlagen hat und was als Nächstes kommt, meldet euch für unseren brandneuen [Newsletter]() an. Dort halten wir euch auf dem Laufenden – ohne Spam, aber mit spannenden Updates zu Lanta, unseren Plänen und vielleicht der ein oder anderen Überraschung.
 
 Vielen Dank für euer fleißiges Mitlesen - und bis bald!
 
