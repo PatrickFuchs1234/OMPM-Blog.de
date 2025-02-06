@@ -3,7 +3,7 @@ published: true
 layout: post
 title: '#42 Die letzten Stopps unserer Reise'
 author: Pati
-date: 2025-02-05 08:00:00
+date: 2025-02-06 08:00:00
 categories:
   - Asien
 featured_image: /images/heimreise/heimreise-ft2.jpg
