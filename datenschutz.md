@@ -110,7 +110,7 @@ Weitere Informationen zum Umgang mit Nutzerdaten findest du in der Datenschutzer
 
 ## 5. Analysetools und Werbung 
 
-#### Google Analytics 4 
+### Google Analytics 4 
 Soweit Sie Ihre Einwilligung erklärt haben, wird auf dieser Website Google Analytics 4 eingesetzt, ein Webanalysedienst der Google LLC. Verantwortliche Stelle für Nutzer in der EU/ dem EWR und der Schweiz ist Google Ireland Limited, Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Irland („Google“). 
 
 #### Art und Zweck der Verarbeitung 
@@ -164,6 +164,14 @@ Nähere Informationen zu Nutzungsbedingungen von Google Analytics und zum Datens
 
 #### Auftragsdatenverarbeitung 
 Wir haben mit Google einen Vertrag zur Auftragsdatenverarbeitung abgeschlossen und setzen die Vorgaben der österreichischen Datenschutzbehörde bei der Nutzung von Google Analytics vollständig um. 
+
+### Verwendung von MailerLite für den Versand von Newslettern und Analyse
+
+Wir nutzen den Dienst MailerLite, um unseren Newsletter zu versenden und die Interaktionen der Empfänger zu analysieren. MailerLite erhebt dabei Daten wie die Öffnungsraten, Klicks auf Links und andere Interaktionsdaten, um die Qualität und Relevanz unserer Newsletter zu verbessern. Diese Daten werden ausschließlich für die Optimierung unserer Kommunikationsstrategie verwendet und nicht an Dritte weitergegeben.
+
+Die Verarbeitung erfolgt auf Grundlage deiner Einwilligung, die du beim Abonnieren des Newsletters erteilst. Du kannst deine Einwilligung jederzeit widerrufen, indem du den Abmeldelink im Newsletter verwendest oder uns direkt kontaktierst.
+
+Weitere Informationen zum Datenschutz bei MailerLite findest du in deren Datenschutzerklärung: https://www.mailerlite.com/privacy-policy.
 
 ## 6. Links
 
