@@ -1,24 +1,24 @@
 ---
-published: false
+published: true
 layout: post
 title: '#42 Die letzten Stopps unserer Reise'
 author: Pati
 date: 2025-02-05 08:00:00
 categories:
   - Asien
-featured_image: /images/heimreise/heimreise-ft.jpg
+featured_image: /images/heimreise/heimreise-ft2.jpg
 seo:
   title: 'Die letzten Stopps unserer Reise'
   description: 'Über Bali, Singapur und Thailand fliegen wir schlussendlich mit unserem Hund Lanta nach Hause.'
-  social_image: /images/heimreise/heimreise-ft.jpg
+  social_image: /images/heimreise/heimreise-ft2.jpg
   keywords: 'Bali, Singapur, Jewel Singapur, Bayfront, Changi Airport, Gardens by the Bay, Marina Bay Sandy, Thailand, Songkhla, Thai Street Paws, Heimreise, Hund, Reise mit Hund'
-  hide-from-google: true
+  hide-from-google: false
 ---
 Die letzten Stopps unserer Reise stehen nun an und wir machen uns langsam, aber sicher auf den Heimweg.
 
 ## Bali
 
-Von Perth aus fliegen wir mit kurzem Zwischenstopp nach Bali. Wir haben gedacht, wir machen es uns einfach und schlafen eine Nacht im Flughafen von Denpasar, bevor dann unsere Reise am nächsten Morgen weiter geht. Beim internationalen Transfer gibt es dann allerdings - ähnlich wie damals bei der [Durchreise durch Indien](roadtrip-australien) - überraschenderweise ein Problem. Vorab haben wir uns bei der Botschaft in Jakarta erkundigt, ob es möglich ist, die Nacht am Flughafen zu verbringen und ein klares JA erhalten. Die Flughafenangestellte am Transferdesk lässt uns aber warten, da sie in unserem Fall nicht weiß, was zu tun ist. Dann kommt ein Flughafen-Security hinzu, erkundigt sich nach dem Problem, weiß aber auch nicht weiter. 
+Von Perth aus fliegen wir mit kurzem Zwischenstopp nach Bali. Wir haben gedacht, wir machen es uns einfach und schlafen eine Nacht im Flughafen von Denpasar, bevor dann unsere Reise am nächsten Morgen weiter geht. Beim internationalen Transfer gibt es dann allerdings - ähnlich wie damals bei der Durchreise durch Indien - überraschenderweise ein Problem. Vorab haben wir uns bei der Botschaft in Jakarta erkundigt, ob es möglich ist, die Nacht am Flughafen zu verbringen und ein klares JA erhalten. Die Flughafenangestellte am Transferdesk lässt uns aber warten, da sie in unserem Fall nicht weiß, was zu tun ist. Dann kommt ein Flughafen-Security hinzu, erkundigt sich nach dem Problem, weiß aber auch nicht weiter. 
 
 Nach einer weiteren knappen halben Stunde kommt dann ein Mitarbeiter unserer Airline und erklärt uns, dass wir wieder einmal nicht für den Internationalen Transfer geeignet sind. Naja, was soll man sagen - diskutieren lässt sich auch nicht mit ihm und die E-Mail der Botschaft ist ihm egal, also reisen wir wieder in Bali ein. Zum Glück gibt es hier ein *Visa on Arrival* und wir können noch kurzfristig eine Nacht in einem Hostel buchen. Insgesamt kostet uns die Zwischenlandung in Bali etwas mehr als gedacht, erinnert uns aber nochmal, wie schön und freundlich die Insel (abgesehen vom Airline Personal) gewesen ist. 
 
@@ -26,7 +26,7 @@ Nach einer weiteren “letzten” Nacht im Hostel spazieren wir am Morgen wieder
 
 ## Singapur
 
-Mittags landen wir nach drei Stunden im Flugzeug in Singapur. Hier verläuft unsere Einreise problemlos. Wir erkunden zunächst den gigantischen Flughafen. Mit Shuttle Bus geht es für uns vom Terminal zum größten Indoor-Wasserfall in der *Jewel* Mall direkt im *Changi Airport*. Der Anblick des Wasserfalls ist wirklich verrückt. Da wir aber noch mit unserem Gepäck unterwegs sind, beschließen wir, nach einer kurzen Erkundungstour in unsere Unterkunft, ein Hostel  - wie könnte es auch anders sein - zu fahren. 
+Mittags landen wir nach drei Stunden im Flugzeug in Singapur. Hier verläuft unsere Einreise problemlos. Wir erkunden zunächst den gigantischen Flughafen. Mit Shuttle Bus geht es für uns vom Terminal zum größten Indoor-Wasserfall in der *Jewel Mall* direkt im *Changi Airport*. Der Anblick des Wasserfalls ist wirklich verrückt. Da wir aber noch mit unserem Gepäck unterwegs sind, beschließen wir, nach einer kurzen Erkundungstour in unsere Unterkunft, ein Hostel  - wie könnte es auch anders sein - zu fahren. 
 
 <figure class="img1">
   <img src="/images/heimreise/heimreise-3.webp" alt="Größter Indoor Wasserfall der Welt im Jewel im Changi Airport">
@@ -36,7 +36,7 @@ Später am Nachmittag wollen wir zur *Bayfront* spazieren, um uns die Beine zu v
 
 <figure class="img2">
   <img src="/images/heimreise/heimreise-6.webp" alt="Supertree Grove in Singapur">
-  <img src="/images/heimreise/heimreise-5.webp.jpg" alt="Marina Bay Sands in Singapur">
+  <img src="/images/heimreise/heimreise-5.webp" alt="Marina Bay Sands in Singapur">
 </figure>
 
 Da wir nur diesen einen Nachmittag in Singapur sind, beschließen wir, hier in der Gegend zu bleiben und uns später nach Sonnenuntergang die Sehenswürdigkeiten auch noch bei Nacht anzusehen. Für unser Abendessen suchen wir uns auf Empfehlung von Russel, einem Singapurer, den wir in Sri Lanka kennengelernt haben, ein *Hawker Center*. Die Hawker Center in Singapur sind Food-Märkte, in denen man sehr viele lokale und günstige Gerichte finden kann. Wir probieren uns also durch verschiedene Stände bis wir satt sind und gehen danach zurück in die Marina Bay Sands Mall. 
@@ -87,8 +87,7 @@ Jetzt noch durch den Zoll. Wir haben ja schließlich eine Menge Dokumente vorber
 
 In den nächsten drei Wochen wollen wir möglichst viel Zeit mit unseren Familien verbringen und möglichst alle unsere Freunde wiedersehen, bevor es dann für uns ins nächste Abenteuer geht. 
 
-<figure class="img2">
-  <img src="/images/heimreise/heimreise-9.webp" alt="Schneefoto aus Tirol">
+<figure class="img1">
   <img src="/images/heimreise/heimreise-8.webp" alt="Wir beide vor dem Bahnhof in Wörgl">
 </figure>
 
@@ -100,7 +99,7 @@ Damit heißt es, die Zeit der wilden Abenteuer ist (vorerst) vorbei und somit we
 
 ...wir haben das Schreiben immer geliebt, aber ein öffentliches Online-Tagebuch bedeutet auch eine Menge Arbeit und Aufwand. Deshalb haben wir uns entschieden, euch von nun an über einen Newsletter per Mail auf dem Laufenden zu halten – viel unkomplizierter und persönlicher.
 
-Wenn ihr wissen wollt, wohin es uns jetzt gerade verschlagen hat und was als Nächstes kommt, meldet euch gerne hier für den Newsletter an. Dort halten wir euch auf dem Laufenden – ohne Spam, aber mit spannenden Updates zu Lanta, unseren Plänen und vielleicht der ein oder anderen Überraschung.
+Wenn ihr wissen wollt, wohin es uns jetzt gerade verschlagen hat und was als Nächstes kommt, meldet euch gerne <a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'Dkhg1P', true)">hier</a> für den Newsletter an. Dort halten wir euch auf dem Laufenden – ohne Spam, aber mit spannenden Updates zu Lanta, unseren Plänen und vielleicht der ein oder anderen Überraschung.
 
 Vielen Dank für euer fleißiges Mitlesen - und bis bald!
 
