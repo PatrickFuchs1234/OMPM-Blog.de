@@ -295,6 +295,8 @@ figcaption {
 .subtitle       { font-size: 0.9rem; font-weight: 300;}
 .copyright     { opacity: 0.8; font-size: 0.9rem; text-decoration: none; padding: 0 5%;}
 
+.text-banner  {font-size: 1.5rem;}
+
 /* ------------ Buttons & Links ------------ */
 a {
     color: inherit;
@@ -335,15 +337,16 @@ p a:hover {
 .button2{ 
   display: inline-block;
   text-decoration: none;
+  font-weight: bold;
   line-height: 1;
   padding: 0.5rem 1.5rem;
   color: var(--light);
-  border: 1.4px solid var(--light);
+  border: 2px solid var(--light);
 }
 
 .button2:hover {
   color: var(--dark-text);
-  border: 1.4px solid var(--dark-text);
+  border: 2px solid var(--dark-text);
 }
 
 .button3 { 

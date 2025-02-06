@@ -6,11 +6,11 @@ author: Pati
 date: 2025-02-05 08:00:00
 categories:
   - Asien
-featured_image: /images/heimreise/heimreise-ft.jpg
+featured_image: /images/heimreise/heimreise-ft2.jpg
 seo:
   title: 'Die letzten Stopps unserer Reise'
   description: 'Über Bali, Singapur und Thailand fliegen wir schlussendlich mit unserem Hund Lanta nach Hause.'
-  social_image: /images/heimreise/heimreise-ft.jpg
+  social_image: /images/heimreise/heimreise-ft2.jpg
   keywords: 'Bali, Singapur, Jewel Singapur, Bayfront, Changi Airport, Gardens by the Bay, Marina Bay Sandy, Thailand, Songkhla, Thai Street Paws, Heimreise, Hund, Reise mit Hund'
   hide-from-google: false
 ---
