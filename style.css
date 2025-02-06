@@ -346,6 +346,19 @@ p a:hover {
   border: 1.4px solid var(--dark-text);
 }
 
+.button3 { 
+  display: inline-block;
+  text-decoration: none;
+  font-weight: bold;
+  line-height: 1;
+  padding: 0.5rem 1.5rem;
+  border: 2px solid;
+}
+
+.button3:hover {
+  color: var(--featured-text);
+}
+
 
 /* suggested additional styles 
 - .button-inverted, .button-subtle, .button-lg  */
