@@ -165,6 +165,16 @@ Nähere Informationen zu Nutzungsbedingungen von Google Analytics und zum Datens
 #### Auftragsdatenverarbeitung 
 Wir haben mit Google einen Vertrag zur Auftragsdatenverarbeitung abgeschlossen und setzen die Vorgaben der österreichischen Datenschutzbehörde bei der Nutzung von Google Analytics vollständig um. 
 
+### Einbindung von Google AdSense
+Unsere Website nutzt Google AdSense, einen Dienst zur Einbindung von Werbeanzeigen der Google Ireland Limited („Google“). Google AdSense verwendet Cookies und ähnliche Technologien, um personalisierte Werbung basierend auf Ihrem Nutzungsverhalten anzuzeigen. Dabei werden Informationen, einschließlich Ihrer IP-Adresse, an Google übermittelt.
+
+Die Verarbeitung dieser Daten erfolgt auf Grundlage Ihrer Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO. Sie können Ihre Einwilligung jederzeit über unsere [Cookie-Einstellungen](/cookie-richtlinie.md) widerrufen.
+
+Datenübertragung in die USA:
+Google kann personenbezogene Daten in die USA übertragen. Dabei können Risiken bestehen, da in den USA kein mit der EU vergleichbares Datenschutzniveau garantiert ist. Google hat jedoch Standardvertragsklauseln gemäß Art. 46 DSGVO abgeschlossen, um ein angemessenes Schutzniveau sicherzustellen.
+
+Weitere Informationen zur Datenverarbeitung durch Google finden Sie in der Datenschutzerklärung von Google.
+
 ### Verwendung von MailerLite für den Versand von Newslettern und Analyse
 
 Wir nutzen den Dienst MailerLite, um unseren Newsletter zu versenden und die Interaktionen der Empfänger zu analysieren. MailerLite erhebt dabei Daten wie die Öffnungsraten, Klicks auf Links und andere Interaktionsdaten, um die Qualität und Relevanz unserer Newsletter zu verbessern. Diese Daten werden ausschließlich für die Optimierung unserer Kommunikationsstrategie verwendet und nicht an Dritte weitergegeben.

@@ -38,6 +38,7 @@ Bitte lies die Datenschutzerklärung dieser sozialen Netzwerke (die sich regelm�
 
 ## 6. Platzierte Cookies  
 - Goolge Analytics (GA4)
+- Google AdSense
 
 ## 7. Zustimmung
 Wenn du unsere Website das erste Mal besuchst, zeigen wir dir ein Pop-Up mit einer Erklärung über Cookies. Sobald du auf „Einstellungen speichern“ klickst, gibst du uns dein Einverständnis, alle von dir gewählten Kategorien von Cookies und Plugins wie in dieser Cookie-Erklärung beschrieben zu verwenden. Du kannst die Verwendung von Cookies über deinen Browser deaktivieren, aber bitte beachte, dass unsere Website dann unter Umständen nicht richtig funktioniert. 
