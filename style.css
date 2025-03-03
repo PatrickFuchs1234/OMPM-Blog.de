@@ -767,6 +767,10 @@ blockquote p {padding-left: 3%; padding-right: 3%;}
   margin: auto;
 }
 
+/* signature markdown */
+.signature {font-family: 'Reenie Beanie', cursive;}
+
+
 /* ------------ Page Name  ----------------------- */
 
 
