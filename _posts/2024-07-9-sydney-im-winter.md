@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post-with-sidebar
-title: 'Sydney im Winter'
+title: 'Erkunde Sydney im Winter'
 author: Pati
 date: 2024-07-09 14:40:00
 categories: ['Reisetipps', 'Low Budget', 'Australien']

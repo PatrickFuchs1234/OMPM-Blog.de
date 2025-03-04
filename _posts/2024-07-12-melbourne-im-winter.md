@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post-with-sidebar
-title: 'Melbourne im Winter'
+title: 'Entdecke Melbourne im Winter'
 author: Pati
 date: 2024-07-09 14:40:00
 categories: ['Reisetipps', 'Low Budget', 'Australien']
