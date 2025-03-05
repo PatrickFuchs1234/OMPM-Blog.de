@@ -53,6 +53,7 @@ section { position: relative; }
 .padded-2  { padding: 2rem; }
 
 .padded-t  { padding-top: 5%; }
+.padded-t-lg  { padding-top: 10%; }
 .padded-b  { padding-bottom: 5%; }
 .padded-l  { padding-left: 5%; }
 .padded-r  { padding-right: 5%; }
@@ -401,11 +402,13 @@ nav a:hover {
 .logo-img-footer {
   width: 200px;
   height: 200px;
-background-image: url('/images/logo-OMPM.png');
+  background-image: url('/images/logo-OMPM.png');
   background-size: cover;
   background-repeat: no-repeat;
   float: right; /* Float the logo to the right */
   margin-right: 5%;
+  z-index: 999;
+  position: relative;
 }
 
 .social-icons{
@@ -688,6 +691,8 @@ form button:hover {
   display: inline-block;
 }
 
+#affiliate-link {cursor: pointer; text-decoration: underline;}
+
 /* Popup */
 .popup-text {
   visibility: hidden;
@@ -804,7 +809,34 @@ blockquote p {padding-left: 3%; padding-right: 3%;}
   margin: auto;
 }
 
-/* signature markdown */
+/* ----svg ----- */
+.footer {
+  position: relative;
+  z-index: 1;
+}
+/* Container, damit die SVG sich immer anpasst */
+.curve-container {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  will-change: transform; /* Fordert Safari auf, Transformationsänderungen vorzubereiten */
+  line-height: 0; /* Entfernt unerwünschten Platz */
+}
+
+/* SVG-Optimierung */
+.bottom-curve {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 75px; /* Passt sich je nach Screen an */
+  transform: none;
+  rotate: 180deg;
+}
+
+/* ---- signature markdown ---- */
 .signature {font-family: 'Reenie Beanie', cursive; font-size: 3.8rem; margin-left: 1rem;}
 
 
@@ -857,12 +889,20 @@ blockquote p {padding-left: 3%; padding-right: 3%;}
   .md-padded{ padding: 5%; } 
 
   .md-padded-b{padding-bottom: 2rem;}
+  .md-padded-0{padding: 0;}
+  .md-float-center {float:none; margin: 0 auto; margin-top: 5%;}
 
   li, ul, ol {
     margin-left: 0rem;
     padding-left: 0;
     margin-right: 0rem;
 }
+
+/* newsletter embed footer */
+  #mlb2-23341321.ml-form-embedContainer .ml-form-align-center { text-align: center !important;}
+
+
+  .padded-t-lg {padding-top: 20%;}
 }
 
 
@@ -878,7 +918,6 @@ blockquote p {padding-left: 3%; padding-right: 3%;}
   .sm-show-flex { display: flex; }
 
   .sm-center { text-align: center;}
-  .sm-float-center {float:none; margin: 0 auto; margin-top: 5%;}
   .sm-left   { text-align: left; }
   .sm-right  { text-align: right; }
 
@@ -928,6 +967,12 @@ blockquote p {padding-left: 3%; padding-right: 3%;}
    /* flex container */
    .order-1 {order: 2;}
    .order-2 {order: 1;}
+
+   /* affiliate popup */
+   .popup-text {
+    top: -3rem;
+    right: -2%;
+  }
 
 }
 
