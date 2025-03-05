@@ -64,5 +64,22 @@ function createCookie(name, value, days) {
   document.querySelector(".reshow-button")
     .addEventListener("click", function() {
     document.getElementById("cookie-notice").style.display = "block";
-  })
+  });
     
+// farbe svg welle aus vorhergehender section ziehen
+
+document.addEventListener("DOMContentLoaded", function () {
+  // Suche nach dem SVG-Pfad im Footer
+  const curvePath = document.querySelector('.bottom-curve path');
+
+  // Finde die vorhergehende Section vor dem Footer
+  const previousSection = document.querySelector('.previous-section'); // Setze hier deine Klasse für die vorhergehende Section
+
+  if (previousSection && curvePath) {
+      // Hole die Hintergrundfarbe der vorhergehenden Section
+      const bgColor = window.getComputedStyle(previousSection).backgroundColor;
+      
+      // Setze die Farbe des SVG-Pfades auf die Hintergrundfarbe der vorhergehenden Section
+      curvePath.setAttribute('fill', bgColor);
+  }
+});
