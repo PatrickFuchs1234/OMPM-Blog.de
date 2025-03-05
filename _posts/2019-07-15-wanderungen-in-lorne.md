@@ -80,7 +80,7 @@ Die Sheoak Falls sind vom Sheoak Falls Carpark aus leicht zu erreichen und nur e
 
 Wie bei jeder Wanderung solltest du genügend Wasser mitnehmen und bedenken, dass es an manchen Tagen in Australien extrem heiß werden kann. Halte immer Ausschau nach Spinnen, Schlangen, Koalas und Kängurus - und so faszinierend es auch ist: Wenn du diese Tiere in freier Wildbahn siehst, halte einen Sicherheitsabstand und füttere sie nicht.
 
-Hast du noch Fragen? Schreib uns gerne auf [Instagram](https://instagram.com/onememorypermile).
+Hast du noch Fragen? Schreib uns gerne auf [Instagram](https://instagram.com/onememorypermile){:target="_blank"}.
 
 Viel Spaß beim Wandern und bis bald !
 <p class="signature">Jenny</p>

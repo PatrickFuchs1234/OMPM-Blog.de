@@ -339,7 +339,6 @@ p a:hover {
 .subtle-button {
   text-decoration: none;
   border-bottom: 1px solid;
-  border-radius: 5px;
 }
 
 .button2{ 
