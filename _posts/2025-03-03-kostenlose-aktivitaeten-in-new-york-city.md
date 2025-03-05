@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post-with-sidebar
 title: '14 Kostenlose Attraktionen in New York City'
 author: Jenny
