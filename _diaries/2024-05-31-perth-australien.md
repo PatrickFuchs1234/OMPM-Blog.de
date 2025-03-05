@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: diary
 title: '#26 Perth, Australien'
 author: Jenny
 date: 2024-05-31 14:00:00
-categories: ['Australien', 'Westküste Australien']
 featured_image: /images/australien/perth/perth-featured.jpg
 seo:
   title: 'Perth, Australien'

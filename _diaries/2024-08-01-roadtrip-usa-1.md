@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: diary
 title: '#33 USA Roadtrip: Von San Francisco nach Las Vegas'
 author: Jenny & Pati
 date: 2024-08-01 14:00:00
-categories: ['USA']
 featured_image: /images/usa/roadtrip/roadtrip-featured.JPG
 seo:
   title: 'USA Roadtrip: Von San Francisco nach Las Vegas'

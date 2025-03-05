@@ -1,12 +1,8 @@
 ---
-layout: post
+layout: diary
 title: '#23 Philippinen'
 author: Pati
 date: 2024-04-11 14:00:00
-categories:
-  - Asien
-  - Südostasien
-  - Philippinen
 featured_image: /images/asien/philippinen/philippinen-featured.jpg
 seo:
   title: Philippinen

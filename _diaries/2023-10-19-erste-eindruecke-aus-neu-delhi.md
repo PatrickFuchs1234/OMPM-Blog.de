@@ -1,13 +1,8 @@
 ---
-layout: post
+layout: diary
 title: '#3 Erste Eindrücke aus Neu Delhi'
 author: Jenny und Pati
 date: 2023-10-19 14:35:00
-categories:
-  - Asien
-  - Südasien
-  - Indien
-  - Nordindien
 featured_image: /images/asien/indien/erste-eindruecke-neu-delhi/erste-eindruecke-featured.jpg
 seo:
   title: 'Erste Eindrücke aus Neu Delhi: Essen, Smog und Kulturshock'

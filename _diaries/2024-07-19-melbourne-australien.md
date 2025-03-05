@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: diary
 title: '#31 Melbourne, Australien'
 author: Pati
 date: 2024-07-19 14:00:00
-categories: ['Australien', 'Ostküste Australien',]
 featured_image: /images/australien/melbourne/melbourne-featured-diary.jpg
 seo:
   title: 'Melbourne, Australien'

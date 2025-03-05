@@ -1,13 +1,8 @@
 ---
-layout: post
+layout: diary
 title: '#25 Yoga Teacher Training'
 author: Jenny
 date: 2024-05-05 14:00:00
-categories:
-  - Asien
-  - Südostasien
-  - Indonesien
-  - Yoga
 featured_image: /images/asien/ytt/ytt-featured.jpg
 seo:
   title: Yoga Teacher Training

@@ -1,12 +1,8 @@
 ---
-layout: post
+layout: diary
 title: '#22 Kambodscha'
 author: Jenny
 date: 2024-02-26 14:00:00
-categories:
-  - Asien
-  - Südostasien
-  - Kambodscha
 featured_image: /images/asien/kambodscha/kambodscha-featured.jpg
 seo:
   title: Kambodscha

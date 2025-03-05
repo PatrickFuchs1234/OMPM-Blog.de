@@ -1,13 +1,8 @@
 ---
-layout: post
+layout: diary
 title: '#2 Reisestart'
 author: Jenny
 date: 2023-10-18 14:35:00
-categories:
-  - Asien
-  - Südasien
-  - Indien
-  - Reiseplanung
 featured_image: /images/asien/indien/los-gehts/los-gehts-featured.jpg
 seo:
   title: 'Reisestart: Vorbereitungen, Flug und Ankunft in Neu Delhi'

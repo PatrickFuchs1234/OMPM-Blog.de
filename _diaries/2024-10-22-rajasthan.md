@@ -1,13 +1,8 @@
 ---
-layout: post
+layout: diary
 title: '#38 Quer durch Rajasthan'
 author: Jenny & Pati
 date: 2024-10-22 08:00:00
-categories:
-  - Asien
-  - Südasien
-  - Indien
-  - Nordindien
 featured_image: /images/asien/indien/indien2/indien-featured2.JPG
 seo:
   title: 'Quer durch Rajasthan'

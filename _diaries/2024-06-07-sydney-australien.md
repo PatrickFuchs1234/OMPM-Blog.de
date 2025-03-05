@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: diary
 title: '#27 Sydney, Australien'
 author: Pati
 date: 2024-06-07 14:00:00
-categories: ['Australien', 'Ostküste Australien', 'Couchsurfing']
 featured_image: /images/australien/sydney/sydney-featured-diary.jpg
 seo:
   title: 'Sydney, Australien'

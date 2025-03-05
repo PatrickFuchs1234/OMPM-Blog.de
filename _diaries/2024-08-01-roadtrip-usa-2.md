@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: diary
 title: '#34 USA Roadtrip: Unterwegs in den Nationalparks'
 author: Jenny
 date: 2024-08-14 08:00:00
-categories: ['USA']
 featured_image: /images/usa/roadtrip/np-featured.JPG
 seo:
   title: 'USA Roadtrip: Unterwegs in den Nationalparks'

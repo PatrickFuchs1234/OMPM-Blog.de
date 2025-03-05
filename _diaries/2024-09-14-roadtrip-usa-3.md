@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: diary
 title: '#35 USA Roadtrip: Quer durchs Inland bis an die Küste'
 author: Jenny
 date: 2024-09-14 08:00:00
-categories: ['USA']
 featured_image: /images/usa/roadtrip/inland-featured.JPG
 seo:
   title: 'USA Roadtrip: Quer durchs Inland bis an die Küste'

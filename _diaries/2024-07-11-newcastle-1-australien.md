@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: diary
 title: '#28 Newcastle, Australien - Teil 1'
 author: Pati
 date: 2024-07-14 14:00:00
-categories: ['Australien', 'Ostküste Australien']
 featured_image: /images/australien/newcastle/newcastle-1-featured.jpg
 seo:
   title: 'Newcastle, Australien - Teil 1'

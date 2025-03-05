@@ -1,13 +1,8 @@
 ---
-layout: post
+layout: diary
 title: 'Outtakes: Indien'
 author: Jenny und Pati
 date: 2023-12-28 14:00:00
-categories:
-  - Asien
-  - Südasien
-  - Indien
-  - Outtakes
 featured_image: /images/asien/outtakes-indien/outtakes-indien-featured.jpg
 seo:
   title: 'Outtakes: Indien'

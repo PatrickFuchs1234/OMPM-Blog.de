@@ -1,12 +1,8 @@
 ---
-layout: post
+layout: diary
 title: '#18 Kuala Lumpur, Malaysia'
 author: Jenny
 date: 2024-01-11 14:00:00
-categories:
-  - Asien
-  - Südostasien
-  - Malaysia
 featured_image: /images/asien/kuala-lumpur/kuala-lumpur-featured.jpg
 seo:
   title: Kuala Lumpur, Malaysia

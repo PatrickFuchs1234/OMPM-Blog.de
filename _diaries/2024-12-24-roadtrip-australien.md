@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: diary
 title: '#41 Roadtrip an der Australischen Westküste'
 author: Jenny & Pati
 date: 2024-12-24 08:00:00
-categories:
-  - Australien
 featured_image: /images/australien/wa/wa-ft.jpg
 seo:
   title: 'Roadtrip an der Australischen Westküste'

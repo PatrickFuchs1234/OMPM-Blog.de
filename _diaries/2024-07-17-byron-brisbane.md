@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: diary
 title: '#30 Byron Bay und Brisbane'
 author: Jenny
 date: 2024-07-17 14:00:00
-categories: ['Australien', 'Ostküste Australien']
 featured_image: /images/bannerimg.jpg
 seo:
   title: 'Byron Bay und Brisbane'

@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: diary
 title: '#1 Reisevorbereitungen'
 author: Pati
 date: 2023-10-16 18:31:00
-categories:
-  - Reiseplanung
 featured_image: /images/reisevorbereitungen-featured.jpg
 seo:
   title: 'Reisevorbereitungen'
