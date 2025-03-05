@@ -75,11 +75,16 @@ document.addEventListener("DOMContentLoaded", function () {
   // Finde die vorhergehende Section vor dem Footer
   const previousSection = document.querySelector('.previous-section'); // Setze hier deine Klasse für die vorhergehende Section
 
-  if (previousSection && curvePath) {
-      // Hole die Hintergrundfarbe der vorhergehenden Section
-      const bgColor = window.getComputedStyle(previousSection).backgroundColor;
-      
+  if (curvePath) {
+    // Standardfarbe (weiß) setzen, falls keine vorhergehende Section gefunden wird
+    let bgColor = "#FFFFFF"; 
+
+    if (previousSection) {
+        // Hole die Hintergrundfarbe der vorhergehenden Section
+        bgColor = window.getComputedStyle(previousSection).backgroundColor;
+    }
+
       // Setze die Farbe des SVG-Pfades auf die Hintergrundfarbe der vorhergehenden Section
       curvePath.setAttribute('fill', bgColor);
   }
-});
+})
