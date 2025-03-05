@@ -234,11 +234,14 @@ a.bg-image { display: block;}
   margin-right: 5%;
 }
 
-.radius {border-radius: 15px;}
+.radius {
+  border-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
 
 /* ------------ Typography Styles ----------------------- */
 
-.left    { text-align: left; }
+.left    { text-align: left; display: block;}
 .right   { text-align: right; }
 .center  { text-align: center; }
 .uppercase    { text-transform: uppercase; }
@@ -678,6 +681,35 @@ form button:hover {
 .post-info {
   font-size: 0.8rem;
   color: var(--dark-text);
+  border: none;
+}
+
+.post-info {
+  position: relative;
+  display: inline-block;
+}
+
+/* Popup */
+.popup-text {
+  visibility: hidden;
+  width: 200px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  border-radius: 5px;
+  padding: 8px;
+  position: absolute;
+  top: 80%;
+  left: 80%;
+  transform: translateX(-50%);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  z-index: 999;
+}
+
+#affiliate-link:hover + .popup-text {
+  visibility: visible;
+  opacity: 1;
 }
 
 /* Sidebar */

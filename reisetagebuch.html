@@ -21,7 +21,7 @@ seo:
 <section class="capped-width grid padded">
 
         {% assign travel-diaries = site.diaries | where_exp:"diary", "true" | reverse  %}
-        {% for diary in travel-diaries limit:100 %}
+        {% for diary in travel-diaries limit:2 %}
 
         <a class="col-6_md-12 post-item padded-2 sm-padded-1" href="{{ diary.url }}">
             <div class="grid">
@@ -42,3 +42,26 @@ seo:
 
 <!------------------------ Newsletter Banner  ------------------------>
 {% include newsletter-banner.html %}
+
+<!------------------------ Traveldiary blog loop ------------------------>
+<section class="capped-width grid padded">
+
+    {% assign travel-diaries = site.diaries | where_exp:"diary", "true" | reverse  %}
+    {% for diary in travel-diaries limit:100 offset:2 %}
+
+    <a class="col-6_md-12 post-item padded-2 sm-padded-1" href="{{ diary.url }}">
+        <div class="grid">
+            <div class="col-4-middle">
+                <div class="bg-image square radius" style="background-image:url('{{ diary.featured_image }}');"></div>
+            </div>
+
+            <div class="col-8-middle padded-1">
+        
+            <h4 class="margin-t-1 sm-margin-b-05"> {{ diary.title }} </h4>
+            </div>
+        </div>
+    </a>
+
+    {% endfor %}
+
+</section>

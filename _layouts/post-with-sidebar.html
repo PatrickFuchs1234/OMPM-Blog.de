@@ -14,8 +14,15 @@ layout: default
         
         <h1> {{ page.title }} </h1>
         
-        <p class="post-info"> von {{ page.author }} | {{ page.date | date_to_string }} </p>
-     
+        <div class="grid">
+            <p class="col-6_sm-12 post-info"> von {{ page.author }} | {{ page.date | date_to_string }} </p>
+            <p class="col-6_sm-12 post-info right sm-left">
+                Dieser Post enthält 
+                <a href="" class="post-info" id="affiliate-link">Affiliate-Links</a>.
+                <span class="popup-text">Das bedeutet, wenn du über einen dieser Links einen Kauf tätigst, bekommen wir einen kleinen Anteil. Das kostet dich nichts extra, hilft uns aber unsere Website zu erhalten.</span>
+            </p>
+        </div>
+        
     </div>
 
 </section>
@@ -64,7 +71,8 @@ layout: default
                     </div>
                 </div>
             </div>
-        </aside> <!-- end sidebar-->
+        </aside> 
+        <!-- end sidebar-->
   
 </section>
 
