@@ -2,5 +2,28 @@
 layout: default
 ---
 
+<!------------------------ Intro Banner  ------------------------>
+<section class="grid bg-medium center padded vh40">
+    <div class="col-12-middle">
+        <h2>{{ page.title }}</h2>
+        <p>{{ page.description_html }}</p>
+    </div>
+</section>
+            
 <!------------------------ Archive Blog Loop ------------------------>
-{% include category-post-loop.html %}
+<section class="padded">
+
+    <div class="capped-width grid-center">
+
+        <div class="col-9 padded-05 center margin-b-1">
+        </div>
+
+            {% for post in site.categories[page.category] limit:12 %}
+
+                {% include post-loop-item-portrait.html %}
+
+            {% endfor %}
+
+    </div>
+
+</section>
