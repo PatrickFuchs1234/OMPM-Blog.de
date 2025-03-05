@@ -1,16 +1,16 @@
 ---
 published: true
 layout: post-with-sidebar
-title: 'Roadtrip: Great Ocean Road'
+title: '2 Tage Roadtrip: Great Ocean Road'
 author: Jenny
 date: 2024-07-09 14:35:00
 categories: ['Reisetipps', 'Low Budget', 'Australien']
 featured_image: /images/australien/gor/gor-featured.jpg
 seo:
-  title: 'Great Ocean Road Roadtrip: Tipps für Low Budget Abenteuer und Sehenswürdigkeiten'
+  title: '2 Tage Great Ocean Road Roadtrip: Tipps für Low Budget Abenteuer und Sehenswürdigkeiten'
   description: 'Erlebe die Great Ocean Road mit unserem Guide: Entdecke die 12 Apostel, Bells Beach, Lorne und Apollo Bay. Ideal für Low Budget Reisende und Abenteurer!'
   social_image: /images/australien/gor/gor-featured.jpg
-  keywords: 'Great Ocean Road, Roadtrip Australien, Low Budget Reisen, 12 Apostel, Bells Beach, Lorne Wanderungen, Split Point Leuchtturm, Loch Ard Gorge, Apollo Bay, Roadtrip Great Ocean Road'
+  keywords: 'Great Ocean Road, Roadtrip Australien, Low Budget Reisen, 12 Apostel, Bells Beach, Lorne Wanderungen, Split Point Leuchtturm, Loch Ard Gorge, Apollo Bay, 2 Tage Roadtrip Great Ocean Road'
   hide-from-google: false
 _comments:
   title: Max 70 characters
@@ -55,7 +55,7 @@ Um die Karte zu benutzen, klicke einfach auf die Karte, um sie in einem neuen Fe
 Es gibt viele Unternehmen, die Bustouren entlang der Great Ocean Road anbieten. Trotzdem würde ich sagen, dass die beste Art, die Great Ocean Road zu erkunden, mit dem Auto ist. Wenn du noch kein Auto hast, kannst du eines bei einer der vielen Autovermietungen mieten. Außerdem gibt es eine Website bzw. App namens [Turo](https://turo.com/), eine Plattform, auf der Leute ihr eigenes Auto teilen - super günstig und die beste Option, wenn man mit einem kleinen Budget reist.
 
 ## 3 | Der Reiseplan
-Die Great Ocean Road liegt ganz in der Nähe von Melbourne und ist von dort aus super zu erreichen. Sie gehört bestimmt zu den Must-Do’s für jede Reise in dieser Region. Viele verschiedene Veranstalter bieten an, die gesamte Tour in einem Tag zu erledigen. Um genügend Zeit für die Great Ocean Road zu haben, würde ich aber zumindest zwei Tage empfehlen. Zwei Tage sind ideal, um entspannt an den zahlreichen Aussichtspunkten und Fotospots anzuhalten oder sogar einige der Wanderwege zu erkunden, die entlang der Great Ocean Road verstreut sind.
+Die Great Ocean Road liegt ganz in der Nähe von Melbourne und ist von dort aus super zu erreichen. Sie gehört bestimmt zu den Must-Do’s für jede Reise in dieser Region. Viele verschiedene Veranstalter bieten an, die gesamte Tour in einem Tag zu erledigen. Um genügend Zeit für die Great Ocean Road zu haben, würde ich aber zumindest 2 Tage empfehlen. 2 Tage sind ideal, um entspannt an den zahlreichen Aussichtspunkten und Fotospots anzuhalten oder sogar einige der Wanderwege zu erkunden, die entlang der Great Ocean Road verstreut sind.
 
 ### Erster Tag
 Die Great Ocean Road beginnt offiziell in Torquay, einer Stadt, die etwa 100 Kilometer südwestlich von Melbourne liegt. Torquay ist bekannt als das Surf-Mekka Australiens und markiert den Anfangspunkt dieser berühmten Küstenstraße. 

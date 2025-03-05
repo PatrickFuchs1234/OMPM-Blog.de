@@ -1,13 +1,13 @@
 ---
 published: true
 layout: post-with-sidebar
-title: 'Wasserfälle & Kängurus: Wanderungen in Lorne an der Great Ocean Road'
+title: 'Wasserfälle & Kängurus: 4 Wanderungen in Lorne an der Great Ocean Road'
 author: Jenny
 date: 2024-07-09 14:35:00
 categories: ['Reisetipps', 'Australien']
 featured_image: /images/australien/gor/hikes-in-lorne-featured.jpg
 seo:
-  title: 'Wasserfälle & Kängurus: Wanderungen in Lorne an der Great Ocean Road'
+  title: 'Wasserfälle & Kängurus: 4 Wanderungen in Lorne an der Great Ocean Road'
   description: 'Erkunde Lorne an der Great Ocean Road. Finde die besten Wanderungen wie Erskine Falls, Phantom Falls und St. George River Trail.'
   social_image: /images/australien/gor/hikes-in-lorne-featured.jpg
   keywords: 'Lorne Wanderungen, Wasserfälle Great Ocean Road, Erskine Falls Wanderung, Phantom Falls Lorne, St. George River Trail, Sheoak Falls Australien, Great Ocean Road Reisetipps'
@@ -16,7 +16,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-Direkt an der Great Ocean Road gelegen, findet man das hübsche Küstenstädchen Lorne. In dessen Umgebung kann man viele Wanderungen unterschiedlichsten Schweregrades unternehmen. Lorne hat einige atemberaubende Wasserfälle zu bieten und die Tierwelt ist faszinierend. In diesem Beitrag findest du die Beschreibungen von einzelnen Wanderungen sowie eine interaktive Karte, die die Ausgangspunkte für alle Spaziergänge und Wanderungen enthält.
+Direkt an der Great Ocean Road gelegen, findet man das hübsche Küstenstädchen Lorne. In dessen Umgebung kann man viele Wanderungen unterschiedlichsten Schweregrades unternehmen. Lorne hat einige atemberaubende Wasserfälle zu bieten und die Tierwelt ist faszinierend. In diesem Beitrag findest du 4 Wanderungen in Lorne an der Great Ocean Road mit Beschreibungen der einzelnen Wanderungen sowie eine interaktive Karte, die die Ausgangspunkte für alle Spaziergänge und Wanderungen enthält.
 
 > **Top-Tipp:** Wenn ihr nach Lorne fahrt, solltet ihr euch außerdem unbedingt auch den Beitrag [Roadtrip: Great Ocean Road](great-ocean-road) ansehen. Dort gibt es eine detaillierte Karte über die Roadtrip-Stopps an der Great Ocean Road.
 
