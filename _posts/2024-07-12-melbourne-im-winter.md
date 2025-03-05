@@ -87,3 +87,8 @@ In und um den CBD in Melbourne sind einige coole Streetart-Kunstwerke zu finden.
 ## 11. Pubs, Bars und Cafés 
 Für die Stärkung zwischendurch muss man in Melbourne nicht weit gehen. Meist findet man ein Café schon beim Abbiegen um die nächste Straßenecke, wo man sich bei einem heißen Getränk oder einem kleinen Snack erholen kann. Nach einem anstrengenden Sightseeing-Tag kann man den Tag perfekt in einer der vielen Bars oder Pubs in der Stadt ausklingen lassen. Diese Locations bieten nicht nur eine große Auswahl an Getränken, sondern auch leckeres Essen und eine super Atmosphäre.
 > **Top-Tipp** Vor allem für Europäer ist der Glühwein im Winter kaum wegzudenken. Ausgezeichnet schmeckt der *Mulled Wine* in *The Boatbuilders Yard* direkt am Yarra River mit Blick auf die Skyline.
+
+Hast du noch Fragen oder weitere Tipps für Melbourne im Winter? Schreib uns gerne auf [Instagram](https://instagram.com/onememorypermile).
+
+Viel Spaß in Melbourne und bis bald !
+<p class="signature">Pati</p>

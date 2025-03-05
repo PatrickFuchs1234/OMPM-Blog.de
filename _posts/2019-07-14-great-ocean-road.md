@@ -115,3 +115,8 @@ Die Loch Ard Gorge, der London Arch und die Grotte sind drei bemerkenswerte Sehe
 
 ## 4 | Weitere Ziele
 Nachdem du auf der Great Ocean Road einige atemberaubende Fotos gemacht und zwei unvergessliche Tage verbracht hast,  kannst du entweder weiter nach Westen in Richtung Adelaide reisen, um mehr von Südaustralien zu entdecken, oder nach Norden zum Grampians National Park, um die beeindruckende Berglandschaft zu erkunden. Alternativ kannst du dich auf den Rückweg nach Melbourne machen und dabei die ruhigere Route durch das Landesinnere wählen. Dort herrscht wesentlich weniger Verkehr und man kommt dementsprechend viel schneller voran.
+
+Hast du noch Fragen? Schreib uns gerne auf [Instagram](https://instagram.com/onememorypermile).
+
+Viel Spaß beim diesem unvergesslichen Roadtrip und bis bald !
+<p class="signature">Jenny</p>

@@ -127,3 +127,8 @@ Achtung: In einigen Ländern muss zur Aktivierung der SIM-Karte der Reisepass vo
 ### Fazit
 Low Budget Reisen ist eine ganz besondere und oft abenteuerliche Art des Reisens, die wir keinesfalls eintauschen würden. Man wird oft aus seiner Komfortzone gelockt, erlebt dadurch allerdings auch vieles was man für gewöhnlich nicht machen würde.
 Wir kombinieren Couchsurfen mit Haussitten und Workaways und machen worauf wir gerade Lust haben. Früh zu buchen lohnt sich in vielen Fällen, wir achten dann darauf, dass man die Buchung gegebenenfalls noch kostenlos stornieren kann. SIM-Karte kaufen wir eigentlich immer nur eine, weil das Datenvolumen - dank Hotspot - locker für uns beide reicht (und es in großen Städten an fast jeder Straßenecke WLAN gibt).
+
+Hast du noch Fragen oder weitere Tipps zum Low Budget Reisen? Schreib uns gerne auf [Instagram](https://instagram.com/onememorypermile).
+
+Bis bald !
+<p class="signature">Jenny</p>

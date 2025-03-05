@@ -82,3 +82,8 @@ Wenn sich das Wetter schließlich wieder verbessert, sollte man unbedingt an die
 
 ## 11. Pubs
 Zuletzt, und als ideales Abendprogramm (oder auch für den späteren Nachmittag geeignet), gibt es einige sehr tolle und gemütliche Pubs. Diese Pubs bieten nicht nur eine warme Atmosphäre, sondern auch eine Vielzahl von Getränken und Speisen, die einen entspannten Abend perfekt abrunden. Wir konnten natürlich nicht alle testen, aber [in diesem Artikel](https://www.timeout.com/sydney/bars/the-best-pubs-with-fireplaces-in-sydney) findest du einen guten Überblick über die Pubs in Syndey.
+
+Hast du noch Fragen oder weitere Ideen für Sydney im Winter? Schreib uns gerne auf [Instagram](https://instagram.com/onememorypermile).
+
+Viel Spaß in Sydney und bis bald !
+<p class="signature">Pati</p>

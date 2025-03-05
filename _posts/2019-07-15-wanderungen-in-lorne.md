@@ -79,3 +79,8 @@ Die Sheoak Falls sind vom Sheoak Falls Carpark aus leicht zu erreichen und nur e
 > **Top-Tipp:** Wenn du Kängurus in freier Wildbahn sehen möchtest, ohne die Strapazen einer Wanderung auf dich nehmen zu müssen, kannst du im Lorne's Country Club zu Abend essen. In der Abenddämmerung sind normalerweise einige Kängurus in der Nähe - achte nur darauf, dass du nicht auf den Feldern spazierst, während die Leute noch Golf spielen!
 
 Wie bei jeder Wanderung solltest du genügend Wasser mitnehmen und bedenken, dass es an manchen Tagen in Australien extrem heiß werden kann. Halte immer Ausschau nach Spinnen, Schlangen, Koalas und Kängurus - und so faszinierend es auch ist: Wenn du diese Tiere in freier Wildbahn siehst, halte einen Sicherheitsabstand und füttere sie nicht.
+
+Hast du noch Fragen? Schreib uns gerne auf [Instagram](https://instagram.com/onememorypermile).
+
+Viel Spaß beim Wandern und bis bald !
+<p class="signature">Jenny</p>

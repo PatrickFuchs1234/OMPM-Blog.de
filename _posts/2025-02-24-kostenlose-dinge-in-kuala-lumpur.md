@@ -160,5 +160,11 @@ Die *Berjaya Times Square Mall* ist ebenfalls eines der größten Einkaufszentre
 Das *Plaza Low Yat* ist ein verrückt-großes Elektronik- und Technik-Kaufhaus in Kuala Lumpur.
 Hier findest du alle möglichen Gadgets, Computer und mobile Geräte. Als Technikliebhaber:in findest du im *Plaza Low Yat* alles, was das Herz begehrt - in sämtlichen Preisklassen und allen Gebrauchszuständen. Von günstigen Schnäppchen bis teuren Produkten, von Second-Hand-Ware bis brandneueste Technik ist hier alles dabei. Aber auch ohne etwas zu kaufen, ist das Durchqueren dieser Mall ein richtiges Highlight.
 
+## Fazit: 18 Highlights für 0 Ringgit
 Abschließend kann man sagen: Kuala Lumpur bietet eine unglaubliche Vielfalt an Erlebnissen – und viele davon sind völlig kostenlos. Ob Kultur, Architektur, faszinierende Street Art oder grüne Oasen mitten in der Stadt, die Metropole hat wirklich für jeden etwas zu bieten. Sogar beim Bummeln durch die zahlreichen Malls gibt es viel zu entdecken. Egal, ob du nur ein paar Tage oder länger in Kuala Lumpur bleibst, die Stadt steckt voller Überraschungen, die es zu erkunden gilt – ganz ohne dein Budget zu strapazieren.
+
+Hast du noch Fragen oder weitere Tipps für kostenlose Aktivitäten in KL? Schreib uns gerne auf [Instagram](https://instagram.com/onememorypermile).
+
+Viel Spaß und bis bald !
+<p class="signature">Pati</p>
  

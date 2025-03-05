@@ -55,3 +55,8 @@ Nicht immer, aber gerade in Städten gibt es bei AirBnB oft gute und günstige A
 
 ## Fazit
 All unsere Top-10 Apps haben nicht nur unsere Reiseorganisation vereinfacht, sondern tragen auch dazu bei, dass wir mehr von der Welt sehen können, ohne dabei unser Budget zu sprengen. Alle diese Apps sind bei uns tagtäglich im Einsatz. Weitere Tipps zum günstigen Reisen findest du außerdem noch in unserem Blogpost [Low Budget Reisen](low-budget-reisen).
+
+Hast du noch Fragen oder weitere Apps, die jeder kennen sollte? Schreib uns gerne auf [Instagram](https://instagram.com/onememorypermile).
+
+Bis bald !
+<p class="signature">Jenny</p>
