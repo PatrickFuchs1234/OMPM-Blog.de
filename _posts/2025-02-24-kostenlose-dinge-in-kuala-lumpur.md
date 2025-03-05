@@ -163,7 +163,7 @@ Hier findest du alle möglichen Gadgets, Computer und mobile Geräte. Als Techni
 ## Fazit: 18 Highlights für 0 Ringgit
 Abschließend kann man sagen: Kuala Lumpur bietet eine unglaubliche Vielfalt an Erlebnissen – und viele davon sind völlig kostenlos. Ob Kultur, Architektur, faszinierende Street Art oder grüne Oasen mitten in der Stadt, die Metropole hat wirklich für jeden etwas zu bieten. Sogar beim Bummeln durch die zahlreichen Malls gibt es viel zu entdecken. Egal, ob du nur ein paar Tage oder länger in Kuala Lumpur bleibst, die Stadt steckt voller Überraschungen, die es zu erkunden gilt – ganz ohne dein Budget zu strapazieren.
 
-Hast du noch Fragen oder weitere Tipps für kostenlose Aktivitäten in KL? Schreib uns gerne auf [Instagram](https://instagram.com/onememorypermile).
+Hast du noch Fragen oder weitere Tipps für kostenlose Aktivitäten in KL? Schreib uns gerne auf [Instagram](https://instagram.com/onememorypermile){:target="_blank"}.
 
 Viel Spaß und bis bald !
 <p class="signature">Pati</p>

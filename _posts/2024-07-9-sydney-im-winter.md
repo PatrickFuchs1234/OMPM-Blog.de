@@ -81,9 +81,9 @@ Das Australian Museum in Sydney ist das älteste Museum Australiens und konzentr
 Wenn sich das Wetter schließlich wieder verbessert, sollte man unbedingt an die Pazifikküste gehen, um Wale zu sichten. Vor allem am Winteranfang (zwischen Mai und Juni) kommen hier tausende Buckelwale vorbei, die auf dem Weg in Richtung Norden sind. Die Gelegenheit, diese majestätischen Tiere in ihrem natürlichen Lebensraum zu beobachten, ist ein unvergessliches Erlebnis. Empfehlen können wir dabei sehr den Bondi Beach. Von hier aus hat man gute Chancen, einen Blick auf die Giganten zu erhaschen.
 
 ## 11. Pubs
-Zuletzt, und als ideales Abendprogramm (oder auch für den späteren Nachmittag geeignet), gibt es einige sehr tolle und gemütliche Pubs. Diese Pubs bieten nicht nur eine warme Atmosphäre, sondern auch eine Vielzahl von Getränken und Speisen, die einen entspannten Abend perfekt abrunden. Wir konnten natürlich nicht alle testen, aber [in diesem Artikel](https://www.timeout.com/sydney/bars/the-best-pubs-with-fireplaces-in-sydney) findest du einen guten Überblick über die Pubs in Syndey.
+Zuletzt, und als ideales Abendprogramm (oder auch für den späteren Nachmittag geeignet), gibt es einige sehr tolle und gemütliche Pubs. Diese Pubs bieten nicht nur eine warme Atmosphäre, sondern auch eine Vielzahl von Getränken und Speisen, die einen entspannten Abend perfekt abrunden. Wir konnten natürlich nicht alle testen, aber [in diesem Artikel](https://www.timeout.com/sydney/bars/the-best-pubs-with-fireplaces-in-sydney){:target="_blank"} findest du einen guten Überblick über die Pubs in Syndey.
 
-Hast du noch Fragen oder weitere Ideen für Sydney im Winter? Schreib uns gerne auf [Instagram](https://instagram.com/onememorypermile).
+Hast du noch Fragen oder weitere Ideen für Sydney im Winter? Schreib uns gerne auf [Instagram](https://instagram.com/onememorypermile){:target="_blank"}.
 
 Viel Spaß in Sydney und bis bald !
 <p class="signature">Pati</p>
