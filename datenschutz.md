@@ -106,7 +106,7 @@ Auf unserer Website wird ein Plugin eingebunden, welches unsere Fotos zeigt, die
 
 Das Plugin speichert keine personenbezogenen Daten. Es kann allerdings sein, dass deine IP-Adresse auf dem Server von Instagram gespeichert wird. Wir binden unsere Instagram-Bilder auf unserer Website ein, um unsere Leser über unsere aktuellen Reiseziele auf dem Laufenden zu halten. Außerdem dient die Darstellung unserer Instagram-Bilder einer bestmöglichen und vollständigen Darstellung unserer Reiseinhalte. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar. 
 
-Weitere Informationen zum Umgang mit Nutzerdaten findest du in der Datenschutzerklärung von Instagram unter: https://help.instagram.com/155833707900388. 
+Weitere Informationen zum Umgang mit Nutzerdaten findest du in der [Datenschutzerklärung von Instagram](https://help.instagram.com/155833707900388){:target="_blank"}. 
 
 ## 5. Analysetools und Werbung 
 
@@ -160,7 +160,7 @@ Sie können die Speicherung von Cookies auch von vornherein durch eine entsprech
 a. Ihre Einwilligung in das Setzen des Cookies nicht erteilen oder 
 b. das Browser-Add-on zur Deaktivierung von Google Analytics [HIER](https://tools.google.com/dlpage/gaoptout?hl=de){:target="_blank"} herunterladen und installieren. 
 
-Nähere Informationen zu Nutzungsbedingungen von Google Analytics und zum Datenschutz bei Google finden Sie unter https://marketingplatform.google.com/about/analytics/terms/de/ und unter https://policies.google.com/?hl=de. 
+Nähere Informationen zu Nutzungsbedingungen von Google Analytics und zum Datenschutz bei Google finden Sie unter den [Nutzungsbedingungen für Google Analytics](https://marketingplatform.google.com/about/analytics/terms/de/){:target="_blank"} und unter der [Datenschutzerklärung und Nutzungsbedingungen von Google](https://policies.google.com/?hl=en){:target="_blank"}.
 
 #### Auftragsdatenverarbeitung 
 Wir haben mit Google einen Vertrag zur Auftragsdatenverarbeitung abgeschlossen und setzen die Vorgaben der österreichischen Datenschutzbehörde bei der Nutzung von Google Analytics vollständig um. 
@@ -181,7 +181,7 @@ Wir nutzen den Dienst MailerLite, um unseren Newsletter zu versenden und die Int
 
 Die Verarbeitung erfolgt auf Grundlage deiner Einwilligung, die du beim Abonnieren des Newsletters erteilst. Du kannst deine Einwilligung jederzeit widerrufen, indem du den Abmeldelink im Newsletter verwendest oder uns direkt kontaktierst.
 
-Weitere Informationen zum Datenschutz bei MailerLite findest du in deren Datenschutzerklärung: https://www.mailerlite.com/privacy-policy.
+Weitere Informationen zum Datenschutz bei MailerLite findest du in deren [Datenschutzerklärung](https://www.mailerlite.com/privacy-policy){:target="_blank"}.
 
 ## 6. Links
 
@@ -206,7 +206,7 @@ Wenn du eine unserer mit einer Google Map ausgestatteten Seiten besuchst, wird d
 
 Wir binden Google Maps ein, um unsere Reisetipps zu visualisieren und unseren Lesern die Reiseplanung mithilfe interaktiver Karten bestmöglich zu erleichtern. Die Einbindung von Google Maps auf unserer Website stellt somit ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar. 
 
-Weitere Informationen zum Umgang mit Nutzerdaten findest du in der Datenschutzerklärung von Google unter: https://www.google.de/intl/de/policies/privacy.      
+Weitere Informationen zum Umgang mit Nutzerdaten findest du in der [Datenschutzerklärung von Google](https://www.google.de/intl/de/policies/privacy){:target="_blank"}.      
 
 #### Google Fonts
 
@@ -216,6 +216,6 @@ Zu diesem Zweck muss der von Ihnen verwendete Browser Verbindung zu den Servern 
 
 Wenn Ihr Browser Google Fonts nicht unterstützt, wird eine Standardschrift von Ihrem Computer genutzt.
 
-Weitere Informationen zu Google Fonts finden Sie unter https://developers.google.com/fonts/faq und in der Datenschutzerklärung von Google: https://policies.google.com/privacy?hl=de.
+Weitere Informationen zu Google Fonts finden Sie in den [FAQ's](https://developers.google.com/fonts/faq){:target="_blank"} und in der [Datenschutzerklärung](https://policies.google.com/privacy?hl=de){:target="_blank"} von Google.
 
-Das Unternehmen verfügt über eine Zertifizierung nach dem „EU-US Data Privacy Framework“ (DPF). Der DPF ist ein Übereinkommen zwischen der Europäischen Union und den USA, der die Einhaltung europäischer Datenschutzstandards bei Datenverarbeitungen in den USA gewährleisten soll. Jedes nach dem DPF zertifizierte Unternehmen verpflichtet sich, diese Datenschutzstandards einzuhalten. Weitere Informationen hierzu erhalten Sie vom Anbieter unter folgendem Link: https://www.dataprivacyframework.gov/s/participant-search/participant-detail?contact=true&id=a2zt000000001L5AAI&status=Active
+Das Unternehmen verfügt über eine Zertifizierung nach dem „EU-US Data Privacy Framework“ (DPF). Der DPF ist ein Übereinkommen zwischen der Europäischen Union und den USA, der die Einhaltung europäischer Datenschutzstandards bei Datenverarbeitungen in den USA gewährleisten soll. Jedes nach dem DPF zertifizierte Unternehmen verpflichtet sich, diese Datenschutzstandards einzuhalten. Weitere Informationen hierzu erhalten Sie vom Anbieter unter diesem [Link](https://www.dataprivacyframework.gov/s/participant-search/participant-detail?contact=true&id=a2zt000000001L5AAI&status=Active){:target="_blank"} .

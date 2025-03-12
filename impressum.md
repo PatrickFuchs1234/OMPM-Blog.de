@@ -8,7 +8,8 @@ seo:
   hide-from-google: false
 ---
 ## Kontaktdaten
-Jennifer Wohlfahrtstätter und Patrick Fuchs: hello@onememorypermile.com 
+Jennifer Wohlfahrtstätter und Patrick Fuchs
+<br><br>
 
-Website: https://onememorypermile.com
-E-Mail: hello@onememorypermile.com
+**Website:** https://onememorypermile.com <br>
+**E-Mail:** hello@onememorypermile.com
