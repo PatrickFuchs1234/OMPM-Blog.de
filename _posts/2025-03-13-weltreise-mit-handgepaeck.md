@@ -8,9 +8,9 @@ categories: ['Reisetipps', 'Low Budget']
 featured_image: /images/usa/usa-featured.jpg
 seo:
   title: 'Weltreise mit Handgepäck: Der perfekte Rucksack und unsere Packliste'
-  description: 'Erlebe New York City ohne hohe Ausgaben. Entdecke 14 spannende Sehenswürdigkeiten und Highlights, die du völlig kostenlos genießen kannst.'
+  description: 'Entdecke die Vorteile einer Weltreise mit Handgepäck, finde den perfekten Rucksack und sieh dir unsere Packliste an, die für eine minimalistische Reise mit wenig Gepäck optimiert ist.'
   social_image: /images/usa/usa-featured.jpg
-  keywords: 'Low Budget Reisen, günstige Aktivitäten in New York, New York City Sehenswürdigkeiten gratis, preiswert reisen NYC, kostenlose Unternehmungen New York'
+  keywords: 'Weltreise mit Handgepäck, Packliste für Handgepäck, Handgepäck, Packliste, Handgepäck Packliste, Reisen mit Handgepäck, 7kg Handgepäck, Backpacking Packliste, Rucksackreisen, Rucksack für Weltreise, Reisen mit leichtem Gepäck'
   hide-from-google: false
 ---
 
@@ -30,18 +30,18 @@ Nachdem wir also den perfekten Rucksack gefunden hatten, stellten wir uns die wi
 > **Top-Tipp:** Wir verwenden Packing Cubes, die unsere Kleidung kompakt und an einem Platz halten. So lässt sich auch in einem Rucksack - einigermaßen - Ordnung halten.
 
 ### Kleidung Jenny:
-1 Pulli
-1 Regenjacke 
-5 Shirts
-1 Kleid
-1 Bluse
-2 kurze Hosen
-2 lange Hosen (Jogginghose und Jeans)
-1 Pyjama
-1 Bikini
-5 Paar Socken 
-10 Unterhosen
-4 BH’s
+- 1 Pulli
+- 1 Regenjacke 
+- 5 Shirts
+- 1 Kleid
+- 1 Bluse
+- 2 kurze Hosen
+- 2 lange Hosen (Jogginghose und Jeans)
+- 1 Pyjama
+- 1 Bikini
+- 5 Paar Socken 
+- 10 Unterhosen
+- 4 BH’s
 
 ### Kleidung Pati:
 1 Pulli
