@@ -27,6 +27,7 @@ Nach all diesen Überlegungen stellte sich nun die nächste Frage: Welche Rucksa
 
 ## Handgepäcks-Packliste für die Weltreise
 Nachdem wir also den perfekten Rucksack gefunden hatten, stellten wir uns die wichtigste Frage: Was kommt hinein? Da wir hauptsächlich im Sommer und in tropischen Regionen unterwegs waren, packten wir nur sehr leichte Kleidung ein. Um mit möglichst wenig Gewicht auszukommen und trotzdem alles Wichtige dabei zu haben, optimierten wir unsere Packliste. In diesem Beitrag teilen wir mit euch unsere optimierte Packliste für eine Weltreise mit Handgepäck, damit auch ihr bestens für euer nächstes Abenteuer vorbereitet seid.
+
 > **Top-Tipp:** Wir verwenden Packing Cubes, die unsere Kleidung kompakt und an einem Platz halten. So lässt sich auch in einem Rucksack - einigermaßen - Ordnung halten.
 
 ### Kleidung Jenny:
@@ -113,6 +114,7 @@ Nachdem wir also den perfekten Rucksack gefunden hatten, stellten wir uns die wi
 - Internationaler Führerschein
 - Geldtasche
 - Kreditkarte
+
 > **Top-Tipp:** Als Reise-Kreditkarten haben wir die Karten von Revolut und N26 genutzt und können beide wirklich sehr empfehlen. 
 
 ### Schuhe:
