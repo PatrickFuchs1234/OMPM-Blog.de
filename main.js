@@ -87,4 +87,10 @@ document.addEventListener("DOMContentLoaded", function () {
       // Setze die Farbe des SVG-Pfades auf die Hintergrundfarbe der vorhergehenden Section
       curvePath.setAttribute('fill', bgColor);
   }
-})
+});
+
+// ig content blocker
+function loadInstagram() {
+  document.getElementById("instagram-placeholder").style.display = "none";
+  document.getElementById("instagram-content").style.display = "block";
+}

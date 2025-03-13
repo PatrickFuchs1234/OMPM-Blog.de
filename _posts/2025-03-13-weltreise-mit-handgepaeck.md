@@ -3,7 +3,7 @@ published: false
 layout: post-with-sidebar
 title: 'Weltreise mit Handgepäck: Der perfekte Rucksack und unsere Packliste'
 author: Pati
-date: 2025-03-13 10:00:00
+date: 2025-03-12 10:00:00
 categories: ['Reisetipps', 'Low Budget']
 featured_image: /images/usa/usa-featured.jpg
 seo:
@@ -26,6 +26,19 @@ Nach der Entscheidung, mit Handgepäck zu reisen, stellte sich die Frage, ob wir
 Nach all diesen Überlegungen stellte sich nun die nächste Frage: Welche Rucksackgröße ist die richtige? Wir entschieden uns für einen 40-Liter-Rucksack, da dieser laut unseren Recherchen bei den meisten Airlines noch problemlos als Handgepäck durchgeht. Neben der Größe spielte auch das Gewicht eine entscheidende Rolle, da viele Airlines mittlerweile strenge Vorgaben haben. Zudem sollte der Rucksack qualitativ hochwertig und gleichzeitig erschwinglich sein. 
 
 Nach langer Suche landeten wir schließlich bei Decathlon und entschieden uns für den 40-Liter-Bergwander-Rucksack von *QUECHUA*. Besonders wichtig war uns dabei, dass man den Rucksack nicht nur von oben, sondern auch von vorne öffnen konnte – ein entscheidender Vorteil beim Reisen.
+
+<div id="instagram-placeholder" class="grid-middle padded">
+  <div class="col-12 center">
+    <p>Externe Inhalte von Instagram anzeigen?</p>
+    <div class="button3" onclick="loadInstagram()">Ja, laden</div>
+  </div>
+</div>
+
+<div id="instagram-content" style="display: none;">
+  <iframe class="instagram-media instagram-media-rendered" id="instagram-embed-0" src="https://www.instagram.com/p/DAsWLZ3iNPw/embed/?cr=1&amp;v=14&amp;rd=http%3A%2F%2F127.0.0.1%3A4000&amp;rp=%2Fposts%2Fweltreise-mit-handgepaeck#%7B%22ci%22%3A0%2C%22os%22%3A845%2C%22ls%22%3A281%2C%22le%22%3A787%7D" allowtransparency="true" allowfullscreen="true" frameborder="0" height="613" data-instgrm-payload-id="instagram-media-payload-0" scrolling="no" style="max-width: 540px; background-color: white; border-radius: 3px; border: 1px solid rgb(219, 219, 219); box-shadow: none; display: block; margin: auto; min-width: 326px; padding: 0px;"></iframe> 
+  <script async="" src="https://www.instagram.com/embed.js"></script>
+</div>
+
 
 ## Handgepäcks-Packliste für die Weltreise
 Nachdem wir also den perfekten Rucksack gefunden hatten, stellten wir uns die wichtigste Frage: Was kommt hinein? Da wir hauptsächlich im Sommer und in tropischen Regionen unterwegs waren, packten wir nur sehr leichte Kleidung ein. Um mit möglichst wenig Gewicht auszukommen und trotzdem alles Wichtige dabei zu haben, optimierten wir unsere Packliste. In diesem Beitrag teilen wir unsere optimierte Packliste für eine Weltreise mit Handgepäck, damit auch du bestens für dein nächstes Abenteuer vorbereitet bist.

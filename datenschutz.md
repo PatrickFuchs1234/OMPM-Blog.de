@@ -99,14 +99,21 @@ Die Inhalte auf unseren Seiten können datenschutzkonform in sozialen Netzwerken
 
 Es erfolgt keine automatische Übertragung von Nutzerdaten an die Betreiber dieser Plattformen. Wenn du als Nutzer bei einem der sozialen Netzwerke angemeldet bist, erscheint bei der Nutzung der Social-Media-Buttons von Instagram, Facebook, Google+, Twitter & Pinterest auf unserer Website ein Informationsfenster, in welchem du den Text vor dem Absenden bestätigen kannst. 
 
-Wir nutzen auf unserer Website keine Plugins, die von den Social-Media-Plattformen zur Verfügung gestellt werden. Unsere Nutzer können die Inhalte unserer Website somit datenschutzkonform in sozialen Netzwerken teilen, ohne dass komplette Surf-Profile durch die Betreiber der Netzwerke erstellt werden. 
+Wir nutzen auf unserer Website keine Plugins, die von den Social-Media-Plattformen zur Verfügung gestellt werden. Unsere Nutzer können die Inhalte unserer Website somit datenschutzkonform in sozialen Netzwerken teilen, ohne dass komplette Surf-Profile durch die Betreiber der Netzwerke erstellt werden.
 
-#### Instagram 
-Auf unserer Website wird ein Plugin eingebunden, welches unsere Fotos zeigt, die wir auf der Social-Media-Plattform Instagram gepostet haben. Anbieter von Instagram ist die Instagram Inc., 1601 Willow Road, Menlo Park, CA 94025, USA. 
+#### Einbindung von Instagram Reels
 
-Das Plugin speichert keine personenbezogenen Daten. Es kann allerdings sein, dass deine IP-Adresse auf dem Server von Instagram gespeichert wird. Wir binden unsere Instagram-Bilder auf unserer Website ein, um unsere Leser über unsere aktuellen Reiseziele auf dem Laufenden zu halten. Außerdem dient die Darstellung unserer Instagram-Bilder einer bestmöglichen und vollständigen Darstellung unserer Reiseinhalte. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar. 
+Unsere Website nutzt eingebettete Inhalte von Instagram (Meta Platforms Ireland Ltd.), um Ihnen interessante Inhalte direkt anzuzeigen.
 
-Weitere Informationen zum Umgang mit Nutzerdaten findest du in der [Datenschutzerklärung von Instagram](https://help.instagram.com/155833707900388){:target="_blank"}. 
+Wir setzen dabei eine Zwei-Klick-Lösung ein:
+
+Standardmäßig werden keine Instagram-Inhalte geladen.
+Erst wenn Sie aktiv auf „Inhalt laden“ klicken, wird eine Verbindung zu den Instagram-Servern hergestellt. Dabei können personenbezogene Daten (z. B. IP-Adresse, Browser-Daten) an Meta übermittelt werden.
+Falls Sie den Inhalt nicht laden, findet keine Datenübertragung an Instagram statt.
+Die Rechtsgrundlage für diese Datenverarbeitung ist Ihre Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO. Sie können Ihre Entscheidung jederzeit durch Neuladen der Seite anpassen.
+
+Weitere Informationen zur Datenverarbeitung durch Instagram finden Sie hier:
+https://privacycenter.instagram.com/policy
 
 ## 5. Analysetools und Werbung 
 
