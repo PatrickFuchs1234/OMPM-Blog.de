@@ -44,86 +44,86 @@ Nachdem wir also den perfekten Rucksack gefunden hatten, stellten wir uns die wi
 - 4 BH’s
 
 ### Kleidung Pati:
-1 Pulli
-1 Regenjacke 
-6 Shirts
-1 Hemd
-2 kurze Hosen
-2 lange Hosen (Jogginghose und Jeans)
-1 Pyjama
-1 Badehose
-5 Paar Socken 
-10 Unterhosen
+- 1 Pulli
+- 1 Regenjacke 
+- 6 Shirts
+- 1 Hemd
+- 2 kurze Hosen
+- 2 lange Hosen (Jogginghose und Jeans)
+- 1 Pyjama
+- 1 Badehose
+- 5 Paar Socken 
+- 10 Unterhosen
 
 ### Kulturbeutel:
-Zahnbürste
-Zahnpasta
-Haarbürste
-Shampoo
-Conditioner
-Gesichtswaschgel
-Deo
-Haargummis
-Rasierer
-Nagelschere, -klips, -feile
-Pinzette
-Sonnencreme
-Moskitospray
-Tampons 
-Wimperntusche
-Schmuck
+- Zahnbürste
+- Zahnpasta
+- Haarbürste
+- Shampoo
+- Conditioner
+- Gesichtswaschgel
+- Deo
+- Haargummis
+- Rasierer
+- Nagelschere, -klips, -feile
+- Pinzette
+- Sonnencreme
+- Moskitospray
+- Tampons 
+- Wimperntusche
+- Schmuck
 
 > **Top-Tipp:** Wir haben Shampoo, Conditioner, Sonnencreme und manchmal Hautcreme meist am Anfang in einem Land gekauft und nach einiger Zeit und vor einem Flug in kleinere Behälter umgefüllt. 
 
 ### Reiseapotheke*:
-Tabletten gegen Reiseübelkeit
-Elotrans bzw. Durchfallmedikamente
-Nasenspray
-Schmerztabletten (Ibuprofen und Paracetamol)**
-Bite-Away (für Insektenstiche - wir schwören darauf!)
-Pflaster
-Cortison-Salbe
-Antihistaminikum (gegen allergische Reaktionen)
-Malariamedikamente (bei Reisen in entlegene Malaria-Gebiete)
+- Tabletten gegen Reiseübelkeit
+- Elotrans bzw. Durchfallmedikamente
+- Nasenspray
+- Schmerztabletten (Ibuprofen und Paracetamol)**
+- Bite-Away (für Insektenstiche - wir schwören darauf!)
+- Pflaster
+- Cortison-Salbe
+- Antihistaminikum (gegen allergische Reaktionen)
+- Malariamedikamente (bei Reisen in entlegene Malaria-Gebiete)
 
 *Das ist das, was wir dabei hatten - natürlich ist es immer am besten, sich vor einer Reise ärztlich beraten zu lassen!
 **Achtung: Vor allem in Asien sollte man auf keinen Fall Aspirin / Mexalen (bzw. blutverdünnende Medikamente) aufgrund der dort vorherrschenden Tropenkrankheiten einnehmen.
 
 ### Sonstiges:
-leichter Schal
-Bauchtasche
-Hüttenschlafsack bzw. Schlafsack-Inlett
-Reisehandtuch / Mikrofaserhandtuch 
-Handy & Ladekabel
-Kamera
-Ohrstöpsel / Ohropax
-Kopfhörer 
-Kugelschreiber
-Sonnenbrille
-Hut
-Regenschirm
-Trinkflasche (du kannst fast überall Trinkwasser auffüllen)
+- leichter Schal
+- Bauchtasche
+- Hüttenschlafsack bzw. Schlafsack-Inlett
+- Reisehandtuch / Mikrofaserhandtuch 
+- Handy & Ladekabel
+- Kamera
+- Ohrstöpsel / Ohropax
+- Kopfhörer 
+- Kugelschreiber
+- Sonnenbrille
+- Hut
+- Regenschirm
+- Trinkflasche (du kannst fast überall Trinkwasser auffüllen)
 
 > **Top-Tipp:** Für den Besuch religiöser Stätten eignet sich ein Schal perfekt, um die Schultern zu bedecken. Meist müssen auch die Knie bedeckt sein, wofür sich der Schal ebenfalls verwenden lässt.
 
 ### Dokumente und Co:
-Reisepass
-zusätzliche Passfotos
-Impfpass
-Internationaler Führerschein
-Geldtasche
-Kreditkarte
+- Reisepass
+- zusätzliche Passfotos
+- Impfpass
+- Internationaler Führerschein
+- Geldtasche
+- Kreditkarte
 > **Top-Tipp:** Als Reise-Kreditkarten haben wir die Karten von Revolut und N26 genutzt und können beide wirklich sehr empfehlen. 
 
 ### Schuhe:
-1 Paar offene Schuhe oder Flip Flops
-1 Paar Allround Schuhe für Sport und Freizeit
+- 1 Paar offene Schuhe oder Flip Flops
+- 1 Paar Allround Schuhe für Sport und Freizeit
 
 ### Beim Reisen davon anziehen:
-Pulli
-Regenjacke
-deine schwerste Hose
-die schwersten Schuhe 
+- Pulli
+- Regenjacke
+- deine schwerste Hose
+- die schwersten Schuhe 
 
 > **Top-Tipp:** Vergiss nicht: Wenn du mit Handgepäck reist, gibt es Flüssigkeitsbeschränkungen. Alle deine Flüssigkeiten müssen in einen 1L Beutel passen und jede einzelne Verpackung darf nicht mehr als 100ml Inhalt haben. Zudem musst du immer vorsichtig sein mit Nagelschere und Nagelfeile - da es eine Beschränkung für Klingenlängen in Flugzeugen gibt und Spitze Gegenstände nicht gern gesehen werde (wir haben unsere Nagelschere allerdings erst nach einem Jahr bei einer Kontrolle abgeben müssen, die Nagelfeile haben wir heute noch dabei). 
 
