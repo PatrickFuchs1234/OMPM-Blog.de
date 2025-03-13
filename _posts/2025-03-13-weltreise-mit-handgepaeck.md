@@ -3,14 +3,14 @@ published: false
 layout: post-with-sidebar
 title: 'Weltreise mit Handgepäck: Der perfekte Rucksack und unsere Packliste'
 author: Pati
-date: 2025-03-12 10:00:00
+date: 2025-03-13 10:00:00
 categories: ['Reisetipps', 'Low Budget']
 featured_image: /images/usa/usa-featured.jpg
 seo:
   title: 'Weltreise mit Handgepäck: Der perfekte Rucksack und unsere Packliste'
   description: 'Entdecke die Vorteile einer Weltreise mit Handgepäck, finde den perfekten Rucksack und sieh dir unsere Packliste an, die für eine minimalistische Reise mit wenig Gepäck optimiert ist.'
   social_image: /images/usa/usa-featured.jpg
-  keywords: 'Weltreise mit Handgepäck, Packliste für Handgepäck, Handgepäck, Packliste, Handgepäck Packliste, Reisen mit Handgepäck, 7kg Handgepäck, Backpacking Packliste, Rucksackreisen, Rucksack für Weltreise, Reisen mit leichtem Gepäck'
+  keywords: 'Weltreise mit Handgepäck, Packliste für Handgepäck, Handgepäck, Packliste, Handgepäck Packliste, Reisen mit Handgepäck, 7kg Handgepäck, Packliste für Weltreise, Rucksack für Weltreise, Reisen mit leichtem Gepäck'
   hide-from-google: false
 ---
 
@@ -23,14 +23,18 @@ Das Reisen mit Handgepäck bietet einige Vorteile – vor allem der Kostenaspekt
 Nach der Entscheidung, mit Handgepäck zu reisen, stellte sich die Frage, ob wir lieber einen Koffer oder einen Rucksack benutzen sollten. Nach einigem Überlegen entschieden wir uns schließlich für einen Rucksack, da dieser bereits im Eigengewicht deutlich leichter ist als ein Koffer – und beim Reisen mit Handgepäck kommt es oft auf jedes Gramm an. Zudem spazierten wir auf unseren Reisen durch Asien häufig über Stock und Stein, um zu unserer Unterkunft zu gelangen, oder besichtigten noch vor dem Einchecken Sehenswürdigkeiten. Mit einem Rucksack fiel uns das deutlich leichter.
 
 ## Der perfekte Rucksack für die Weltreise
-Nach all diesen Überlegungen stellte sich nun die nächste Frage: Welche Rucksackgröße ist die richtige? Wir entschieden uns für einen 40-Liter-Rucksack, da dieser laut unseren Recherchen bei den meisten Airlines noch problemlos als Handgepäck durchgeht. Neben der Größe spielte auch das Gewicht eine entscheidende Rolle, da viele Airlines mittlerweile strenge Vorgaben haben. Zudem sollte der Rucksack qualitativ hochwertig und gleichzeitig erschwinglich sein. Nach langer Suche landeten wir schließlich bei Decathlon und entschieden uns für den 40-Liter-Bergwander-Rucksack von *QUECHUA*. Besonders wichtig war uns dabei, dass man den Rucksack nicht nur von oben, sondern auch von vorne öffnen konnte – ein entscheidender Vorteil beim Reisen.
+Nach all diesen Überlegungen stellte sich nun die nächste Frage: Welche Rucksackgröße ist die richtige? Wir entschieden uns für einen 40-Liter-Rucksack, da dieser laut unseren Recherchen bei den meisten Airlines noch problemlos als Handgepäck durchgeht. Neben der Größe spielte auch das Gewicht eine entscheidende Rolle, da viele Airlines mittlerweile strenge Vorgaben haben. Zudem sollte der Rucksack qualitativ hochwertig und gleichzeitig erschwinglich sein. 
+
+Nach langer Suche landeten wir schließlich bei Decathlon und entschieden uns für den 40-Liter-Bergwander-Rucksack von *QUECHUA*. Besonders wichtig war uns dabei, dass man den Rucksack nicht nur von oben, sondern auch von vorne öffnen konnte – ein entscheidender Vorteil beim Reisen.
 
 ## Handgepäcks-Packliste für die Weltreise
-Nachdem wir also den perfekten Rucksack gefunden hatten, stellten wir uns die wichtigste Frage: Was kommt hinein? Da wir hauptsächlich im Sommer und in tropischen Regionen unterwegs waren, packten wir nur sehr leichte Kleidung ein. Um mit möglichst wenig Gewicht auszukommen und trotzdem alles Wichtige dabei zu haben, optimierten wir unsere Packliste. In diesem Beitrag teilen wir mit euch unsere optimierte Packliste für eine Weltreise mit Handgepäck, damit auch ihr bestens für euer nächstes Abenteuer vorbereitet seid.
+Nachdem wir also den perfekten Rucksack gefunden hatten, stellten wir uns die wichtigste Frage: Was kommt hinein? Da wir hauptsächlich im Sommer und in tropischen Regionen unterwegs waren, packten wir nur sehr leichte Kleidung ein. Um mit möglichst wenig Gewicht auszukommen und trotzdem alles Wichtige dabei zu haben, optimierten wir unsere Packliste. In diesem Beitrag teilen wir unsere optimierte Packliste für eine Weltreise mit Handgepäck, damit auch du bestens für dein nächstes Abenteuer vorbereitet bist.
+
+Die komplette Packliste gibt es hier auch als <a href="/downloads/handegepaeck-packliste.pdf" download>Download</a>! Lade sie herunter, druck sie aus und nutze sie als praktische Orientierung für deine Reise. 
 
 > **Top-Tipp:** Wir verwenden Packing Cubes, die unsere Kleidung kompakt und an einem Platz halten. So lässt sich auch in einem Rucksack - einigermaßen - Ordnung halten.
 
-### Kleidung Jenny:
+### Kleidung für Jenny:
 - 1 Pulli
 - 1 Regenjacke 
 - 5 Shirts
@@ -44,7 +48,7 @@ Nachdem wir also den perfekten Rucksack gefunden hatten, stellten wir uns die wi
 - 10 Unterhosen
 - 4 BH’s
 
-### Kleidung Pati:
+### Kleidung für Pati:
 - 1 Pulli
 - 1 Regenjacke 
 - 6 Shirts
@@ -76,7 +80,7 @@ Nachdem wir also den perfekten Rucksack gefunden hatten, stellten wir uns die wi
 
 > **Top-Tipp:** Wir haben Shampoo, Conditioner, Sonnencreme und manchmal Hautcreme meist am Anfang in einem Land gekauft und nach einiger Zeit und vor einem Flug in kleinere Behälter umgefüllt. 
 
-### Reiseapotheke*:
+### Reiseapotheke:*
 - Tabletten gegen Reiseübelkeit
 - Elotrans bzw. Durchfallmedikamente
 - Nasenspray
@@ -88,10 +92,12 @@ Nachdem wir also den perfekten Rucksack gefunden hatten, stellten wir uns die wi
 - Malariamedikamente (bei Reisen in entlegene Malaria-Gebiete)
 
 *Das ist das, was wir dabei hatten - natürlich ist es immer am besten, sich vor einer Reise ärztlich beraten zu lassen!
+
 **Achtung: Vor allem in Asien sollte man auf keinen Fall Aspirin / Mexalen (bzw. blutverdünnende Medikamente) aufgrund der dort vorherrschenden Tropenkrankheiten einnehmen.
 
+
 ### Sonstiges:
-- leichter Schal
+- Leichter Schal
 - Bauchtasche
 - Hüttenschlafsack bzw. Schlafsack-Inlett
 - Reisehandtuch / Mikrofaserhandtuch 
@@ -121,18 +127,20 @@ Nachdem wir also den perfekten Rucksack gefunden hatten, stellten wir uns die wi
 - 1 Paar offene Schuhe oder Flip Flops
 - 1 Paar Allround Schuhe für Sport und Freizeit
 
+ 
 ### Beim Reisen davon anziehen:
 - Pulli
 - Regenjacke
 - deine schwerste Hose
 - die schwersten Schuhe 
 
-> **Top-Tipp:** Vergiss nicht: Wenn du mit Handgepäck reist, gibt es Flüssigkeitsbeschränkungen. Alle deine Flüssigkeiten müssen in einen 1L Beutel passen und jede einzelne Verpackung darf nicht mehr als 100ml Inhalt haben. Zudem musst du immer vorsichtig sein mit Nagelschere und Nagelfeile - da es eine Beschränkung für Klingenlängen in Flugzeugen gibt und Spitze Gegenstände nicht gern gesehen werde (wir haben unsere Nagelschere allerdings erst nach einem Jahr bei einer Kontrolle abgeben müssen, die Nagelfeile haben wir heute noch dabei). 
+> **Top-Tipp:** Vergiss nicht: Wenn du mit Handgepäck reist, gibt es **Flüssigkeitsbeschränkungen**. Alle deine Flüssigkeiten müssen in einen 1L Beutel passen und jede einzelne Verpackung darf nicht mehr als 100ml Inhalt haben. Zudem musst du immer vorsichtig sein mit **Nagelschere und Nagelfeile** - da es eine Beschränkung für Klingenlängen in Flugzeugen gibt und Spitze Gegenstände nicht gern gesehen werde (wir haben unsere Nagelschere allerdings erst nach einem Jahr bei einer Kontrolle abgeben müssen, die Nagelfeile haben wir heute noch dabei). 
 
 Zusätzliche Passfotos werden von vielen für längere Reisen empfohlen (für Visum, SIM-Karten etc.) und sind deshalb auch auf unserer Liste enthalten. Auf unserer Reise haben wir die Fotos jedoch nie gebraucht. Fotos für etwaige Registrierungen werden mittlerweile fast überall mit dem Smartphone gemacht.
-Auch das Gewicht des Handgepäcks spielt eine Rolle beim Fliegen. Achte also immer darauf, wie viel dein Gepäckstück wiegen darf. Bei den meisten Airlines gibt es 7-kg- oder 10-kg-Beschränkungen. Unsere Packliste ist auf 7 bis 8 Kilo ausgelegt.
-Neben unserem 40-Liter-Rucksack haben wir noch jeweils einen superkleinen 10-Liter-Rucksack als Personal Item, der beim Fliegen unter den Vordersitz passt. Meistens wurde dieser auch gar nicht mitgewogen. Darin hatten wir immer die schwersten Gegenstände, wie Laptop und Kamera.
-Natürlich solltest du die Packliste für deine Bedürfnisse und dein Reiseziel anpassen und eventuell auch ergänzen, um optimal für dein Ziel ausgestattet zu sein.
+
+Auch das Gewicht des Handgepäcks spielt eine Rolle beim Fliegen. Achte also immer darauf, wie viel dein Gepäckstück wiegen darf. Bei den meisten Airlines gibt es 7-kg- oder 10-kg-Beschränkungen. Unsere Packliste ist auf 7 bis 8 Kilo ausgelegt. 
+
+Neben unserem 40-Liter-Rucksack haben wir noch jeweils einen superkleinen 10-Liter-Rucksack als Personal Item, der beim Fliegen unter den Vordersitz passt. Meistens wurde dieser auch gar nicht mitgewogen. Darin hatten wir immer die schwersten Gegenstände, wie Laptop und Kamera. Natürlich solltest du die Packliste für deine Bedürfnisse und dein Reiseziel anpassen und eventuell auch ergänzen, um optimal für dein Ziel ausgestattet zu sein.
 
 Hast du noch Fragen zu unserer Packliste? Schreib uns gerne auf [Instagram](https://instagram.com/onememorypermile){:target="_blank"}.
 
