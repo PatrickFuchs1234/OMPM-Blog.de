@@ -3,7 +3,7 @@ published: false
 layout: post-with-sidebar
 title: 'Weltreise mit Handgepäck: Der perfekte Rucksack und unsere Packliste'
 author: Pati
-date: 2025-03-16 10:00:00
+date: 2025-03-12 10:00:00
 categories: ['Reisetipps', 'Low Budget']
 featured_image: /images/usa/usa-featured.jpg
 seo:
